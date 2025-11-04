@@ -1,0 +1,298 @@
+{
+	"title": "Department of Physico-Chemical Problems of Metallurgical Processes",
+	"firstPersonCard": {
+		"id": "stepanenko",
+		"photo": "/employees/stepanenko.jpg",
+		"position": "Head of Department",
+		"name": "Stepanenko Dmytro Oleksandrovych",
+		"description": "Candidate of Technical Sciences",
+		"researchDirection": "Analytical and experimental studies of the properties (viscosity, electrical conductivity, melting temperatures, etc.), mineralogical and phase composition of metallurgical slags and their physico-chemical interaction with metallic melts and refractories. Study of the structure of oxide and slag melts. Justification and development of technological indicators of the slag regime in the production of pig iron and steel.",
+		"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys.",
+		"contacts": [
+			{
+				"type": "Email",
+				"value": "d.gorodenskiy@gmail.com"
+			},
+			{
+				"type": "ORCID ID",
+				"value": "https://orcid.org/0000-0002-0184-8295"
+			},
+			{
+				"type": "Google Scholar",
+				"value": "https://scholar.google.com.ua/citations?user=u-pZEKoAAAAJ"
+			},
+			{
+				"type": "Scopus Author ID",
+				"value": "https://www.scopus.com/authid/detail.uri?authorId=56974001300"
+			}
+		]
+	},
+	"activities": {
+		"items": [
+			"Development of the theory of physico-chemical modeling of multicomponent metallic and oxide systems, physico-chemical models of the structure of metallic and slag melts, study of the patterns of formation of their properties depending on the composition based on the parameters of interatomic interaction in them.",
+			"Study of the patterns of changes in the properties of metal products depending on the chemical composition and technology, which includes production, refining, modification and microalloying; description from unified methodological positions of the influence of the composition and conditions of production of metal products at different stages of processing on its quality; development of ways to optimize end-to-end production technologies and quality management of metal products.",
+			"Creation of an information support system for theoretical and applied metallurgy, including the creation, replenishment and updating of databases and data banks on the properties of charge materials, metallurgical melts and the results of their interaction based on the development of ideas from the theory of physico-chemical modeling.",
+			"Development of a methodology for creating models to predict the physico-chemical and technological properties of metallurgical melts based on the accumulated fund of experimental data.",
+			"Development of algorithmic and applied software for computer systems for the analysis of multidimensional arrays of experimental data in the information support systems of ASRD and ACS TP.",
+			"Development of computer systems for monitoring and managing the quality of pig iron and steel based on a comprehensive consideration of the physico-chemical and technological properties of melts."
+		]
+	},
+	"staffCards": [
+		{
+			"id": "tohobitska",
+			"photo": "/employees/tohobitska.jpg",
+			"position": "Leading Researcher",
+			"name": "Tohobitskaya Dariya Mykolaivna",
+			"description": "Professor, Doctor of Technical Sciences",
+			"researchDirection": "Methodological and theoretical foundations for optimizing metallurgical technologies based on the integrated use of mathematical and physico-chemical modeling. Creation of a knowledge base and intelligent decision support systems for managing metallurgical processes.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "dntog@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-884564"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6413-4823"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=NFNXbqIAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602585340"
+				}
+			]
+		},
+		{
+			"id": "hryshyn",
+			"photo": "/employees/hryshyn.jpg",
+			"position": "Senior Researcher",
+			"name": "Hryshyn Oleksandr Mykhailovych",
+			"description": "Associate Professor, Doctor of Technical Sciences",
+			"researchDirection": "Theoretical and experimental studies of solid-phase reduction processes of metals from their oxides.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys.",
+			"contacts": [
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com/citations?hl=uk&user=bseKcuwAAAAJ&view_op=list_works&sortby=pubdate"
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0009-0000-0665-1179"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55118646900 "
+				}
+			]
+		},
+		{
+			"id": "belkova",
+			"photo": "/employees/belkova.jpg",
+			"position": "Senior Researcher",
+			"name": "Bielkova Alla Ivanivna",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Information technologies. Physico-chemical and mathematical modeling of the properties of charge materials, their melts and the processes of their interaction, algorithmic support for metallurgical process control systems.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "alla2904b8@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-8519-9351"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=8JoI9noAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6506286433"
+				}
+			]
+		},
+
+		{
+			"id": "tsiupa",
+			"photo": "/employees/tsiupa.jpg",
+			"position": "Senior Researcher",
+			"name": "Tsiupa Nataliia Oleksandrivna",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Influence of alkalis on the properties of oxide systems and their melts. Modeling of the processes of interaction of alkaline compounds in the 'slag-metal-gas-lining' systems.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "tysya6669@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-0682-461X"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=OSMX5ncAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57203586351"
+				}
+			]
+		},
+		{
+			"id": "povorotnia",
+			"photo": "/employees/povorotnia.jpg",
+			"position": "Senior Researcher",
+			"name": "Povorotnia Iryna Romanivna",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Study of the distribution processes and efficiency of assimilation of alloying elements in the 'metal-slag-gas' system. Improvement of technological methods for introducing additives into the metal melt in order to achieve their maximum degree of assimilation, improve steel quality indicators, reduce energy and raw material costs in steel smelting.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "iro4ka01091990@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-5872-7403"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=6jebBSwAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57222352527"
+				}
+			]
+		},
+		{
+			"id": "lisova",
+			"photo": "/employees/lisova.jpg",
+			"position": "Senior Researcher",
+			"name": "Lisova Lyudmyla Oleksandrivna",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Research of special smelting processes; thermodynamic calculations of the equilibrium state of the gas-slag-metal system; study of the structure and properties of slag melts.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys.",
+			"contacts": [
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com/citations?hl=uk&user=xNEAOkoAAAAJ"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6298-9115"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/inward/authorDetails.url?authorID=57200641385&partnerID=MN8TOARS"
+				}
+			]
+		},
+		{
+			"id": "likhachov",
+			"photo": "/employees/likhachov.jpg",
+			"position": "Researcher",
+			"name": "Likhachov Yurii Mykhailovych",
+			"researchDirection": "Development and creation of documentary-factographic and hierarchical databases, creation of software for optimizing metallurgical processes.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "lanchic327@i.ua"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=HKXghRQAAAAJ"
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0003-3168-7813"
+				}
+			]
+		},
+		{
+			"id": "khodotova",
+			"photo": "/employees/khodotova.jpg",
+			"position": "Junior Researcher",
+			"name": "Khodotova Nadiia Yevstakhivna",
+			"researchDirection": "Complex analysis of multidimensional experimental data on the properties of metallurgical systems and technological data and development of predictive models based on them.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isi-ofhp@ukr.net"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=5u71LRkAAAAJ"
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-6958-4636"
+				}
+			]
+		},
+
+		{
+			"id": "shevchenko-valentina-m",
+			"photo": "/employees/shevchenko-valentina-m.jpg",
+			"position": "Lead Engineer",
+			"name": "Shevchenko Valentyna Mykolaivna",
+			"researchDirection": "Analysis of multidimensional experimental data on the properties of metallurgical systems and technological data.",
+			"contacts": [
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0007-2089-6413"
+				}
+			]
+		},
+		{
+			"id": "bocharov",
+			"photo": "/employees/bocharov.jpg",
+			"position": "Lead Engineer",
+			"name": "Bocharov Anton Viktorovych",
+			"researchDirection": "Analysis of multidimensional experimental data on the properties of metallurgical systems and model development.",
+			"contacts": [
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0005-6975-4454"
+				}
+			]
+		},
+
+		{
+			"id": "kuksa",
+			"photo": "/employees/kuksa.jpg",
+			"position": "Researcher",
+			"name": "Kuksa Oleh Volodymyrovych",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Physico-chemical studies of metallurgical processes in oxidizing and reducing conditions using the methodology of interatomic interaction in metallurgical melts.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "olegsteelmaster@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-6268-0692"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=E4JMR08AAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57222352909"
+				}
+			]
+		}
+	]
+}

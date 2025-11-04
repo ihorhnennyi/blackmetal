@@ -1,0 +1,61 @@
+{
+	"subtitle": "Scientific and Technical Center",
+	"institute": "of the Institute of Ferrous Metallurgy of the National Academy of Sciences of Ukraine",
+	"description": "The Institute of Ferrous Metallurgy of the NAS of Ukraine hosts a Scientific and Technical Center for testing metal products, which has the equipment and specialists to conduct the following tests:",
+	"tests": [
+		"tensile tests at room and elevated (150...800°C) temperatures;",
+		"dynamic three-point bending at room, elevated, and reduced temperatures;",
+		"hardness tests by Brinell, Rockwell, Vickers methods;",
+		"microhardness;",
+		"fracture toughness K₁c;",
+		"weight wear and contact fatigue;",
+		"steel hardenability;",
+		"tests under cyclic loading;",
+		"microstructure studies with determination of grain size, layer thickness, phase composition, contamination by non-metallic inclusions;",
+		"corrosion resistance tests in a weakly aggressive environment with periodic immersion of samples in electrolyte;",
+		"other types of tests according to the center's field of authorization."
+	],
+	"certification": "Tests are carried out on verified and calibrated equipment with the issuance of protocols. The Scientific and Technical Center is accredited by the State Standard of Ukraine.",
+	"deputy": "Deputy Head of the Scientific and Technical Center:",
+	"deputyName": "Kononenko Hanna Andriivna",
+	"contacts": [
+		{
+			"type": "Phone",
+			"value": "+38(056) 790-05-14"
+		},
+		{
+			"type": "Phone",
+			"value": "+38(056) 790-57-84"
+		},
+		{
+			"type": "Email",
+			"value": "office.isi@nas.gov.ua"
+		}
+	],
+	"documents": [
+		{
+			"title": "Certificate of Authorization",
+			"link": "/Свідоцтво.jpg"
+		},
+		{
+			"title": "Field of Authorization",
+			"link": "/Галузь-1.jpg"
+		},
+		{
+			"title": "Field of Authorization 2",
+			"link": "/Галузь-2.jpg"
+		},
+		{
+			"title": "Price List",
+			"link": "/Прайс.pdf"
+		},
+		{
+			"title": "Certificate",
+			"link": "/Свідоцтво-про-уповноваження.pdf"
+		},
+		{
+			"title": "Field of Authorization 3",
+			"link": "/Галузь-уповноваження.pdf"
+		}
+	]
+}

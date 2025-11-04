@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Сертифікат -->
+  <rect x="10" y="12" width="28" height="40" rx="2" fill="#E0F2F1" stroke="#00695C" stroke-width="2"/>
+  <circle cx="24" cy="22" r="6" fill="#4CAF50" />
+  <path d="M20 22 l3 3 l5 -5" stroke="#fff" stroke-width="2" fill="none"/>
+
+  <!-- Стандартизація - лінійка -->
+  <rect x="44" y="12" width="10" height="40" fill="#CFD8DC" stroke="#455A64" stroke-width="2"/>
+  <line x1="44" y1="16" x2="54" y2="16" stroke="#90A4AE" stroke-width="1"/>
+  <line x1="44" y1="20" x2="54" y2="20" stroke="#90A4AE" stroke-width="1"/>
+  <line x1="44" y1="24" x2="54" y2="24" stroke="#90A4AE" stroke-width="1"/>
+  <line x1="44" y1="28" x2="54" y2="28" stroke="#90A4AE" stroke-width="1"/>
+  <line x1="44" y1="32" x2="54" y2="32" stroke="#90A4AE" stroke-width="1"/>
+  <line x1="44" y1="36" x2="54" y2="36" stroke="#90A4AE" stroke-width="1"/>
+
+  <!-- Продукт/коробка -->
+  <rect x="24" y="48" width="16" height="8" fill="#B0BEC5" stroke="#455A64" stroke-width="1.5"/>
+</svg>

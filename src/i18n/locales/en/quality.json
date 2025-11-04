@@ -1,0 +1,37 @@
+{
+	"title": "Department of Standardization and Product Quality Management",
+	"firstPersonCard": {
+		"id": "rybalka-yevheniia-mykhailivna",
+		"position": "Head of Department",
+		"name": "Rybalka Yevheniia Mykhailivna",
+		"contacts": [
+			{
+				"type": "Email",
+				"value": "tk-4dnepr@i.ua"
+			}
+		]
+	},
+	"activities": {
+		"items": [
+			"Develops, reviews, and approves drafts of national (DSTU) and interstate (GOST) standards.",
+			"Reviews and verifies standards, prepares amendments to them and proposals for the cancellation of DSTU and GOST, and also, on behalf of the State Enterprise 'Ukraine Scientific and Research Center', prepares proposals for voting on drafts of interstate and regional standards.",
+			"Promotes the application of national standards of other countries as national standards of Ukraine.",
+			"Develops national and interstate standards harmonized with international and regional ones.",
+			"Determines the priorities for the direct implementation of international and regional standards in Ukraine.",
+			"Cooperates with the following Technical Committees in related fields of activity: — TC 2 'Long, shaped and special section rolled products', TC 3 'Standardization of methods for determining the chemical composition of materials for metallurgical production', TC 6 'Rolled products, ingots, forgings and products made of special steels and alloys', TC 8 'Steel pipes and cylinders', TC-44 'Welding and allied processes', TC 50 'Sulfur', TC 81 'Standardization of methods for controlling mechanical, metallographic and corrosion properties of metal products', TC 83 'Railway cars', TC 97 'Rectangular (slab), square, tubular billets, rolled products', TC 100 'Steel wire ropes', TC 111 'Fertilizers and pesticides', TC 117 'Rocket and space-rocket technology', TC 120 'Packaging, containers, packaging materials', TC 136 'Fasteners'.",
+			"Cooperates with enterprises (organizations) – users of standards, consumer associations, testing centers (laboratories) and certification bodies, and other interested parties.",
+			"Develops part of the standardization work program for the assigned standardization objects or fields of activity.",
+			"Considers proposals for amending current normative documents or their review or cancellation."
+		]
+	},
+	"staffCards": [
+		{
+			"id": "surovtseva-tetiana-yevheniivna",
+			"name": "Surovtseva Tetiana Yevheniivna"
+		},
+		{
+			"id": "budilova-yelyzaveta-borysivna",
+			"name": "Budilova Yelyzaveta Borysivna"
+		}
+	]
+}

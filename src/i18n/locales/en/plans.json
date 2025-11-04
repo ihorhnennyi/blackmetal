@@ -1,0 +1,46 @@
+{
+	"title": "Study Plans",
+	"data": [
+		{
+			"title": "Study Plan for Oliinyk",
+			"link": "/plans/Індивідуальний_навчальний_план_Олійника-Е.В..pdf"
+		},
+		{
+			"title": "Study Plan for Safronova",
+			"link": "/plans/Індивідуальний-навчальний-план_Сафронової-О.А..pdf"
+		},
+		{
+			"title": "Arendach Study Plan",
+			"link": "/plans/Арендач-навчальний-план.pdf"
+		},
+		{
+			"title": "Mazur Study Plan",
+			"link": "/plans/Мазур-навчальний-план.pdf"
+		},
+		{
+			"title": "132 Study Plan 2023-2024",
+			"link": "/plans/132-Навчальний-план-2023-2024.pdf"
+		},
+		{
+			"title": "136 Study Plan 2023-2024",
+			"link": "/plans/136-Навчальний-план-2023-2024.pdf"
+		},
+		{
+			"title": "Dissertation Plan for Oliinyk",
+			"link": "/plans/План-проспект_дисертації_Олійника-Е.В..pdf",
+			"date": "13.12.2013"
+		},
+		{
+			"title": "Dissertation Plan for Safronova",
+			"link": "/plans/План_проспект_дисертації_Сафронової-О.А..pdf"
+		},
+		{
+			"title": "Arendach Dissertation Plan",
+			"link": "/plans/Арендач-навчальний-план (1).pdf"
+		},
+		{
+			"title": "Mazur Dissertation Plan",
+			"link": "/plans/Мазур-навчальний-план (1).pdf"
+		}
+	]
+}

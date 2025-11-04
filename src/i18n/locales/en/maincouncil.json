@@ -1,0 +1,681 @@
+{
+	"title": "Academic Council",
+	"data": [
+		{
+			"id": "babachenko",
+			"photo": "/employees/babachenko.jpg",
+			"position": "Director, Corresponding Member of the NAS of Ukraine",
+			"name": "Babachenko Oleksandr Ivanovych",
+			"description": "Doctor of Technical Sciences, Senior Researcher",
+			"researchDirection": "Development of scientific principles and technological solutions for new processes of producing wheel-tire steels and railway wheels and tires, ensuring a high level of their resource. Research of the influence of the structural state and complex of properties of various types of steel products on their operational reliability",
+			"specialization": "05.02.01 – Materials Science",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "a_babachenko@i.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878708 "
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=0P3Q8GUAAAAJ "
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0003-4710-0343 "
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602718336"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/2510193 "
+				}
+			]
+		},
+		{
+			"id": "parusov-eduard-volodymyrovych",
+			"photo": "/employees/parusov-eduard-volodymyrovych.jpg",
+			"position": "Deputy Director for Scientific Work, Head of Department",
+			"name": "Parusov Eduard Volodymyrovych",
+			"description": "Doctor of Technical Sciences, Senior Researcher",
+			"researchDirection": "Deformation-thermal treatment of metals and alloys; features of phase and structural transformations in carbon and alloyed steels during continuous and isothermal cooling; development and industrial implementation of end-to-end technologies for the production and processing of coiled products from low-carbon, high-carbon and low-carbon alloyed steels.",
+			"specialization": "05.02.01 – Materials Science",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "tometal@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878138 "
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=eE1rZKgAAAAJ "
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-4560-2043"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=8367262600"
+				},
+				{
+					"type": "Web Of Science",
+					"value": "https://www.webofscience.com/wos/author/record/504824 "
+				}
+			]
+		},
+		{
+			"id": "merkulov",
+			"photo": "/employees/merkulov.jpg",
+			"position": "Deputy Director for Scientific Work, Senior Researcher",
+			"name": "Merkulov Oleksii Yevhenovych",
+			"description": "Doctor of Technical Sciences",
+			"researchDirection": "System analysis of cast iron and steel metallurgy, improvement of fuel utilization in metallurgical processes, development of new energy-saving metallurgical technologies for metal production.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "merkulov1@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-885114"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=_yXSDsEAAAAJ&hl=uk"
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-7867-0659"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=35771153100"
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				},
+				{
+					"type": "bibliographic",
+					"value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0015295"
+				}
+			]
+		},
+
+		{
+			"id": "harmash",
+			"photo": "/employees/harmash.jpg",
+			"position": "Scientific Secretary, Senior Researcher",
+			"name": "Harmash Larysa Ivanivna",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Research of metallurgical properties of iron ore raw materials and fuel in order to improve their quality and the possibility of using new types of raw materials (including secondary resources) in ferrous metallurgy. Analytical studies of the influence of iron ore raw material properties on blast furnace smelting parameters. Research on possibilities for reducing carbon use in blast furnace production, including when using hydrogen.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "larysagar@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=-lIS5x0AAAAJ"
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-6873-6685"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602438520 "
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
+		},
+		{
+			"id": "podolskyi-rostyslav-viacheslavovych",
+			"photo": "/employees/podolskyi.jpg",
+			"position": "Chairman of the Council of Young Scientists",
+			"name": "Podolskyi Rostyslav Viacheslavovych",
+			"description": "Doctor of Philosophy (PhD)",
+			"researchDirection": "Development of a scientifically based complex of technological solutions for the production of railway rails and research of the influence of structural state on mechanical properties that ensure high operational stability. Research of the structural state and complex of mechanical properties of products manufactured by additive manufacturing for use in various operational conditions.",
+			"specialization": "132 – Materials Science",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "rostislavpodolskij@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-0288-0641"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=xUHD_2wAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57244145000"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/32788823"
+				}
+			]
+		},
+		{
+			"id": "baiul-kostiantyn-vasylovych",
+			"photo": "/employees/baiul-kostiantyn-vasylovych.jpg",
+			"position": "Senior Researcher",
+			"name": "Baiul Kostiantyn Vasylovych",
+			"description": "Doctor of Technical Sciences, Senior Researcher",
+			"researchDirection": "Development of technologies and equipment for briquetting fine-grained materials.",
+			"specialization": "05.05.08 – Machines for Metallurgical Production",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "baiulkonstantin@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-70025"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-1426-7956"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=oSs1UWIAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6505600072"
+				}
+			]
+		},
+		{
+			"id": "bobyr-sergij-volodimirovich",
+			"photo": "/employees/bobyr-sergij-volodimirovich.jpg",
+			"position": "Leading Researcher",
+			"name": "Bobyr Serhii Volodymyrovych",
+			"description": "Doctor of Technical Sciences, Senior Researcher",
+			"researchDirection": "Development of complex heat treatment regimes to improve wear and heat resistance of metal products in mechanical engineering. Analysis and modeling of non-equilibrium phase-structural transformations in steels and alloys. Diffusion processes in metals and alloys, further development of thermodynamic foundations of diffusion theories.",
+			"specialization": "05.16.01 – Metal Science and Heat Treatment of Metals",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "svbobyr07@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878711 "
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6816-1554"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=otI1cPUAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55556749700"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/2510802"
+				}
+			]
+		},
+		{
+			"id": "kysliakov",
+			"photo": "/employees/kysliakov.jpg",
+			"position": "Head of Department, Senior Researcher",
+			"name": "Kysliakov Volodymyr Hennadiiovych",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Theoretical-calculated and experimental research, as well as technological developments in the direction of extra-furnace refining of cast iron and mass transfer processes of the 'liquid cast iron-ladle slag-introduced reagent' system. Performance of complex work during setup, refinement and mastering of industrial facilities for extra-furnace desulfurization of cast iron",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "vovkadragon12@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-1775-5050"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=KHwOJrgAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602476409"
+				}
+			]
+		},
+		{
+			"id": "kononenko-hanna-andriivna",
+			"photo": "/employees/kononenko.jpg",
+			"position": "Senior Researcher",
+			"name": "Kononenko Hanna Andriivna",
+			"description": "Doctor of Technical Sciences, Senior Researcher",
+			"researchDirection": "Improvement of existing and development of new steel grades for the production of railway-purpose metal products, ensuring high values of wear resistance and increased resistance to thermal influence during operation. Development of theoretical principles on the influence of hot plastic deformation on the formation of the final structure, taking into account the hereditary influence of the primary dendritic-grain structure in comparison with the chemical heterogeneity that arises during crystallization. Development of scientific and technological principles of effective processes for forming the structural state and complex of mechanical properties of products manufactured by additive production for use in various operational conditions.",
+			"specialization": "05.02.01 — Materials Science",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "perlit@ua.fm"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-885097"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-7446-4105"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=BJW8bsEAAAAJ&hl=ru"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7007038178"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/23626556"
+				}
+			]
+		},
+		{
+			"id": "lebid",
+			"position": "Senior Researcher",
+			"photo": "/employees/lebid.jpg",
+			"name": "Lebid Vitalii Vasylovych",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Research and improvement of blast furnace smelting technology by controlling the distribution of charge and gases using modern means of control and mathematical modeling",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "vitalii.lebid@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0006-6193-5530"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=oeJjP4EAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=12780526000"
+				},
+				{
+					"type": "bibliographic",
+					"value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0011794"
+				}
+			]
+		},
+		{
+			"id": "lutsenko-vladyslav-anatoliiovych",
+			"photo": "/employees/lutsenko-vladyslav-anatoliiovych.jpg",
+			"position": "Leading Researcher",
+			"name": "Lutsenko Vladyslav Anatoliiovych",
+			"description": "Doctor of Technical Sciences, Senior Researcher",
+			"researchDirection": "Deformation-thermal treatment of metals and alloys; course of phase and structural transformations in carbon and alloyed steels. Features of scale formation and decarburization processes on the surface of rolled products. Development and industrial implementation of technologies for the production of rolled products from carbon and alloyed steels.",
+			"specialization": "05.16.01 – Metal Science and Heat Treatment of Metals",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "lutsenko-VA@i.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-885089 "
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4604-5592"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=eQUn2zkAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7004367566"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/15877725 "
+				}
+			]
+		},
+		{
+			"id": "molchanov-lavr-sergiyovych",
+			"photo": "/employees/molchanov.jpg",
+			"position": "Head of Department",
+			"name": "Molchanov Lavr Serhiiovych",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Theory and practice of converter processes, development of new and improvement of existing technologies and equipment for steel production in the areas of saving energy and material resources, improving quality.",
+			"specialization": "G10 Metallurgy",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "molchanov@isi.gov.ua"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6139-5956"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=Jl1jc0AAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57193955317"
+				}
+			]
+		},
+		{
+			"id": "muraviova",
+			"photo": "/employees/muraviova.jpg",
+			"position": "Leading Researcher",
+			"name": "Muraviova Iryna Hennadiivna",
+			"description": "Doctor of Technical Sciences, Senior Researcher",
+			"researchDirection": "Research and development of complex techniques and methods for controlling the blast furnace from the top using new means of control and analysis of technological parameters.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "irinamuravyova@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878710"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-5926-7787"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=AMMEhCsAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6603854838"
+				}
+			]
+		},
+		{
+			"id": "prykhodko-ihor-yuriiovych",
+			"photo": "/employees/prykhodko.jpg",
+			"position": "Head of Department",
+			"name": "Prykhodko Ihor Yuriiovych",
+			"description": "Doctor of Technical Sciences, Senior Researcher",
+			"researchDirection": "Research, improvement of existing and development of new technological processes for hot and cold rolling of bars",
+			"specialization": "05.03.05 – Processes and Machines of Metal Forming",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isi@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878141"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-5651-8106"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=1a4kQMUAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6701369789"
+				}
+			]
+		},
+		{
+			"id": "semenov-yuriy-stanislavovych",
+			"photo": "/employees/semenov-yuriy-stanislavovych.jpg",
+			"position": "Head of Department, Senior Researcher",
+			"name": "Semenov Yurii Stanislavovych",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Development of complex techniques and methods for controlling the blast furnace, including using new means of control; mathematical models of the processes of loading charge materials and their distribution in the blast furnace; intelligent decision support systems for managing blast furnace smelting; technology for loading blast furnaces with multi-component charge materials.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "yuriy.semenov.isi@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-2299-5742"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=T91etI4AAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57194100443"
+				}
+			]
+		},
+		{
+			"id": "stepanenko",
+			"photo": "/employees/stepanenko.jpg",
+			"position": "Head of Department",
+			"name": "Stepanenko Dmytro Oleksandrovych",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Analytical and experimental studies of the properties (viscosity, electrical conductivity, melting temperatures, etc.), mineralogical and phase composition of metallurgical slags and their physico-chemical interaction with metallic melts and refractories. Study of the structure of oxide and slag melts. Justification and development of technological indicators of the slag regime in the production of pig iron and steel.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "d.gorodenskiy@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-0184-8295"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=u-pZEKoAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=56974001300"
+				}
+			]
+		},
+		{
+			"id": "tohobitska",
+			"photo": "/employees/tohobitska.jpg",
+			"position": "Leading Researcher",
+			"name": "Tohobitskaya Dariaya Mykolaivna",
+			"description": "Professor, Doctor of Technical Sciences",
+			"researchDirection": "Methodological and theoretical foundations for optimizing metallurgical technologies based on the integrated use of mathematical and physico-chemical modeling. Creation of a knowledge base and intelligent decision support systems for managing metallurgical processes.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "dntog@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-884564"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6413-4823"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=NFNXbqIAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602585340"
+				}
+			]
+		},
+		{
+			"id": "chaika-oleksii-leonidovych",
+			"photo": "/employees/chaika-oleksii-leonidovych.jpg",
+			"position": "Head of Laboratory",
+			"name": "Chaika Oleksii Leonidovych",
+			"description": "Senior Researcher, Candidate of Technical Sciences",
+			"researchDirection": "Development and implementation of a new scientific direction in the field of blast furnace production - systemic reliability in the production of cast iron: search for formalized methods and based on experimental melts, compromise solutions that ensure the required volume of cast iron production of specified quality, minimal consumption of energy resources and ensuring the technical reliability of the blast furnace and its servicing units, minimal harmful impact of production on the environment.",
+			"specialization": "05.16.02 'Metallurgy of ferrous, non-ferrous metals and special alloys'",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "chaykadp@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-1678-2580"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com/citations?user=MA7tga8AAAAJ&hl=ru"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=15044043200"
+				},
+				{
+					"type": "bibliographic",
+					"value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0013008"
+				}
+			]
+		},
+		{
+			"id": "chernyatevych-anatolii-hryhorovych",
+			"photo": "/employees/chernyatevych.jpg",
+			"position": "Chief Researcher",
+			"name": "Chernyatevych Anatolii Hryhorovych",
+			"description": "Professor, Doctor of Technical Sciences",
+			"researchDirection": "Theory and practice of converter processes, theory and technology of high-temperature modeling of converter bath blowing and ladle refining of cast iron. Development of energy-efficient tuyere devices for preheating metal scrap in the converter and combined blowing of the converter bath with heating of waste gases. Resource and energy saving along the technological route of steel production: blast furnace - oxygen converter.",
+			"specialization": "G10 Metallurgy",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "agchern@ua.fm"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-884322"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4552-4997"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=ka4Gt5kAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7003888776"
+				}
+			]
+		},
+		{
+			"id": "chuiko-ihor-mykolaiovych",
+			"photo": "/employees/chuiko-ihor-mykolaiovych.jpg",
+			"position": "Senior Researcher",
+			"name": "Chuiko Ihor Mykolaiovych",
+			"description": "Candidate of Technical Sciences, Senior Researcher",
+			"researchDirection": "Solving scientific and applied problems of producing high-efficiency types of steel rolled products for various purposes and their further processing at metal production enterprises. Development of scientific and technological foundations for controlling the structure and properties of alloy steels, taking into account the features of the formation and transformation of metastable phases. Creation of energy-saving technologies for thermomechanical processing of carbon and alloy steels to improve the physical-mechanical and operational properties of metal products for critical purposes.",
+			"specialization": "05.16.01 – Metal Science and Heat Treatment of Metals",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ferrosplav@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4753-614X"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=TaoMBcwAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57211226481"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/1661603 "
+				}
+			]
+		},
+		{
+			"id": "shevchenko-serhii-anatoliiovych",
+			"photo": "/employees/shevchenko.jpg",
+			"position": "Senior Researcher",
+			"name": "Shevchenko Serhii Anatoliiovych",
+			"researchDirection": "Theoretical-calculated and experimental studies of the patterns of hydro-aerodynamics of the injection introduction of dispersed reagents into the cast iron bath. Participant in the industrial development and improvement of desulfurization processes.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys",
+			"description": "Candidate of Technical Sciences",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "shev_serg@i.ua"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-9287-9177"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=vS3c7ykAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57208017658"
+				}
+			]
+		}
+	]
+}

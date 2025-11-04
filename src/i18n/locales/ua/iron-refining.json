@@ -1,0 +1,207 @@
+{
+	"title": "Відділ позапічної обробки чавуну",
+	"firstPersonCard": {
+		"id": "kysliakov",
+		"photo": "/employees/kysliakov.jpg",
+		"position": "Завідувач відділом, старший науковий співробітник",
+		"name": "Кисляков Володимир Геннадійович",
+		"description": "Кандидат технічних наук",
+		"researchDirection": "Розрахунково-теоретичні та експериментальні дослідження, а також технологічні розробки у напрямку позапічного рафінування чавуну і масообмінних процесів системи «рідкий чавун-ковшовий шлак- реагент, що вводиться». Виконання комплексних робіт при налагодженні, доведенні і освоєнні промислових об’єктів позапічної десульфурації чавуну",
+		"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+		"contacts": [
+			{
+				"type": "Email",
+				"value": "vovkadragon12@gmail.com"
+			},
+			{
+				"type": "ORCID ID",
+				"value": "https://orcid.org/0000-0002-1775-5050"
+			},
+			{
+				"type": "Google Scholar",
+				"value": "https://scholar.google.com.ua/citations?hl=uk&user=KHwOJrgAAAAJ"
+			},
+			{
+				"type": "Scopus Author ID",
+				"value": "https://www.scopus.com/authid/detail.uri?authorId=6602476409"
+			}
+		]
+	},
+	"activities": {
+		"items": [
+			"Дослідження тепло- і масообмінних процесів в системі «рідкий чавун — реагент — шлак — газова фаза» при позапічній обробці чавуну в ковшах.",
+			"Розробка нових процесів і технологічних рішень позапічної підготовки чавуну до сталеплавильного переділу.",
+			"Розробка і створення нових технологічних і апаратурних складових комплексів позапічного рафінування чавуну.",
+			"Аналіз застосовуваних у світовій практиці технологічних рішень по позапічній обробці чавуну і прогнози перспективних напрямків.",
+			"Розробка і дослідно-промислова перевірка технологічних рекомендацій по оптимізації технології підготовки чавуну (десульфурація, коригування параметрів ковшового шлаку) при виплавці низькосірчастої конвертерної сталі.",
+			"Освоєння і впровадження розробок по позапічній обробці чавуну на модернізованих і реконструйованих комплексах металургійних комбінатів."
+		]
+	},
+	"staffCards": [
+		{
+			"id": "yelisieiev-v-i",
+			"photo": "/employees/yelisieiev-v-i.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Єлісєєв Володимир Іванович",
+			"description": "Кандидат фізико-математичних наук",
+			"researchDirection": "Розробка математичних моделей тепло-масообмінних процесів в сучасних технологічних апаратах, зокрема при інжекційному рафінуванні чавуну в ковшах.",
+			"specialization": " 05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isi.ovoch@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-4999-8142"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=Ti4Q4-gAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55553137600"
+				}
+			]
+		},
+		{
+			"id": "manachyn",
+			"photo": "/employees/manachyn.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Маначин Іван Олександрович",
+			"description": "Кандидат технічних наук, старший дослідник",
+			"researchDirection": "Дослідження з вивчення масообмінних процесів при введенні диспергованих магнієвих і немагнієвих реагентів в чавун, як в прифурменной зоні, так і в об’ємі всього розплаву. Учасник промислового освоєння і вдосконалення процесів десульфурації.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "imanachyn@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-9795-6751"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=MPdv2eQAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55540277500"
+				}
+			]
+		},
+		{
+			"id": "rudenko-o-l",
+			"photo": "/employees/rudenko-o-l.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Руденко Олександр Леонідович",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Розрахунково-теоретичні та експериментальні дослідження масообмінних процесів в системі «метал-шлак» при ковшовому рафінуванні.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isi.ovoch@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6068-9901"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com/citations?user=xt0dGBUAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7101769307"
+				}
+			]
+		},
+		{
+			"id": "shevchenko-serhii-anatoliiovych",
+			"photo": "/employees/shevchenko.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Шевченко Сергій Анатолійович",
+			"researchDirection": "Розрахунково-теоретичні та експериментальні дослідження закономірностей гідро-аеродинаміки інжекційного введення диспергованих реагентів в ванну чавуну. Учасник промислового освоєння і вдосконалення процесів десульфурації.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"description": "Кандидат технічних наук",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "shev_serg@i.ua"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-9287-9177"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=vS3c7ykAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57208017658"
+				}
+			]
+		},
+		{
+			"id": "petrusha-v-p",
+			"photo": "/employees/petrusha-v-p.jpg",
+			"position": "Молодший науковий співробітник",
+			"name": "Петруша Вікторія  Петрівна",
+			"researchDirection": "Розрахунок параметрів обмінних процесів в системі чавун-шлак, констант рівноваги, побудова графіків і номограм по розрахунковим і фактичним даним експериментів і промислових обробок.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isi.ovoch@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-1031-3241"
+				}
+			]
+		},
+		{
+			"id": "chubina-o-a",
+			"photo": "/employees/chubina-o-a.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Чубіна Олена А. ",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Оцінка ролі ковшового шлаку в процесі десульфурації чавуну, вплив кількості та складу ковшового шлаку на ефективність процесу десульфурації, розробка рекомендацій щодо оптимізації технології десульфурації чавуну магнієм. Підготовка та забезпечення проведення лабораторних досліджень на «холодних» та «горячих моделях».",
+			"contacts": [
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-2213-5013"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=15044135700"
+				}
+			]
+		},
+		{
+			"id": "chugui-valentina-v",
+			"photo": "/employees/chugui-valentina-v.jpg",
+			"position": "Провідний інженер",
+			"name": "Чугуй Валентина В.",
+			"description": "",
+			"researchDirection": "Обробка експериментальних даних, розрахунок параметрів і показників обробок чавуну. Розрахунки за моделями, оформлення результатів розрахунків у вигляді таблиць і діаграм",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isi.ovoch@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0005-4327-0750"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": ""
+				}
+			]
+		}
+	]
+}

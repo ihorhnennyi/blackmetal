@@ -1,0 +1,360 @@
+{
+	"title": "Department of Physical and Technical Problems of Steel Metallurgy",
+	"firstPersonCard": {
+		"id": "molchanov-lavr-sergiyovych",
+		"photo": "/employees/molchanov.jpg",
+		"position": "Head of Department",
+		"name": "Molchanov Lavr Serhiiovych",
+		"description": "Candidate of Technical Sciences",
+		"researchDirection": "Theory and practice of converter processes, development of new and improvement of existing technologies and equipment for steel production in the areas of saving energy and material resources, improving quality.",
+		"specialization": "G10 Metallurgy",
+		"contacts": [
+			{
+				"type": "Email",
+				"value": "molchanov@isi.gov.ua"
+			},
+			{
+				"type": "ORCID ID",
+				"value": "https://orcid.org/0000-0001-6139-5956"
+			},
+			{
+				"type": "Google Scholar",
+				"value": "https://scholar.google.com.ua/citations?hl=ru&user=Jl1jc0AAAAAJ"
+			},
+			{
+				"type": "Scopus Author ID",
+				"value": "https://www.scopus.com/authid/detail.uri?authorId=57193955317"
+			}
+		]
+	},
+	"activities": {
+		"items": [
+			"Theory and practice of converter processes.",
+			"Theory and technology of high-temperature modeling of converter bath blowing and ladle refining of pig iron.",
+			"Resource and energy saving along the technological route of steel production: blast furnace - oxygen converter.",
+			"Development, research and implementation of the latest resource- and energy-efficient methods for influencing thermophysical, gas-dynamic and refining processes in the steelmaking bath.",
+			"Search for solutions to increase the efficiency of secondary steel treatment methods and improve steel casting processes by improving the conditions for using alloying, deoxidizing, heat-insulating and refining additive materials based on improving their technological properties.",
+			"Development of proposals and justification for non-standard compositions of micro-alloying and refining compositions, formation of recommendations for the use of associated substandard ferroalloy production by-products.",
+			"Determination and utilization of features of the hydrodynamic and thermal state of the ladle metal bath during steel treatment on ladle-furnace units, vacuum degassers of various types and other secondary treatment equipment, including through identified patterns and leverage for influencing ongoing processes to improve metal quality, manufactured metal products and reduce material costs at these stages of steel production.",
+			"Justification of the rational location of the bottom blowing unit relative to the points of introduction of lump and wire additives in steel casting ladles of different capacity and bath geometry; determination of energy-saving blowing, heating, steel casting regimes, etc."
+		]
+	},
+	"staffCards": [
+		{
+			"id": "chernyatevych-anatolii-hryhorovych",
+			"photo": "/employees/chernyatevych.jpg",
+			"position": "Chief Researcher",
+			"name": "Chernyatevych Anatolii Hryhorovych",
+			"description": "Professor, Doctor of Technical Sciences",
+			"researchDirection": "Theory and practice of converter processes, theory and technology of high-temperature modeling of converter bath blowing and ladle refining of pig iron. Development of energy-efficient tuyere devices for preheating scrap metal in the converter and combined blowing of the converter bath with waste gas heating. Resource and energy saving along the technological route of steel production: blast furnace - oxygen converter.",
+			"specialization": "G10 Metallurgy",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "agchern@ua.fm"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-884322"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4552-4997"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=ka4Gt5kAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7003888776"
+				}
+			]
+		},
+		{
+			"id": "piptiuk-vitalii-petrovych",
+			"photo": "/employees/piptiuk.jpg",
+			"position": "Senior Researcher",
+			"name": "Piptiuk Vitalii Petrovych",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Development of new and improvement of existing technologies and equipment for secondary steel treatment in the areas of saving energy and material resources; development of new low-alloy steel grades for improved quality metal products with enhanced consumer properties and for import substitution purposes.",
+			"specialization": "G10 Metallurgy",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "piptyuk_vp@i.ua"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-2915-1756"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=Z5PGmsUAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7801672468"
+				}
+			]
+		},
+		{
+			"id": "semykin-serhii-ivanovych",
+			"photo": "/employees/semykin.jpg",
+			"position": "Senior Researcher",
+			"name": "Semykin Serhii Ivanovych",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Theory and technology of steelmaking production, latest methods for influencing thermophysical, gas-dynamic and refining processes in the steelmaking bath.",
+			"specialization": "G10 Metallurgy",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isisemykin@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-7365-2259"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=MCr1GRcAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6603391258"
+				}
+			]
+		},
+		{
+			"id": "holub-tetiana-serhiivna",
+			"photo": "/employees/holub.jpg",
+			"position": "Senior Researcher",
+			"name": "Holub Tetiana Serhiivna",
+			"description": "Candidate of Technical Sciences, Researcher",
+			"researchDirection": "Theory and technology of steelmaking production, development and research of new methods for influencing exchange processes during steel production, development and implementation of effective elements of converting technology in saving directions.",
+			"specialization": "G10 Metallurgy",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isinasu.golubts@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-9269-2953"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=uLtbwsUAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=56090113300"
+				}
+			]
+		},
+		{
+			"id": "hrekov-stanislav-viktorovych",
+			"photo": "/employees/hrekov.jpg",
+			"position": "Researcher",
+			"name": "Hrekov Stanislav Viktorovych",
+			"researchDirection": "Optimization of processes for melting or dissolving ferroalloys added at different stages of secondary steel treatment depending on mass transfer processes, hydrodynamic and thermal state of the slag-metal melt, the properties of which are determined by their structure using the concept of directed chemical bonding.",
+			"specialization": "G10 Metallurgy",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "SV4321@i.ua"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-2848-0999"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=02fBjYMAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=24070262400"
+				}
+			]
+		},
+		{
+			"id": "dudchenko-serhii-oleksandrovych",
+			"position": "Senior Researcher",
+			"name": "Dudchenko Serhii Oleksandrovych",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Theory and practice of converter processes regarding the development and research of energy-efficient blowing regime for converter smelting under conditions of applying low-voltage electrical potentials.",
+			"specialization": "G10 Metallurgy",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "S.dudchenko@meta.ua"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-7319-9896"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=MhyQ7lEAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=56090178900"
+				}
+			]
+		},
+		{
+			"id": "vakulchuk-volodymyr-viktorovych",
+			"position": "Researcher",
+			"name": "Vakulchuk Volodymyr Viktorovych",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Theory and practice of converter processes regarding the improvement of top blowing technology for the converter bath with variable impulse gas jets.",
+			"specialization": "G10 Metallurgy",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "vvvakulchuk@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-7887-2843"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=z_EXiWUAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=56770109300"
+				}
+			]
+		},
+		{
+			"id": "yushkevych-pavlo-olehovich",
+			"position": "Senior Researcher",
+			"name": "Yushkevych Pavlo Olehovich",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Development of new and improvement of existing technologies and equipment for steel production in the areas of saving energy and material resources, improving quality.",
+			"specialization": "G10 Metallurgy",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ISI.DPS.R@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-2675-0737"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=9sBFaw8AAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=59220205700"
+				}
+			]
+		},
+		{
+			"id": "samokhvalov-serhii-yevhenovych",
+			"photo": "/employees/samokhvalov.jpg",
+			"position": "Senior Researcher",
+			"name": "Samokhvalov Serhii Yevhenovych",
+			"description": "Professor, Doctor of Technical Sciences",
+			"researchDirection": "Mathematical modeling of metallurgical processes. Numerical methods in computer modeling of technological processes",
+			"specialization": "G10 Metallurgy",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "serg_samokhval@ukr.net"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-7362-213X3"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=RmxmYaYAAAAJ&hl=uk&citsig=AHomdjVGOM-AwM7aRlzPfFtTGdRN"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "http://www.scopus.com/authid/detail.uri?authorId=6603561863"
+				}
+			]
+		},
+		{
+			"id": "kakushkin-yevhenii-zvitozarovych",
+			"photo": "/employees/kakushkin.jpg",
+			"position": "Lead Engineer",
+			"name": "Kakushkin Yevhenii Zvitozarovych",
+			"description": "",
+			"researchDirection": "Creation of models for conducting physical full-scale modeling of steel smelting and treatment processes, participation in research on resource and energy saving along the technological route of steel production: blast furnace - oxygen converter",
+			"specialization": "G10 Metallurgy",
+			"contacts": [
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0004-2158-8947"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?view_op=new_articles&hl=uk&imq=%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9&authuser=1#"
+				}
+			]
+		},
+		{
+			"id": "koveria-andrii-serhiiovych",
+			"photo": "/employees/koveria.jpg",
+			"position": "Senior Researcher",
+			"name": "Koveria Andrii Serhiiovych",
+			"description": "Candidate of Technical Sciences, Associate Professor",
+			"researchDirection": "Production of biofuels and reducing agents for use in metallurgy; thermochemical processes for processing fossil fuels; recycling of spent lithium-ion batteries; production of hydrogen by chemical means and its use in metallurgy.",
+			"specialization": "G1 – Carbon Materials, Fuel and Reducing Agents",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "nakover13@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/ 0000-0001-7840-1873"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=bLhzqbcAAAAJ&hl=ru"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=36806255500"
+				}
+			]
+		},
+		{
+			"id": "minay-oleksandr-m",
+			"photo": "/employees/minay.jpg",
+			"position": "Senior Researcher",
+			"name": "Minay Oleksandr Mykolaiovych",
+			"description": "Doctor of Philosophy",
+			"researchDirection": "Numerical modeling of gas-hydrodynamic processes accompanying metallurgical processes.",
+			"specialization": "G12 Aviation and Rocket-Space Technology",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "minayan1976@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4180-0149"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com/citations?user=Pjl_r0gAAAAJ&amp;hl=ru"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57222005089"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"title": "Feedback",
+	"lastName": "Last Name",
+	"firstName": "First Name",
+	"middleName": "Patronymic",
+	"phone": "Phone Number",
+	"email": "Email",
+	"question": "Select a Question",
+	"otherQuestion": "Other Question",
+	"submit": "Send",
+	"submitting": "Sending...",
+	"success": "Thank you! Message sent.",
+	"successNotification": "Message sent successfully!",
+	"errorNotification": "Error sending message. Please try again later.",
+	"questions": [
+		"How to get a consultation?",
+		"What is the project cost?",
+		"Where are you located?",
+		"Can documents be submitted online?"
+	],
+	"validation": {
+		"lastName": "Last name should not contain numbers",
+		"firstName": "First name should not contain numbers",
+		"middleName": "Patronymic should not contain numbers",
+		"phone": "Invalid phone number",
+		"email": "Invalid email",
+		"question": "Please select a question",
+		"otherQuestion": "Enter your question"
+	}
+}

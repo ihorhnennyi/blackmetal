@@ -1,0 +1,182 @@
+{
+	"title": "Directorate",
+	"data": [
+		{
+			"id": "babachenko",
+			"photo":"/employees/babachenko.jpg",
+			"position": "Director, Corresponding Member of the National Academy of Sciences of Ukraine",
+			"name": "Babachenko Oleksandr Ivanovych",
+			"description": "Doctor of Technical Sciences, Senior Researcher",
+			"researchDirection": "Development of scientific principles and technological solutions for new production processes of wheel-tyre steels and railway wheels and tyres, ensuring a high level of their resource. Study of the influence of the structural state and complex of properties of various types of steel rolled products on its operational reliability",
+			"specialization": "05.02.01 – Materials Science",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "a_babachenko@i.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878708 "
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=0P3Q8GUAAAAJ "
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0003-4710-0343 "
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602718336"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/2510193 "
+				}
+			]
+		},
+		{
+			"id": "merkulov",
+			"photo":"/employees/merkulov.jpg",
+			"position": "Deputy Director for Scientific Work, Senior Researcher",
+			"name": "Merkulov Oleksii Yevhenovych",
+			"description": "Doctor of Technical Sciences",
+			"researchDirection": "System analysis of iron and steel metallurgy, improvement of fuel use in metallurgical processes, development of new energy-saving metallurgical technologies for metal production.",
+			"specialization": "05.16.02 – Metallurgy of Ferrous, Non-Ferrous Metals and Special Alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "merkulov1@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-885114"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=_yXSDsEAAAAJ&hl=uk"
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-7867-0659"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=35771153100"
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				},
+                {
+                    "type": "bibliographic",
+                    "value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0015295"
+                }
+			]
+		},
+		{
+			"id": "parusov-eduard-volodymyrovych",
+			"photo":"/employees/parusov-eduard-volodymyrovych.jpg",
+			"position": "Deputy Director for Scientific Work, Head of Department",
+			"name": "Parusov Eduard Volodymyrovych",
+			"description": "Doctor of Technical Sciences, Senior Researcher",
+			"researchDirection": "Thermomechanical processing of metals and alloys; features of phase and structural transformations in carbon and alloy steels during continuous and isothermal cooling; development and industrial implementation of end-to-end technologies for the production and processing of coiled rolled products from low-carbon, high-carbon and low-carbon alloy steels.",
+			"specialization": "05.02.01 – Materials Science",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "tometal@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878138 "
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=eE1rZKgAAAAJ "
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-4560-2043"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=8367262600"
+				},
+				{
+					"type": "Web Of Science",
+					"value": "https://www.webofscience.com/wos/author/record/504824 "
+				}
+			]
+		},
+		{
+			"id": "harmash",
+			"photo":"/employees/harmash.jpg",
+			"position": "Scientific Secretary, Senior Researcher",
+			"name": "Harmash Larysa Ivanivna",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Research of metallurgical properties of iron ore raw materials and fuel in order to improve their quality and the possibility of using new types of raw materials (including secondary resources) in ferrous metallurgy. Computational and analytical studies of the influence of iron ore raw material properties on blast furnace smelting parameters. Research on possibilities for reducing carbon use in blast furnace production, including when using hydrogen.",
+			"specialization": "05.16.02 – Metallurgy of Ferrous, Non-Ferrous Metals and Special Alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "larysagar@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=-lIS5x0AAAAJ"
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-6873-6685"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602438520 "
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
+		},
+		{
+			"id": "semerenko",
+			"position": "Deputy Director for General Affairs",
+			"name": "Semerenko Yurii Ivanovych",
+			"description": "",
+			"researchDirection": "",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "office.isi@nas.gov.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "Google Scholar",
+					"value": ""
+				},
+				{
+					"type": "ORCID iD",
+					"value": ""
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": ""
+				},
+				{
+					"type": "ResearcherID",
+					"value": ""
+				}
+			]
+		}	
+	]
+}

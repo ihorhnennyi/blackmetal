@@ -1,0 +1,186 @@
+{
+	"title": "Дирекція",
+	"data": [
+		{
+			"id": "babachenko",
+			"photo":"/employees/babachenko.jpg",
+			"position": "Директор, член-кореспондент НАН України",
+			"name": "Бабаченко Олександр Іванович",
+			"description": " Доктор технічних наук, старший науковий співробітник",
+			"researchDirection": "Розробка наукових положень і технологічних рішень щодо нових процесів виробництва колісно-бандажних сталей і залізничних коліс і бандажів, що забезпечують високий рівень їх ресурсу. Дослідження впливу структурного стану і комплексу властивостей різних видів сталевого прокату на його експлуатаційну надійність",
+			"specialization": "05.02.01 – Матеріалознавство",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "a_babachenko@i.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878708 "
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=0P3Q8GUAAAAJ "
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0003-4710-0343 "
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602718336"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/2510193 "
+				}
+			]
+		},
+		{
+			"id": "merkulov",
+			"photo":"/employees/merkulov.jpg",
+			"position": "Заступник директора з наукової роботи,  старший науковий співробітник",
+			"name": "Меркулов Олексій Євгенович",
+			"description": "Доктор технічних наук",
+			"researchDirection": "Системний аналіз металургії чавуну та сталі, удосконалення паливовикористання в металургійних процесах, розвиток нових енергозаощаджуючих металургійних технологій отримання металів.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "merkulov1@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-885114"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=_yXSDsEAAAAJ&hl=uk"
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-7867-0659"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=35771153100"
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				},
+                {
+                    "type": "bibliographic",
+                    "value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0015295"
+                }
+			]
+		},
+		{
+			"id": "parusov-eduard-volodymyrovych",
+			"photo":"/employees/parusov-eduard-volodymyrovych.jpg",
+			"position": "Заступник директора з наукової роботи, завідуючий відділом",
+			"name": "Парусов Едуард Володимирович",
+			"description": "Доктор технічних наук, старший науковий співробітник",
+			"researchDirection": "Деформаційно-термічна обробка металів і сплавів; особливості перебігу фазових та структурних перетворень в вуглецевих і легованих сталях за безперервного та ізотермічного охолодження; розроблення і промислове впровадження наскрізних технологій виготовлення та перероблення бунтового прокату з низьковуглецевих, високовуглецевих і низьковуглецевих легованих сталей.",
+			"specialization": "05.02.01 – Матеріалознавство",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "tometal@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878138 "
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=eE1rZKgAAAAJ "
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-4560-2043"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=8367262600"
+				},
+				{
+					"type": "Web Of Science",
+					"value": "https://www.webofscience.com/wos/author/record/504824 "
+				},
+                {
+                    "type": "researchgate",
+                    "value": "https://www.researchgate.net/profile/Eduard-Parusov-2"
+                }
+			]
+		},
+		{
+			"id": "harmash",
+			"photo":"/employees/harmash.jpg",
+			"position": "Вчений секретар, старший науковий співробітник",
+			"name": "Гармаш Лариса Іванівна",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Дослідження металургійних властивостей залізорудної сировини та палива з метою підвищення їх якості та можливості використання нових типів сировини (в тому числі, вторинних ресурсів) у чорній металургії. Рахунково-аналітичні дослідження впливу властивостей ЗРС на параметри доменної плавки. Дослідження можливостей зменшення використання вуглецю в доменному виробництві,в тому числі, при використанні водню.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "larysagar@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=-lIS5x0AAAAJ"
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-6873-6685"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602438520 "
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
+		},
+		{
+			"id": "semerenko",
+			"position": "Заступник директора з загальних питань",
+			"name": "Семеренко Юрій Іванович",
+			"description": "",
+			"researchDirection": "",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "office.isi@nas.gov.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "Google Scholar",
+					"value": ""
+				},
+				{
+					"type": "ORCID iD",
+					"value": ""
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": ""
+				},
+				{
+					"type": "ResearcherID",
+					"value": ""
+				}
+			]
+		}	
+	]
+}

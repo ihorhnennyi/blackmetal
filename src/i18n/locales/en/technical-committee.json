@@ -1,0 +1,25 @@
+{
+	"title": "Technical Committee",
+	"subtitle": "Technical Committee for Standardization TC4",
+	"description": "\"Cast iron, sheet rolled products, heat-strengthened long rolled products, products for rolling stock, metal products, other products made of cast iron and steel\"",
+	"creationInfo": "TC 4 was established by a joint order of the State Committee of Ukraine for Standardization, Metrology and Certification and the State Committee of Ukraine for the Metallurgical Industry dated February 18-23, 1992, No. 8/24.",
+	"functions": "TC 4 is assigned the functions of developing, reviewing, and approving national standards in its designated field of activity, participating in the work of relevant technical committees of international and regional organizations, and formulating Ukraine's position on the normative documents being developed by these organizations.",
+	"scopeTitle": "Field of Activity and Standardization Objects Assigned to TC 4",
+	"table": {
+		"headers": {
+			"scope": "Field of Activity",
+			"codes": "Code and Name of the Standardization Object according to DK 004"
+		},
+		"data": {
+			"scopeDescription": "Standardization of cast iron, sheet rolled products, heat-strengthened long rolled products, products for rolling stock, metal products, other products made of cast iron and steel",
+			"standardizationCodes": "13.030 Waste 13.030.10 Solid waste 13.030.20 Liquid waste. Sludge 21.060.50 Pins, nails 45.060 Railway rolling stock 53.120 Hand tools 77.080.10 Cast iron 77.140 Products of cast iron and steel 77.140.01 Products of cast iron and steel in general 77.140.10 Heat-treated steels 77.140.15 Steels for concrete reinforcement 77.140.20 High-quality steels 77.140.25 Spring steels 77.140.30 Steels for pressure purposes 77.140.40 Steels with special magnetic properties 77.140.45 Unalloyed steels 77.140.50 Flat steel rolled products/semi-finished products 77.140.60 Long steel rolled products and wire rod 77.140.65 Steel wire, ropes and chains 77.140.70 Steel profiles 77.140.80 Steel and iron castings 77.140.85 Iron and steel forgings 77.140.99 Other products of cast iron and steel 97.040.60 Cookware, cutlery and flatware"
+		}
+	},
+	"contact": {
+		"title": "Deputy Head of TC4",
+		"name": "Rybalka Yevheniia Mykhailivna,",
+		"position": "Head of the Standardization Department",
+		"phone": "Phone +38 (056) 3727523",
+		"email": "e-mail: tk-4dnepr@i.ua"
+	}
+}

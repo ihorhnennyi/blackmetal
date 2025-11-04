@@ -1,0 +1,290 @@
+{
+	"HomePage": {
+		"path": "/",
+		"component": "HomePage",
+		"title": "Інститут чорної металургії",
+		"layout": "MainLayout"
+	},
+	"DevelopmentsPage": {
+		"path": "/about/developments",
+		"component": "DevelopmentsPage",
+		"title": "Розробки",
+		"layout": "MainLayout"
+	},
+	"InstituteHistoryPage": {
+		"path": "/about/history",
+		"component": "InstituteHistoryPage",
+		"title": "Історія інституту",
+		"layout": "MainLayout"
+	},
+	"InstituteStrategyPage": {
+		"path": "/about/strategy",
+		"component": "InstituteStrategyPage",
+		"title": "Стратегія Інституту",
+		"layout": "MainLayout"
+	},
+	"DocumentsPage": {
+		"path": "/about/documents",
+		"component": "DocumentsPage",
+		"title": "Нормативні документи",
+		"layout": "MainLayout"
+	},
+	"ScientificDepartments": {
+		"path": "/scientific-departments",
+		"component": "ScientificDepartmentsPage",
+		"title": "Випробувальний центр",
+		"layout": "MainLayout"
+	},
+	"HeatTechLabPage": {
+		"path": "/scientific-departments/lab-heat-tech",
+		"component": "LaboratoryPage",
+		"title": "Лабораторія теплотехніки",
+		"layout": "MainLayout"
+	},
+	"FlatRollingLabPage": {
+		"path": "/scientific-departments/lab-flat-rolling",
+		"component": "LaboratoryPage",
+		"title": "Лабораторія плоского прокату",
+		"layout": "MainLayout"
+	},
+	"StructurePropertiesLabPage": {
+		"path": "/scientific-departments/lab-structure-properties",
+		"component": "LaboratoryPage",
+		"title": "Лабораторія структуроутворення",
+		"layout": "MainLayout"
+	},
+	"TestPage": {
+		"path": "/test",
+		"component": "TestPage",
+		"title": "Тестова сторінка",
+		"layout": "MainLayout"
+	},
+	"ScientificDepartmentPage": {
+		"path": "/scientific-departments/:departmentId",
+		"component": "ScientificDepartmentPage",
+		"title": "Науковий відділ",
+		"layout": "MainLayout"
+	},
+	"TechnicalDepartments": {
+		"path": "/technical-departments",
+		"component": "TechnicalDepartmentsPage",
+		"title": "Випробувальний центр",
+		"layout": "MainLayout"
+	},
+	"TechnicalDepartmentPage": {
+		"path": "/technical-departments/:departmentId",
+		"component": "TechnicalDepartmentPage",
+		"title": "Науково-технічний відділ",
+		"layout": "MainLayout"
+	},
+	"ServicesPage": {
+		"path": "/services",
+		"component": "ServicesPage",
+		"title": "Сервіси",
+		"layout": "MainLayout",
+		"showIn": "Footer"
+	},
+	"RepositoryPage": {
+		"path": "/repository",
+		"component": "RepositoryPage",
+		"title": "Репозиторій",
+		"layout": "MainLayout",
+		"showIn": "Footer"
+	},
+	"RemoteEducationPage": {
+		"path": "/remote-education",
+		"component": "RemoteEducationPage",
+		"title": "Дистанційна освіта",
+		"layout": "MainLayout",
+		"showIn": "Footer"
+	},
+	"ApplicantPage": {
+		"path": "/applicant",
+		"component": "ApplicantPage",
+		"title": "Абітурієнту",
+		"layout": "MainLayout",
+		"showIn": "Footer"
+	},
+	"EntrantPage": {
+		"path": "/entrant",
+		"component": "EntrantPage",
+		"title": "Вступнику",
+		"layout": "MainLayout",
+		"showIn": "Footer"
+	},
+	"LibraryPage": {
+		"path": "/library",
+		"component": "LibraryPage",
+		"title": "Бібліотека",
+		"layout": "MainLayout",
+		"showIn": "Footer"
+	},
+	"DirectoratePage": {
+		"path": "/structure/directorate",
+		"component": "DirectoratePage",
+		"title": "Директорат",
+		"layout": "MainLayout"
+	},
+	"PostgraduateApplicantsPage": {
+		"path": "/training/postgraduate/applicants",
+		"component": "PostgraduateApplicantsPage",
+		"title": "Для вступників",
+		"layout": "MainLayout"
+	},
+	"MainCouncilPage": {
+		"path": "/structure/councils/main",
+		"component": "MainCouncilPage",
+		"title": "Вчена рада",
+		"layout": "MainLayout"
+	},
+	"YoungCouncilPage": {
+		"path": "/structure/councils/young",
+		"component": "YoungCouncilPage",
+		"title": "Рада молодих вчених",
+		"layout": "MainLayout"
+	},
+	"SpecializedCouncilPage": {
+		"path": "/training/specialized",
+		"component": "SpecializedCouncilPage",
+		"title": "Спеціалізована вчена рада",
+		"layout": "MainLayout"
+	},
+	"SchedulePage": {
+		"path": "/training/postgraduate/schedule",
+		"component": "SchedulePage",
+		"title": "Розклад Занять",
+		"layout": "MainLayout"
+	},
+	"IndividualPlansPage": {
+		"path": "/training/postgraduate/plans",
+		"component": "IndividualPlansPage",
+		"title": "Навчальні плани",
+		"layout": "MainLayout"
+	},
+	"EducationProgramsPage": {
+		"path": "/training/postgraduate/programs",
+		"component": "EducationProgramsPage",
+		"title": "Навчальні плани",
+		"layout": "MainLayout"
+	},
+	"OrdersPage": {
+		"path": "/training/postgraduate/orders",
+		"component": "OrdersPage",
+		"title": "Накази",
+		"layout": "MainLayout"
+	},
+	"RegulationsPage": {
+		"path": "/training/postgraduate/regulations",
+		"component": "RegulationsPage",
+		"title": "Правила та положення",
+		"layout": "MainLayout"
+	},
+	"LicensePage": {
+		"path": "/training/postgraduate/license",
+		"component": "LicensePage",
+		"title": "Правила та положення",
+		"layout": "MainLayout"
+	},
+	"AntiPlagiarismPage": {
+		"path": "/training/postgraduate/antiplagiat",
+		"component": "AntiPlagiarismPage",
+		"title": "Перевірка антиплагіату",
+		"layout": "MainLayout"
+	},
+	"AccreditationPage": {
+		"path": "/training/postgraduate/accreditation",
+		"component": "AccreditationPage",
+		"title": "Акредитація",
+		"layout": "MainLayout"
+	},
+	"Syllabus136Page": {
+		"path": "/training/postgraduate/syllabus-136",
+		"component": "Syllabus136Page",
+		"title": "Силабуси 136",
+		"layout": "MainLayout"
+	},
+	"Syllabus132Page": {
+		"path": "/training/postgraduate/syllabus-132",
+		"component": "Syllabus132Page",
+		"title": "Силабуси 132",
+		"layout": "MainLayout"
+	},
+	"StakeholdersPage": {
+		"path": "/training/postgraduate/stakeholders",
+		"component": "StakeholdersPage",
+		"title": "Стейкхолдери",
+		"layout": "MainLayout"
+	},
+	"SpecCouncilsPage": {
+		"path": "/training/special-councils/metallurgy/phd7744",
+		"component": "SpecCouncilsPage",
+		"title": "Разова спеціалізована вчена рада PhD 7744",
+		"layout": "MainLayout"
+	},
+	"TestingCenterPage": {
+		"path": "/services/testing-center",
+		"component": "TestingCenterPage",
+		"title": "Випробувальний центр",
+		"layout": "MainLayout"
+	},
+	"TechnicalCommitteePage": {
+		"path": "/services/technical-committee",
+		"component": "TechnicalCommitteePage",
+		"title": "Технічний комітет",
+		"layout": "MainLayout"
+	},
+	"EquipmentCenterPage": {
+		"path": "/services/equipment-center",
+		"component": "EquipmentCenterPage",
+		"title": "Центр колективного користування науковими приладами (ЦККП)",
+		"layout": "MainLayout"
+	},
+	"ScientificServicesPage": {
+		"path": "/services/technical-services",
+		"component": "ScientificServicesPage",
+		"title": "Науково-технічні послуги",
+		"layout": "MainLayout"
+	},
+	"ContactsPage": {
+		"path": "/contacts",
+		"component": "ContactsPage",
+		"title": "Контакти",
+		"layout": "MainLayout"
+	},
+	"MonographsPage": {
+		"path": "/publishing/monographs",
+		"component": "MonographsPage",
+		"title": "Контакти",
+		"layout": "MainLayout"
+	},
+	"ProcurementPage": {
+		"path": "/about/procurement",
+		"component": "ProcurementPage",
+		"title": "Контакти",
+		"layout": "MainLayout"
+	},
+	"PersonPage": {
+		"path": "/person/:id",
+		"component": "PersonPage",
+		"title": "Інститут чорної металургії",
+		"layout": "MainLayout"
+	},
+	"NewsPage": {
+		"path": "/news/:id",
+		"component": "NewsPage",
+		"title": "Новини",
+		"layout": "MainLayout"
+	},
+	"KimstachPage": {
+		"path": "/training/specialized/kimstach",
+		"component": "KimstachPage",
+		"title": "Захист Кімстач",
+		"layout": "MainLayout"
+	},
+	"NotFoundPage": {
+		"path": "*",
+		"component": "NotFoundPage",
+		"title": "Страница не найдена",
+		"layout": "HeaderOnlyLayout"
+	}
+}

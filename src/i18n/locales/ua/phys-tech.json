@@ -1,0 +1,360 @@
+{
+	"title": "Відділ фізико-технічних проблем металургії сталі",
+	"firstPersonCard": {
+		"id": "molchanov-lavr-sergiyovych",
+		"photo": "/employees/molchanov.jpg",
+		"position": "Завідувач відділом",
+		"name": "Молчанов Лавр Сергійович",
+		"description": "Кандидат технічних наук",
+		"researchDirection": "Теорія та практика конвертерних процесів, розробка нових та вдосконалення існуючих технологій і обладнання для виробництва сталі в напрямах заощадження енергетичних та матеріальних ресурсів, покращення якості.",
+		"specialization": "G10 Металургія",
+		"contacts": [
+			{
+				"type": "Email",
+				"value": "molchanov@isi.gov.ua"
+			},
+			{
+				"type": "ORCID ID",
+				"value": "https://orcid.org/0000-0001-6139-5956"
+			},
+			{
+				"type": "Google Scholar",
+				"value": "https://scholar.google.com.ua/citations?hl=ru&user=Jl1jc0AAAAAJ"
+			},
+			{
+				"type": "Scopus Author ID",
+				"value": "https://www.scopus.com/authid/detail.uri?authorId=57193955317"
+			}
+		]
+	},
+	"activities": {
+		"items": [
+			"Теорія та практика конвертерних процесів.",
+			"Теорія та технологія високотемпературного моделювання продувки конвертерної ванни та ковшового рафінування чавуну.",
+			"Ресурсо- та енергозбереження за технологічним маршрутом виробництва сталі доменна піч - кисневий конвертер.",
+			"Розробка, дослідження  та впровадження новітніх ресурсо- та енергоефективних методів впливу на теплофізичні, газо-динамічні та рафінувальні процеси у сталеплавильній ванні.",
+			"Пошук рішень щодо підвищення ефективності способів позапічної обробки сталі та удосконалення процесів розливання сталі за рахунок покращення умов використання легуючих, розкислюючих, теплоізолюючих та рафінуючих матеріалів-добавок на основі поліпшення їх технологічних властивостей.",
+			"Розробка пропозицій та обґрунтування нестандартного складу мікролегуючих та рафінуючих композицій, формування рекомендацій по використанню попутних некондиційних продуктів виробництва феросплавів.",
+			"Визначення і використання особливостей гідродинамічного і теплового стану ковшової металевої ванни під час обробки сталі на установці ківш-піч, вакууматорах різного типу та іншому обладнанні позапічної обробки, у тому числі завдяки виявленим при цьому закономірностям і важелям впливу на процеси, що відбуваються, з метою поліпшення якості металу, виробляємої металопродукції та скорочення матеріальних витрат на цих етапах виробництва сталі.",
+			"Обґрунтування раціонального розташування донного продувного вузла по відношенню до місць введення кускових і дротяних добавок в сталерозливних ковшах різної місткості і геометрії ванни; визначення енергозберігаючих режимів продувки, нагріву, розливання сталі та ін."
+		]
+	},
+	"staffCards": [
+		{
+			"id": "chernyatevych-anatolii-hryhorovych",
+			"photo": "/employees/chernyatevych.jpg",
+			"position": "Головний науковий співробітник",
+			"name": "Чернятевич Анатолій Григорович",
+			"description": "Професор, доктор технічних наук",
+			"researchDirection": "Теорія та практика конвертерних процесів, теорія та технологія високотемпературного моделювання продувки конвертерної ванни та ковшового рафінування чавуну. Розробка енергоефективних фурмених пристроїв для попереднього нагріву металевого брухту в конвертері та комбінованої продувки конвертерної ванни з опалюванням відхідних газів. Ресурсо- та енергозбереження за технологічним маршрутом виробництва сталі доменна піч - кисневий конвертер.",
+			"specialization": "G10 Металургія",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "agchern@ua.fm"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-884322"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4552-4997"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=ka4Gt5kAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7003888776"
+				}
+			]
+		},
+		{
+			"id": "piptiuk-vitalii-petrovych",
+			"photo": "/employees/piptiuk.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Піптюк Віталій Петрович",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Розробка нових та вдосконалення існуючих технологій і обладнання для позапічної обробки сталі в напрямах заощадження енергетичних та матеріальних ресурсів; розробка нових низьколегованих марок сталі для металопродукції покращеної якості з підвищеними споживчими властивостями та з метою імпортозаміщення.",
+			"specialization": "G10 Металургія",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "piptyuk_vp@i.ua"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-2915-1756"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=Z5PGmsUAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7801672468"
+				}
+			]
+		},
+		{
+			"id": "semykin-serhii-ivanovych",
+			"photo": "/employees/semykin.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Семикін Сергій Іванович",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Теорія та технологія сталеплавильного виробництва, новітні методи впливу на теплофізичні, газо-динамічні та рафинувальні процеси у сталеплавильній ванні.",
+			"specialization": "G10 Металургія",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isisemykin@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-7365-2259"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=MCr1GRcAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6603391258"
+				}
+			]
+		},
+		{
+			"id": "holub-tetiana-serhiivna",
+			"photo": "/employees/holub.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Голуб Тетяна Сергіївна",
+			"description": "Кандидат технічних наук, дослідник",
+			"researchDirection": "Теорія та технологія сталеплавильного виробництва, розробка та дослідження нових методів впливу на обмінні процеси під час виробництва сталі, розробка та впровадження ефективних елементів технології конвертування в напрямах заощадження.",
+			"specialization": "G10 Металургія",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isinasu.golubts@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-9269-2953"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=uLtbwsUAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=56090113300"
+				}
+			]
+		},
+		{
+			"id": "hrekov-stanislav-viktorovych",
+			"photo": "/employees/hrekov.jpg",
+			"position": "Науковий співробітник",
+			"name": "Греков Станіслав Вікторович",
+			"researchDirection": "Оптимізація процесів плавлення або розчинення феросплавів, що додаються на різних етапах позапічної обробки сталі в залежності від масообмінних процесів, гідродинамічного і теплового стану шлакометалевого розплаву, властивості яких визначаються їх структурою з використанням концепції направленого хімічного зв’язку.",
+			"specialization": "G10 Металургія",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "SV4321@i.ua"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-2848-0999"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=02fBjYMAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=24070262400"
+				}
+			]
+		},
+		{
+			"id": "dudchenko-serhii-oleksandrovych",
+			"position": "Старший науковий співробітник",
+			"name": "Дудченко Сергій Олександрович",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Теорія та практика конвертерних процесів щодо розроблення та дослідження енергоефективного дуттьового режиму конвертерної плавки в умовах накладення низьковольтних електричних потенціалів.",
+			"specialization": "G10 Металургія",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "S.dudchenko@meta.ua"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-7319-9896"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=MhyQ7lEAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=56090178900"
+				}
+			]
+		},
+		{
+			"id": "vakulchuk-volodymyr-viktorovych",
+			"position": "Науковий співробітник",
+			"name": "Вакульчук Володимир Вікторович",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Теорія та практика конвертерних процесів щодо удосконалення технології верхньої продувки конвертерної ванни різноімпульсними газовими струменями.",
+			"specialization": "G10 Металургія",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "vvvakulchuk@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-7887-2843"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=z_EXiWUAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=56770109300"
+				}
+			]
+		},
+		{
+			"id": "yushkevych-pavlo-olehovich",
+			"position": "Старший науковий співробітник",
+			"name": "Юшкевич Павло Олегович",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Розробка нових та вдосконалення існуючих технологій і обладнання для виробництва сталі в напрямах заощадження енергетичних та матеріальних ресурсів, покращення якості.",
+			"specialization": "G10 Металургія",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ISI.DPS.R@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-2675-0737"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=9sBFaw8AAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=59220205700"
+				}
+			]
+		},
+		{
+			"id": "samokhvalov-serhii-yevhenovych",
+			"photo": "/employees/samokhvalov.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Самохвалов Сергій Євгенович",
+			"description": "Професор, доктор технічних наук",
+			"researchDirection": "Математичне моделювання металургійних процесів. Чисельні методи у комп’ютерному моделюванні технологічних процесів",
+			"specialization": "G10 Металургія",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "serg_samokhval@ukr.net"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-7362-213X3"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=RmxmYaYAAAAJ&hl=uk&citsig=AHomdjVGOM-AwM7aRlzPfFtTGdRN"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "http://www.scopus.com/authid/detail.uri?authorId=6603561863"
+				}
+			]
+		},
+		{
+			"id": "kakushkin-yevhenii-zvitozarovych",
+			"photo": "/employees/kakushkin.jpg",
+			"position": "Провідний інженер",
+			"name": "Какушкін Євгеній Світозарович",
+			"description": "",
+			"researchDirection": "Створення моделей для проведення фізичного натурного моделювання процесів виплавки та  обробки сталі, участь у проведенні досліджень щодо ресурсо- та енергозбереження за технологічним маршрутом виробництва сталі доменна піч - кисневий конвертер",
+			"specialization": "G10 Металургія",
+			"contacts": [
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0004-2158-8947"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?view_op=new_articles&hl=uk&imq=%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9&authuser=1#"
+				}
+			]
+		},
+		{
+			"id": "koveria-andrii-serhiiovych",
+			"photo": "/employees/koveria.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Коверя Андрій Сергійович",
+			"description": "Кандидат технічних наук, доцент",
+			"researchDirection": "Отримання біопалива і відновників для використання в металургії; термохімічні процеси переробки горючих копалин; переробка відпрацьованих літій іонних батарей; отримання водню хімічним шляхом та використання його в металургії.",
+			"specialization": "G1 – Вуглецеві матеріали, паливо та відновники",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "nakover13@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/ 0000-0001-7840-1873"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=bLhzqbcAAAAJ&hl=ru"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=36806255500"
+				}
+			]
+		},
+		{
+			"id": "minay-oleksandr-m",
+			"photo": "/employees/minay.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Мінай Олександр Миколайович",
+			"description": "Доктор філософії",
+			"researchDirection": "Чисельне моделювання газо-гідро динамічних процесів, що супроводжують металургійні процеси.",
+			"specialization": "G12 Авіаційна та ракетно-космічна техніка",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "minayan1976@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4180-0149"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com/citations?user=Pjl_r0gAAAAJ&amp;hl=ru"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57222005089"
+				}
+			]
+		}
+	]
+}

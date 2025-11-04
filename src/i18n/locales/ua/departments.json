@@ -1,0 +1,101 @@
+{
+	"titles": {
+		"scientific": "Наукові відділи",
+		"laboratories": "Лабораторії",
+		"technical": "Науково-технічні відділи"
+	},
+	"common": {
+		"staffTitle": "Наукові співробітники відділу:",
+		"activitiesTitle": "Основні напрями діяльності:"
+	},
+	"ScientificDepartments": [
+		{
+			"id": 1,
+			"fullName": "Відділ фізико-хімічних проблем металургійних процесів",
+			"img": "/icons/1.svg",
+			"href": "/scientific-departments/phys-chem"
+		},
+		{
+			"id": 2,
+			"fullName": "Відділ металургії чавуну",
+			"img": "/icons/2.svg",
+			"href": "/scientific-departments/pig-iron"
+		},
+		{
+			"id": 3,
+			"fullName": "Відділ позапічної обробки чавуну",
+			"img": "/icons/3.svg",
+			"href": "/scientific-departments/iron-refining"
+		},
+		{
+			"id": 4,
+			"fullName": "Відділ фізико-технічних проблем металургії сталі",
+			"img": "/icons/4.svg",
+			"href": "/scientific-departments/phys-tech"
+		},
+		{
+			"id": 5,
+			"fullName": "Відділ процесів і машин обробки металів тиском",
+			"img": "/icons/5.svg",
+			"href": "/scientific-departments/pressure"
+		},
+		{
+			"id": 6,
+			"fullName": "Відділ проблем деформаційно-термічної обробки конструкційних сталей",
+			"img": "/icons/6.svg",
+			"href": "/scientific-departments/dto-steel"
+		},
+		{
+			"id": 7,
+			"fullName": "Відділ термічної обробки металу для машинобудування",
+			"img": "/icons/7.svg",
+			"href": "/scientific-departments/ht-machinery"
+		},
+		{
+			"id": 8,
+			"fullName": "Відділ технологічного обладнання та систем управління",
+			"img": "/icons/8.svg",
+			"href": "/scientific-departments/equipment"
+		}
+	],
+	"Laboratories": [
+		{
+			"id": 1,
+			"fullName": "Лабораторія теплотехніки та енергозберігаючих технологій доменної плавки",
+			"img": "/icons/9.svg",
+			"href": "/scientific-departments/lab-heat-tech"
+		},
+		{
+			"id": 2,
+			"fullName": "Лабораторія проблем виробництва плоского прокату",
+			"img": "/icons/10.svg",
+			"href": "/scientific-departments/lab-flat-rolling"
+		},
+		{
+			"id": 3,
+			"fullName": "Лабораторія проблем структуроутворення і властивостей чорних металів",
+			"img": "/icons/11.svg",
+			"href": "/scientific-departments/lab-structure-properties"
+		}
+	],
+	"TechnicalDepartments": [
+		{
+			"id": 1,
+			"fullName": "Науково-організаційний відділ",
+			"img": "/icons/12.svg",
+			"href": "/technical-departments/organization"
+		},
+		{
+			"id": 2,
+			"fullName": "Відділ стандартизації та управління якістю продукції",
+			"img": "/icons/13.svg",
+			"href": "/technical-departments/quality"
+		},
+		{
+			"id": 3,
+			"fullName": "Відділ головного метролога",
+			"img": "/icons/14.svg",
+			"href": ""
+		}
+	]
+}

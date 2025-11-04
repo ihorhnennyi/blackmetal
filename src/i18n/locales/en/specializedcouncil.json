@@ -1,0 +1,53 @@
+{
+	"title": "Specialized Academic Council D 08.231.01",
+	"blocks": [
+		{
+			"type": "text",
+			"content": "Specialized Academic Council D 08.231.01 with the right to consider and conduct the defense of dissertations for the degree of Doctor of Technical Sciences in the specialties:"
+		},
+		{
+			"type": "text",
+			"content": "05.16.01 – Materials Science and Heat Treatment of Metals;"
+		},
+		{
+			"type": "text",
+			"content": "05.16.02 – Metallurgy of Ferrous, Non-Ferrous Metals and Special Alloys."
+		},
+		{
+			"type": "document",
+			"data": {
+				"title": "Council Composition",
+				"link": "/Д-08.231.01.pdf"
+			}
+		},
+		{
+			"type": "text",
+			"content": "Chairman of the Council: Chernyatevych Anatolii Hryhorovych, Doctor of Technical Sciences, Professor, Chief Researcher."
+		},
+		{
+			"type": "text",
+			"content": "Deputy Chairman: Merkulov Oleksii Yevhenovych, Doctor of Technical Sciences, Senior Researcher, Deputy Director of the Institute."
+		},
+		{
+			"type": "text",
+			"content": "Academic Secretary: Kononenko Hanna Andriivna, Doctor of Technical Sciences, Senior Researcher."
+		},
+		{
+			"type": "text",
+			"content": "Term of office of the Specialized Academic Council D 08.231.01 is from 26.06.2024 to 26.06.2027."
+		},
+		{
+			"type": "contacts",
+			"data": [
+				{
+					"type": "Phone",
+					"value": "+38(056) 790-05-14"
+				},
+				{
+					"type": "Email",
+					"value": "office.isi@nas.gov.ua"
+				}
+			]
+		}
+	]
+}

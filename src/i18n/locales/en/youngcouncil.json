@@ -1,0 +1,276 @@
+{
+	"title": "Council of Young Scientists",
+	"data": [
+		{
+			"id": "podolskyi-rostyslav-viacheslavovych",
+			"photo": "/employees/podolskyi.jpg",
+			"position": "Chairman of the Council of Young Scientists",
+			"name": "Podolskyi Rostyslav Viacheslavovych",
+			"description": "Doctor of Philosophy (PhD)",
+			"researchDirection": "Development of a scientifically based complex of technological solutions for the production of railway rails and research of the influence of the structural state on mechanical properties ensuring high operational stability. Research of the structural state and complex of mechanical properties of products manufactured by additive production methods for application in various operational conditions.",
+			"specialization": "132 – Materials Science",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "rostislavpodolskij@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-0288-0641"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=xUHD_2wAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57244145000"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/32788823"
+				}
+			]
+		},
+		{
+			"id": "tsiupa",
+			"photo": "/employees/tsiupa.jpg",
+			"position": "Deputy Chairman of the Council of Young Scientists",
+			"name": "Tsiupa Nataliia Oleksandrivna",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Influence of alkalis on the properties of oxide systems and their melts. Modeling of the processes of interaction of alkaline compounds in the 'slag-metal-gas-lining' systems.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "tysya6669@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-0682-461X"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=OSMX5ncAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57203586351"
+				}
+			]
+		},
+		{
+			"id": "povorotnia",
+			"photo": "/employees/povorotnia.jpg",
+			"position": "Secretary",
+			"name": "Povorotnia Iryna Romanivna",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Research of the processes of distribution and efficiency of assimilation of alloying elements in the 'metal-slag-gas' system. Improvement of technological methods for introducing additives into the metal melt to achieve their maximum degree of assimilation, improve steel quality indicators, reduce energy and raw material costs during steel smelting.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "iro4ka01091990@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-5872-7403"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=6jebBSwAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57222352527"
+				}
+			]
+		},
+		{
+			"id": "manachyn",
+			"photo": "/employees/manachyn.jpg",
+			"position": "Member of the Council of Young Scientists",
+			"name": "Manachyn Ivan Oleksandrovych",
+			"description": "Candidate of Technical Sciences, Senior Researcher",
+			"researchDirection": "Research on the study of mass transfer processes during the introduction of dispersed magnesium and non-magnesium reagents into cast iron, both in the tuyere zone and in the volume of the entire melt. Participant in the industrial development and improvement of desulfurization processes.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "imanachyn@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-9795-6751"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=MPdv2eQAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55540277500"
+				}
+			]
+		},
+		{
+			"id": "klemeshov-jevgen-sergijovich",
+			"photo": "/employees/klemeshov-jevgen-sergijovich.jpg",
+			"name": "Klemeshov Yevhen Serhiiovych",
+			"position": "Member of the Council of Young Scientists",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Mathematical modeling of metal forming processes",
+			"specialization": "05.03.05 – Processes and Machines of Pressure Treatment",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "klemeshov.evgen@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57217104095"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57217104095"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/55757155"
+				}
+			]
+		},
+		{
+			"id": "kornilov",
+			"position": "Member of the Council of Young Scientists",
+			"name": "Kornilov Bohdan Volodymyrovych",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Development of mathematical models of thermal operation and monitoring of heat losses, lining wear of the shaft and hearth of blast furnaces, heat losses of the blast furnace, including for diagnosing disorders in the furnace operation at early stages. Improvement of existing technologies and development of new technologies (including the use of hydrogen-containing fuel) aimed at decarbonization of blast furnace production.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys",
+			"contacts": [
+                {
+                    "type": "Email",
+                    "value": "balesan2209@gmail.com"
+                },
+                {
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0002-5544-3023"
+                },
+                {
+                    "type": "Google Scholar",
+                    "value": "https://scholar.google.com.ua/citations?user=eRjJNjQAAAAJ"
+                },
+                {
+                    "type": "Scopus Author ID",
+                    "value": "https://www.scopus.com/authid/detail.uri?authorId=57204979621"
+                },
+                {
+                    "type": "bibliographic",
+                    "value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0024770"
+                }
+			]
+		},
+		{
+			"id": "yushkevych-pavlo-olehovich",
+			"position": "Member of the Council of Young Scientists",
+			"name": "Yushkevych Pavlo Olehovich",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Development of new and improvement of existing technologies and equipment for steel production in the areas of saving energy and material resources, improving quality.",
+			"specialization": "G10 Metallurgy",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ISI.DPS.R@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-2675-0737"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=9sBFaw8AAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=59220205700"
+				}
+			]
+		},
+		{
+			"id": "safronova-olena-anatoliivna",
+			"photo": "/employees/safronova.jpg",
+			"position": "Member of the Council of Young Scientists",
+			"name": "Safronova Olena Anatoliivna",
+			"researchDirection": "Development of scientific principles and technological solutions for new processes of railway axle production, research of the influence of the structural state and complex of properties on operational reliability.",
+			"specialization": "132 – Materials Science",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "alena.safronova1997@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4032-4275"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=MsPSVxwAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57324547800"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/27284234"
+				}
+			]
+		},
+		{
+			"id": "oliinyk-eduard-vadymovych",
+			"photo": "/employees/oliinyk-eduard-vadymovych.jpg",
+			"position": "Member of the Council of Young Scientists",
+			"name": "Oliinyk Eduard Vadymovych",
+			"researchDirection": "Features of the course of phase and structural transformations in carbon, alloyed and complex-alloyed steels under conditions of continuous and isothermal cooling. Development of improved technological solutions for metallurgical and metalworking enterprises, allowing for the processing of rolled products with reduced material costs.",
+			"specialization": "",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ediknsk@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-3366-3746"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=Qx5H8ScAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=60042063200&origin=resultslist"
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
+		},
+		{
+			"position": "Member of the Council of Young Scientists",
+			"name": "Shcherbachov Vadym Rodionovych"
+		}
+	]
+}

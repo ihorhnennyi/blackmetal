@@ -1,0 +1,64 @@
+{
+	"title": "Scientific and Organizational Department",
+	"firstPersonCard": {
+		"id": "tuboltsev-leonid-hryhorovych",
+		"position": "Department Head",
+		"name": "Tuboltsev Leonid Hryhorovych",
+		"description": "Candidate of Technical Sciences, Senior Researcher",
+		"contacts": [
+			{
+				"type": "Email",
+				"value": " isi.tubol@gmail.com"
+			}
+		]
+	},
+	"activities": {
+		"items": [
+			"Scientific-methodological and organizational support for the implementation of research works of the institute.",
+			"Conducting scientific research to identify trends in the development of world and domestic metallurgy.",
+			"Scientific-methodological support for the protection of intellectual property objects, conducting patent research and preparing materials for inventions, 'know-how', selling licenses in cooperation with the State Department of Intellectual Property of the Ministry of Education and Science.",
+			"Preparation of reporting materials on the implementation of the R&D plan, annual reports on the scientific and scientific-organizational activities of the institute.",
+			"Editing and publishing the collection of scientific works 'Fundamental and Applied Problems of Metallurgy', monographs, textbooks, etc.",
+			"Organization of work on the training of scientific personnel in doctoral and postgraduate studies; control over the implementation of work plans for the preparation of dissertations for obtaining scientific degrees, conducting annual certification of doctoral students and postgraduate students.",
+			"Assistance to the institute's departments in preparing and conducting competitions for filling vacant scientific positions and preparing materials for the Higher Attestation Commission of Ukraine for the awarding of scientific titles."
+		]
+	},
+	"staffCards": [
+		{
+			"id": "tuboltsev-leonid-hryhorovych",
+			"position": "Senior Researcher",
+			"name": "TUBOLTSEV Leonid Hryhorovych",
+			"description": "Candidate of Technical Sciences",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isi.tubol@gmail.com"
+				}
+			]
+		},
+		{
+			"id": "perkov-oleh-mykolaiovych",
+			"name": "Perkov Oleh Mykolaiovych"
+		},
+		{
+			"id": "hupalo-olena-viacheslavivna",
+			"name": "Hupalo Olena Viacheslavivna"
+		},
+		{
+			"id": "kuzmychov-viacheslav-mykhailovych",
+			"name": "Kuzmychov Viacheslav Mykhailovych"
+		},
+		{
+			"id": "riaskova-nadiia-spyrydonivna",
+			"name": "Riaskova Nadiia Spyrydonivna"
+		},
+		{
+			"id": "horokhova-viktoria-oleksandrivna",
+			"name": "Horokhova Viktoria Oleksandrivna"
+		},
+		{
+			"id": "kyselova-valentyna-viktorivna",
+			"name": "Kyselova Valentyna Viktorivna"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Злиток сталі -->
+  <rect x="24" y="28" width="16" height="10" fill="#B0BEC5" stroke="#455A64" stroke-width="2"/>
+
+  <!-- Стрілка деформації зверху -->
+  <path d="M32 10 V28" stroke="#D32F2F" stroke-width="2" marker-end="url(#arrow)"/>
+  <!-- Стрілка термічної обробки (вогонь) -->
+  <path d="M20 45 C22 42, 26 42, 28 45 C30 48, 34 48, 36 45 C38 42, 42 42, 44 45" fill="#FF5722"/>
+
+  <!-- Стрілка охолодження знизу -->
+  <path d="M32 56 V38" stroke="#0288D1" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Маркер для стрілок -->
+  <defs>
+    <marker id="arrow" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="currentColor"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,82 @@
+{
+	"title": "Syllabi 132",
+	"data": [
+		{
+			"title": "Documentation",
+			"link": "/syllabus132/1-1-Документування.pdf",
+			"date": "13.12.2013"
+		},
+		{
+			"title": "Information Technologies",
+			"link": "/syllabus132/1-2-Інформаційні-технології.pdf"
+		},
+		{
+			"title": "Research Methodology",
+			"link": "/syllabus132/1-3-Методологія-досліджень.pdf"
+		},
+		{
+			"title": "Patent and Information",
+			"link": "/syllabus132/1-4-Патентно-інформаційні.pdf"
+		},
+		{
+			"title": "Philosophy of NASU",
+			"link": "/syllabus132/1-5-Філослфія-НАНУ.pdf"
+		},
+		{
+			"title": "Foreign Language",
+			"link": "/syllabus132/1-6-Іноземна-мова.pdf"
+		},
+		{
+			"title": "Fundamentals of Heat Treatment of Carbon and Alloy Steels",
+			"link": "/syllabus132/2-1-Основи-термічної-обробки-вуглецевих-і-легованих-сталей.pdf"
+		},
+		{
+			"title": "Scientific and Pedagogical Practice",
+			"link": "/syllabus132/2-2-Науково-педагогічна-практика (1).pdf"
+		},
+		{
+			"title": "Modeling of Phase and Structural Transformations",
+			"link": "/syllabus132/2-3-Модел_фаз_струк_перетворень.pdf"
+		},
+		{
+			"title": "Physical Fundamentals of Non-Destructive Material Testing",
+			"link": "/syllabus132/2-4-Фіз_основ_неруйн_контр_матер.pdf"
+		},
+		{
+			"title": "Materials Science in Additive Manufacturing",
+			"link": "/syllabus132/2-5-Матеріалознавство-у-адитивному-виробництві.pdf"
+		},
+		{
+			"title": "Materials Science of Railway Structural Steels",
+			"link": "/syllabus132/2-6-Матеріалознавство-конструкційних-сталей-залізничного-призначення.pdf"
+		},
+		{
+			"title": "Strength and Fracture of Materials",
+			"link": "/syllabus132/2-7-Міцність-та-руйнування-матеріалів.pdf"
+		},
+		{
+			"title": "Theoretical and Technological Foundations of Manufacturing and Processing Steel Rolled Products Based on Resource and Energy Saving",
+			"link": "/syllabus132/2-8-Теор_та_техн_осн_вигот_та_перер_стал_прок_на_зас_ресурсо-та-енергозбереження.pdf"
+		},
+		{
+			"title": "Fundamentals of Structure Formation of Metals and Alloys",
+			"link": "/syllabus132/2-9-Основи-структуроутворення-металів-і-сплавів (1).pdf"
+		},
+		{
+			"title": "Technology of Thermally Strengthened Reinforcing Rolled Products for Building Structures",
+			"link": "/syllabus132/2-10-Техн_терм_зміц_армат_прок_для_буд_констр.pdf"
+		},
+		{
+			"title": "Structural Heredity in Steels and Alloys",
+			"link": "/syllabus132/2-11-Структурна-спадковість-в-сталях-і-сплавах (1).pdf"
+		},
+		{
+			"title": "Methods for Assessing the Quality of Metal Products",
+			"link": "/syllabus132/2-12-Методи-оцінки-якості-металопродукції (1).pdf"
+		},
+		{
+			"title": "Technologies and Equipment for Heat Treatment",
+			"link": "/syllabus132/2-13-Технології-та-обладнання-термічної-обробки-металопрокату (1).pdf"
+		}
+	]
+}

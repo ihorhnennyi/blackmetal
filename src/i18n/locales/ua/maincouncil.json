@@ -1,0 +1,697 @@
+{
+	"title": "Вчена рада",
+	"data": [
+		{
+			"id": "babachenko",
+			"photo": "/employees/babachenko.jpg",
+			"position": "Директор, член-кореспондент НАН України",
+			"name": "Бабаченко Олександр Іванович",
+			"description": " Доктор технічних наук, старший науковий співробітник",
+			"researchDirection": "Розробка наукових положень і технологічних рішень щодо нових процесів виробництва колісно-бандажних сталей і залізничних коліс і бандажів, що забезпечують високий рівень їх ресурсу. Дослідження впливу структурного стану і комплексу властивостей різних видів сталевого прокату на його експлуатаційну надійність",
+			"specialization": "05.02.01 – Матеріалознавство",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "a_babachenko@i.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878708 "
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=0P3Q8GUAAAAJ "
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0003-4710-0343 "
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602718336"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/2510193 "
+				}
+			]
+		},
+		{
+			"id": "parusov-eduard-volodymyrovych",
+			"photo": "/employees/parusov-eduard-volodymyrovych.jpg",
+			"position": "Заступник директора з наукової роботи, завідуючий відділом",
+			"name": "Парусов Едуард Володимирович",
+			"description": "Доктор технічних наук, старший науковий співробітник",
+			"researchDirection": "Деформаційно-термічна обробка металів і сплавів; особливості перебігу фазових та структурних перетворень в вуглецевих і легованих сталях за безперервного та ізотермічного охолодження; розроблення і промислове впровадження наскрізних технологій виготовлення та перероблення бунтового прокату з низьковуглецевих, високовуглецевих і низьковуглецевих легованих сталей.",
+			"specialization": "05.02.01 – Матеріалознавство",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "tometal@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878138 "
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=eE1rZKgAAAAJ "
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-4560-2043"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=8367262600"
+				},
+				{
+					"type": "Web Of Science",
+					"value": "https://www.webofscience.com/wos/author/record/504824 "
+				},
+				{
+					"type": "researchgate",
+					"value": "https://www.researchgate.net/profile/Eduard-Parusov-2"
+				}
+			]
+		},
+		{
+			"id": "merkulov",
+			"photo": "/employees/merkulov.jpg",
+			"position": "Заступник директора з наукової роботи,  старший науковий співробітник",
+			"name": "Меркулов Олексій Євгенович",
+			"description": "Доктор технічних наук",
+			"researchDirection": "Системний аналіз металургії чавуну та сталі, удосконалення паливовикористання в металургійних процесах, розвиток нових енергозаощаджуючих металургійних технологій отримання металів.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "merkulov1@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-885114"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=_yXSDsEAAAAJ&hl=uk"
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-7867-0659"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=35771153100"
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				},
+				{
+					"type": "bibliographic",
+					"value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0015295"
+				}
+			]
+		},
+
+		{
+			"id": "harmash",
+			"photo": "/employees/harmash.jpg",
+			"position": "Вчений секретар, старший науковий співробітник",
+			"name": "Гармаш Лариса Іванівна",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Дослідження металургійних властивостей залізорудної сировини та палива з метою підвищення їх якості та можливості використання нових типів сировини (в тому числі, вторинних ресурсів) у чорній металургії. Рахунково-аналітичні дослідження впливу властивостей ЗРС на параметри доменної плавки. Дослідження можливостей зменшення використання вуглецю в доменному виробництві,в тому числі, при використанні водню.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "larysagar@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=-lIS5x0AAAAJ"
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-6873-6685"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602438520 "
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
+		},
+		{
+			"id": "podolskyi-rostyslav-viacheslavovych",
+			"photo": "/employees/podolskyi.jpg",
+			"position": "Голова Ради молодих вчених",
+			"name": "Подольський Ростислав Вячеславович",
+			"description": "доктор філософських наук (PhD)",
+			"researchDirection": "Розробка науково-обґрунтованого комплексу технологічних рішень виробництва залізничних рейок та дослідження впливу структурного стану на механічні властивості, що забезпечують високу експлуатаційну стійкість.  Дослідження структурного стану та комплексу механічних властивостей виробів, виготовлених адитивним способом виробництва  для застосування в різних експлуатаційних умовах.",
+			"specialization": "132 – Матеріалознавство",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "rostislavpodolskij@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-0288-0641"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=xUHD_2wAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57244145000"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/32788823"
+				}
+			]
+		},
+		{
+			"id": "baiul-kostiantyn-vasylovych",
+			"photo": "/employees/baiul-kostiantyn-vasylovych.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Баюл Костянтин  Васильович",
+			"description": "Доктор технічних наук, старший дослідник",
+			"researchDirection": "Розробка технологій та обладнання для брикетування дрібнофракційних матеріалів.",
+			"specialization": "05.05.08 – Машини для металургійного виробництва",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "baiulkonstantin@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-70025"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-1426-7956"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=oSs1UWIAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6505600072"
+				}
+			]
+		},
+		{
+			"id": "bobyr-sergij-volodimirovich",
+			"photo": "/employees/bobyr-sergij-volodimirovich.jpg",
+			"position": "Провідний науковий співробітник",
+			"name": "Бобирь Сергій Володимирович",
+			"description": "Доктор технічних наук, старший науковий співробітник",
+			"researchDirection": "Розроблення комплексних режимів термічного оброблення для підвищення зносо- та термостійкості металовиробів у машинобудуванні. Аналіз та моделювання нерівноважних фазово-структурних перетворень у сталях та сплавах. Дифузійні процеси у металах та сплавах, подальший розвиток термодинамічних засад теорій дифузії.",
+			"specialization": "05.16.01 – Металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "svbobyr07@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878711 "
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6816-1554"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=otI1cPUAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55556749700"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/2510802"
+				},
+				{
+					"type": "sciprofiles",
+					"value": "https://sciprofiles.com/profile/1477338"
+				},
+				{
+					"type": "researchgate",
+					"value": "https://www.researchgate.net/profile/Sergey-Bobyr?ev=hdr_xprf"
+				}
+			]
+		},
+		{
+			"id": "kysliakov",
+			"photo": "/employees/kysliakov.jpg",
+			"position": "Завідувач відділом, старший науковий співробітник",
+			"name": "Кисляков Володимир Геннадійович",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Розрахунково-теоретичні та експериментальні дослідження, а також технологічні розробки у напрямку позапічного рафінування чавуну і масообмінних процесів системи «рідкий чавун-ковшовий шлак- реагент, що вводиться». Виконання комплексних робіт при налагодженні, доведенні і освоєнні промислових об’єктів позапічної десульфурації чавуну",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "vovkadragon12@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-1775-5050"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=KHwOJrgAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602476409"
+				}
+			]
+		},
+		{
+			"id": "kononenko-hanna-andriivna",
+			"photo": "/employees/kononenko.jpg",
+			"position": "Cтарший науковий співробітник",
+			"name": "Кононенко Ганна Андріївна",
+			"description": "Доктор технічних наук, старший дослідник",
+			"researchDirection": "Вдосконалення існуючих та розробка нових марок сталей для виробництва металопродукції залізничного призначення, що забезпечують високі значення зносостійкості і підвищений опір термічному впливу при експлуатації. Розвиток теоретичних положень про вплив гарячої пластичної деформації на формування кінцевої структури з урахуванням спадкового впливу первинної дендритно-зеренної структури у зіставленні з хімічною неоднорідністю, яка виникає при кристалізації. Розвиток наукових і технологічних положень ефективних процесів формування структурного стану та комплексу механічних властивостей виробів, виготовлених адитивним способом виробництва  для застосування в різних експлуатаційних умовах.",
+			"specialization": "05.02.01 — Матеріалознавство",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "perlit@ua.fm"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-885097"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-7446-4105"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=BJW8bsEAAAAJ&hl=ru"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7007038178"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/23626556"
+				}
+			]
+		},
+		{
+			"id": "lebid",
+			"position": "Старший науковий співробітник",
+			"photo": "/employees/lebid.jpg",
+			"name": "Лебідь Віталій Васильович",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Дослідження і удосконалення технології доменної плавки управлінням розподілом шихти і газів із застосуванням сучасних засобів контролю і математичного моделювання",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "vitalii.lebid@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0006-6193-5530"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=oeJjP4EAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=12780526000"
+				},
+				{
+					"type": "bibliographic",
+					"value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0011794"
+				}
+			]
+		},
+		{
+			"id": "lutsenko-vladyslav-anatoliiovych",
+			"photo": "/employees/lutsenko-vladyslav-anatoliiovych.jpg",
+			"position": "Провідний науковий співробітник",
+			"name": "Луценко Владислав Анатолійович",
+			"description": "Доктор технічних наук, старший науковий співробітник",
+			"researchDirection": "Деформаційно-термічна обробка металів і сплавів; перебіг фазових та структурних перетворень в вуглецевих і легованих сталях. Особливості процесів окалиноутворення та зневуглецювання на поверхні прокату. Розроблення і промислове впровадження технологій виготовлення прокату з вуглецевих і легованих сталей.  ",
+			"specialization": "05.16.01 – Металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "lutsenko-VA@i.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-885089 "
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4604-5592"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=eQUn2zkAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7004367566"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/15877725 "
+				}
+			]
+		},
+		{
+			"id": "molchanov-lavr-sergiyovych",
+			"photo": "/employees/molchanov.jpg",
+			"position": "Завідувач відділом",
+			"name": "Молчанов Лавр Сергійович",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Теорія та практика конвертерних процесів, розробка нових та вдосконалення існуючих технологій і обладнання для виробництва сталі в напрямах заощадження енергетичних та матеріальних ресурсів, покращення якості.",
+			"specialization": "G10 Металургія",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "molchanov@isi.gov.ua"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6139-5956"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=Jl1jc0AAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57193955317"
+				}
+			]
+		},
+		{
+			"id": "muraviova",
+			"photo": "/employees/muraviova.jpg",
+			"position": "Провідний науковий співробітник",
+			"name": "Муравйова Ірина Геннадіївна",
+			"description": "Доктор технічних наук, старший науковий співробітник",
+			"researchDirection": "Дослідження та розробка комплексних прийомів і способів управління доменною піччю зверху з використанням нових засобів контролю і аналізу технологічних параметрів.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "irinamuravyova@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878710"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-5926-7787"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=AMMEhCsAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6603854838"
+				}
+			]
+		},
+		{
+			"id": "prykhodko-ihor-yuriiovych",
+			"photo": "/employees/prykhodko.jpg",
+			"position": "Завідувач відділом",
+			"name": "Приходько Ігор Юрійович",
+			"description": "Доктор технічних наук, старший науковий співробітник",
+			"researchDirection": "Дослідження, удосконалення існуючих та розробка  нових технологічних процесів гарячої та холодної прокатки штаб",
+			"specialization": "05.03.05 – Процеси та машини обробки тиском",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isi@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878141"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-5651-8106"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=1a4kQMUAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6701369789"
+				}
+			]
+		},
+		{
+			"id": "semenov-yuriy-stanislavovych",
+			"photo": "/employees/semenov-yuriy-stanislavovych.jpg",
+			"position": "Завідувач відділу, старший науковий співробітник",
+			"name": "Семенов Юрій Станіславович",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Розробка комплексних прийомів та способів управління доменною піччю, в тому числі, з використанням нових засобів контролю; математичних моделей процесів завантаження шихтових матеріалів і їх розподілу в доменній печі; інтелектуальних систем підтримки прийняття рішень з управління доменної плавкою; технології завантаження доменних печей багатокомпонентними шихтовими матеріалами.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "yuriy.semenov.isi@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-2299-5742"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=T91etI4AAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57194100443"
+				}
+			]
+		},
+		{
+			"id": "stepanenko",
+			"photo": "/employees/stepanenko.jpg",
+			"position": "Завідувач відділом",
+			"name": "Степаненко Дмитро Олександрович",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Аналітичні та експериментальні дослідження властивостей (в’язкість, електропровідність, температури плавлення та ін.), мінералогічного і фазового складу металургійних шлаків та їх фізико-хімічної взаємодії з металевими розплавами та вогнетривами. Дослідження структури оксидних і шлакових розплавів. Обґрунтування та розробка технологічних показників шлакового режиму при виробництві чавуну та сталі.",
+			"specialization": " 05.16.02 – Металургія чорних і кольорових металів, та спеціальних сплавів.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "d.gorodenskiy@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-0184-8295"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=u-pZEKoAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=56974001300"
+				}
+			]
+		},
+		{
+			"id": "tohobitska",
+			"photo": "/employees/tohobitska.jpg",
+			"position": "Провідний науковий співробітник",
+			"name": "Тогобицька Дар’я Миколаївна",
+			"description": "Професор, доктор технічних наук",
+			"researchDirection": "Методологічні та теоретичні основи оптимізації металургійних технологій на основі комплексного вико­ристання математичного та фізико-хімічного моделювання. Створення бази знань та інтелектуальних систем прийняття рішень при управлінні металургійними процесами.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів, та спеціальних сплавів.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "dntog@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-884564"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6413-4823"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=NFNXbqIAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602585340"
+				}
+			]
+		},
+		{
+			"id": "chaika-oleksii-leonidovych",
+			"photo": "/employees/chaika-oleksii-leonidovych.jpg",
+			"position": "Завідувач лабораторією",
+			"name": "Чайка Олексій Леонідович",
+			"description": "Старший науковий співробітник, кандидат технічних наук",
+			"researchDirection": "Розвиток та реалізація нового наукового напряму в області доменного виробництва – системної надійності при виробництві чавуну: пошук формалізованими методами і на основі дослідних плавок, компромісних рішень, які забезпечують, необхідний об’єм виплавки чавуну заданої якості, мінімальну витрату енергетичних ресурсів і забезпечення технічної надійності доменної печі та агрегатів, що її обслуговують, мінімального шкідливого впливу виробництва на оточуюче середовище.",
+			"specialization": "05.16.02  ”Металургія чорних і кольорових металів та спеціальних сплавів”",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "chaykadp@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-1678-2580"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com/citations?user=MA7tga8AAAAJ&hl=ru"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=15044043200"
+				},
+				{
+					"type": "bibliographic",
+					"value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0013008"
+				}
+			]
+		},
+		{
+			"id": "chernyatevych-anatolii-hryhorovych",
+			"photo": "/employees/chernyatevych.jpg",
+			"position": "Головний науковий співробітник",
+			"name": "Чернятевич Анатолій Григорович",
+			"description": "Професор, доктор технічних наук",
+			"researchDirection": "Теорія та практика конвертерних процесів, теорія та технологія високотемпературного моделювання продувки конвертерної ванни та ковшового рафінування чавуну. Розробка енергоефективних фурмених пристроїв для попереднього нагріву металевого брухту в конвертері та комбінованої продувки конвертерної ванни з опалюванням відхідних газів. Ресурсо- та енергозбереження за технологічним маршрутом виробництва сталі доменна піч - кисневий конвертер.",
+			"specialization": "G10 Металургія",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "agchern@ua.fm"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-884322"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4552-4997"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=ka4Gt5kAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7003888776"
+				}
+			]
+		},
+		{
+			"id": "chuiko-ihor-mykolaiovych",
+			"photo": "/employees/chuiko-ihor-mykolaiovych.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Чуйко Ігор Миколайович",
+			"description": "Кандидат технічних наук, старший дослідник",
+			"researchDirection": "Вирішення науково-прикладних проблем виробництва високоефективних видів сталевого прокату різноманітного призначення і його подальшого перероблення в умовах металовиробних підприємств. Розвиток наукових і технологічних засад керування структурою та властивостями легованих сталей з урахуванням особливостей утворення і трансформації метастабільних фаз. Створення енергоощадних технологій деформаційно-термічної обробки вуглецевих і легованих сталей для покращення фізико-механічних і експлуатаційних властивостей металовиробів відповідального призначення.",
+			"specialization": "05.16.01 – Металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ferrosplav@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4753-614X"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=TaoMBcwAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57211226481"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/1661603 "
+				},
+				{
+					"type": "researchgate",
+					"value": "https://www.researchgate.net/profile/Ihor-Chuiko"
+				}
+			]
+		},
+		{
+			"id": "shevchenko-serhii-anatoliiovych",
+			"photo": "/employees/shevchenko.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Шевченко Сергій Анатолійович",
+			"researchDirection": "Розрахунково-теоретичні та експериментальні дослідження закономірностей гідро-аеродинаміки інжекційного введення диспергованих реагентів в ванну чавуну. Учасник промислового освоєння і вдосконалення процесів десульфурації.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"description": "Кандидат технічних наук",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "shev_serg@i.ua"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-9287-9177"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=vS3c7ykAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57208017658"
+				}
+			]
+		}
+	]
+}

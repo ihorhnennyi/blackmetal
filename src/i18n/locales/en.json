@@ -1,0 +1,51 @@
+{
+	"routes": {
+		"HomePage": "Institute of Ferrous Metallurgy",
+		"DashboardPage": "Dashboard",
+		"ServicesPage": "Services",
+		"RepositoryPage": "Repository",
+		"RemoteEducationPage": "Remote Education",
+		"ApplicantPage": "For Applicants",
+		"EntrantPage": "For Entrants",
+		"LibraryPage": "Library",
+		"ProcurementPage": "Procurement"
+	},
+	"components": {
+		"document-card": {
+			"see": "View",
+			"download": "Download"
+		},
+		"search": "Search"
+	},
+	"contacts": {
+		"encyclopedia": "Encyclopedia",
+		"googleScholar": "Google Scholar",
+		"orcid": "ORCID iD",
+		"scopus": "Scopus Author ID",
+		"webofscience": "Web of Science"
+	},
+	"footer": {
+		"map": "Site map",
+		"about": "About site",
+		"location": "LOCATION",
+		"address": "Dnipro, 1 Akademik Starodubov Square",
+		"contacts": "CONTACTS",
+		"question": "ASK QUESTIONS",
+		"questionButton": "Feedback",
+		"socials": "SOCIALS"
+	},
+
+	"logo": {
+		"text": "Iron and Steel Institute of <br /> Z.I. Nekrasov <br /> National Academy of Sciences of Ukraine"
+	},
+	"buttonNews": {
+		"go": "Read more"
+	},
+	"common": {
+		"readMore": "Read more"
+	},
+	"notFound": {
+		"title": "Page not found",
+		"backButton": "Back to home"
+	}
+}

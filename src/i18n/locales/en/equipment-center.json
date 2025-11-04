@@ -1,0 +1,149 @@
+{
+	"title": "Center for Collective Use of Scientific Instruments (CCUSI)",
+	"viewRegulation": "CCUSI Regulations",
+	"viewRegulation2": "List of equipment",
+	"viewRegulation3": "Access regulations",
+	"equipment1": "1. Benchtop scanning electron microscope with thermionic cathode «Coxem EM-40», «COXEM CO., LTD», Republic of Korea.",
+	"equipmentDescriptionTitle": "Equipment Description:",
+	"equipmentDescription": "Benchtop scanning electron microscope with thermionic cathode, model: «Coxem EM-40», brand: «Coxem», manufacturer: «COXEM CO., LTD», country of origin: Republic of Korea (South Korea), year of manufacture/supply to CCUSI: 2024.",
+	"applicationAreaTitle": "Application Area:",
+	"applicationArea": "The benchtop scanning electron microscope «Coxem EM-40» is designed for detailed studies of the structure of ferrous metal and alloy samples on the surface and in thin layers with high resolution.",
+	"technicalCharacteristicsTitle": "Technical Characteristics:",
+	"tableHeaders": ["Characteristic", "Value"],
+	"equipment2": "2. OPTICAL MICROSCOPE «AXIOVERT 200M MAT», «CARL Zeiss», Germany.",
+	"equipment2Description": "Optical microscope, model «AXIOVERT 200M MAT», manufacturer «CARL ZEISS», country of origin Germany, year of manufacture/supply to CCUSI: 2007.",
+	"equipment2ApplicationArea": "The microscope enables research of the structure of metals and alloys in reflected light using the following methods:",
+	"equipment2Methods": [
+		"bright field;",
+		"dark field;",
+		"polarization;",
+		"differential interference contrast in circular polarization."
+	],
+	"equipment3": "3. Microhardness tester Vickers, «LHV5-1000Z», «CHONGQING LEEB INSTRUMENT CO., LTD», China.",
+	"equipment3Description": "Microhardness tester Vickers, model: «LHV5-1000Z», brand: «LEEB», manufacturer: «CHONGQING LEEB INSTRUMENT CO., LTD», country of origin: China, year of manufacture/supply to CCUSI: 2024.",
+	"equipment3ApplicationArea": "The microhardness tester is designed for hardness measurements on the Vickers scale of small parts, thin wire or strip, thin surface layers, coatings, etc. The scope of application is the assessment of hardness of individual phases or structural components of alloys, as well as the difference in hardness of individual areas of these components in steels and alloys.",
+	"equipment3Magnification": "Thanks to the revolver mounting device for 6 objectives (×1.25, ×5, ×10, ×20, ×50, ×100), automatic magnification change is provided. The maximum magnification of the microscope is ×1500.",
+	"equipment3MotorizedFunctions": "The microscope has motorized adjustment functions: setting the objective to the working position, setting the illumination, autofocus, setting beam splitters for different contrast methods.",
+	"equipment3Software": "The microscope software contains a set of functions for image enhancement, such as changing contrast, smoothing, image sharpness, noise removal, as well as for performing the following operations:",
+	"equipment3Operations": [
+		"increasing and decreasing image size;",
+		"switching program modes administrator - user;",
+		"automatic determination of grain size (number) in steels according to ISO, EN, ASTM, JIS and DSTU standards, in particular DSTU 8972:2019 and DSTU 9074:2021."
+	],
+	"equipment3Analysis": "The software allows for automatic analysis of the size and volume of particles of different phases (phase components) in the structure of metals and alloys.",
+	"equipment3Stage": "The microscope stage is motorized, enabling operation in surface scanning mode of the studied samples.",
+	"contactTitle": "Head of CCUSI:",
+	"contactName": "Parusov Eduard Volodymyrovych, Head of the Department of Metal Heat Treatment for Mechanical Engineering, Dr. of Tech. Sci., Senior Researcher.",
+	"contactPhone": "mobile tel.: +38(050)-453-46-93",
+	"contactEmail": "e-mail: tometal@ukr.net",
+	"equipment3TableData": [
+		{
+			"category": "Loading System",
+			"items": [
+				[
+					"Test load, N",
+					"10gf (0.098N), 25gf (0.245N), 50gf (0.49N), 100gf (0.98N), 200gf (1.96N), 300gf (2.94N), 500gf (4.9N), 1000gf (9.8N)"
+				],
+				["Minimum measurable object", "0.03125 µm"],
+				["Force measurement method", "automatic (loading, hold, unloading)"]
+			]
+		},
+		{
+			"category": "Measurement System",
+			"items": [
+				["Measurement range, HV", "8~2900"],
+				["Measurement result indication", "on full-color touch screen"],
+				["Data output", "to microcomputer or computer monitor"],
+				["Indenter type", "to flash drive via USB port or PC"],
+				[
+					"Measurement accuracy",
+					"Vickers indenter, genuine diamond with apex angle of 136°"
+				],
+				[
+					"Hardness value repeatability",
+					"according to ISO, ASTM and JIS standards"
+				],
+				["Measuring stage size, mm", "micrometer camera optics"],
+				["Working stage travel, mm", "100×100"],
+				["Optical microscope magnification (not less than)", "25×25"],
+				["Maximum sample height, mm", "×400 (measurement), ×100 (overview)"],
+				["Distance from indenter to device body, mm", "90"],
+				["Hardness scale conversion functions", "120"],
+				[
+					"Obtaining test data in Microsoft Excel directly via USB drive, without PC",
+					"✓"
+				],
+				["Measurement of diagonals D1 and D2", "manual and automatic"]
+			]
+		},
+		{
+			"category": "Digital Camera and Software",
+			"items": [
+				["Number of megapixels", "1.3"],
+				["PC controls measurement and machine operation", "✓"],
+				["Automatic imprint capture", "✓"],
+				["Automatic hardness calculation", "✓"],
+				["Automatic measurement (revolver head movement)", "✓"],
+				["Automatic hardness map creation", "✓"],
+				["Report generation in Microsoft Word or Microsoft Excel formats", "✓"],
+				["Image processing function", "✓"]
+			]
+		}
+	],
+	"tableData": [
+		{
+			"category": "Electron-Optical System",
+			"items": [
+				["Electron source", "thermionic emission cathode"],
+				["Automatic selection of optimal cathode heating current", "✓"],
+				["Automatic electron gun alignment", "✓"],
+				["Automatic focusing", "✓"],
+				["Resolution", "< 5 nm (SE); 10 nm (BSE)"]
+			]
+		},
+		{
+			"category": "Accelerating Voltage",
+			"items": [["Accelerating voltage", "1-30 kV"]]
+		},
+		{
+			"category": "Vacuum System",
+			"items": [
+				["Turbomolecular pump and forevacuum pump", "✓"],
+				["Automatic", "✓"]
+			]
+		},
+		{
+			"category": "Detection System",
+			"items": [
+				["Secondary electron (SE) detectors", "✓"],
+				["Segmented backscattered electron (BSE) detector", "✓"],
+				["Transmitted electron (STEM) detector", "✓"]
+			]
+		},
+		{
+			"category": "Sample Stage",
+			"items": [
+				["Stage type", "5-axis, XYZ-motorized"],
+				["Stage movement", "X range 40 mm;\nY range 40 mm;\nZ range 40 mm;"],
+				["Stage rotation", "360° (with continuous rotation capability)"],
+				["Stage tilt angle", "0°, 45°, 90°"],
+				["Maximum sample dimensions", "height 43 mm; diameter 32 mm"],
+				["Multi-position sample holder", "✓"]
+			]
+		},
+		{
+			"category": "Additional Equipment",
+			"items": [
+				[
+					"TV camera for visualization of the sample chamber, as well as the electron-optical system",
+					"✓"
+				],
+				["Fast scanning mode: 13 frames/s at 800×600 resolution", "✓"],
+				[
+					"Possibility of upgrading the microscope with modern EDS (Energy Dispersive X-ray Spectroscopy) and EBSD (Electron Backscatter Diffraction) detectors",
+					"✓"
+				]
+			]
+		}
+	]
+}

@@ -1,0 +1,392 @@
+{
+	"title": "Відділ термічної обробки металу для машинобудування",
+	"firstPersonCard": {
+		"id": "parusov-eduard-volodymyrovych",
+		"photo": "/employees/parusov-eduard-volodymyrovych.jpg",
+		"position": "Заступник директора з наукової роботи, завідуючий відділом",
+		"name": "Парусов Едуард Володимирович",
+		"description": "Доктор технічних наук, старший науковий співробітник",
+		"researchDirection": "Деформаційно-термічна обробка металів і сплавів; особливості перебігу фазових та структурних перетворень в вуглецевих і легованих сталях за безперервного та ізотермічного охолодження; розроблення і промислове впровадження наскрізних технологій виготовлення та перероблення бунтового прокату з низьковуглецевих, високовуглецевих і низьковуглецевих легованих сталей.",
+		"specialization": "05.02.01 – Матеріалознавство",
+		"contacts": [
+			{
+				"type": "Email",
+				"value": "tometal@ukr.net"
+			},
+			{
+				"type": "Encyclopedia",
+				"value": "https://esu.com.ua/article-878138 "
+			},
+			{
+				"type": "Google Scholar",
+				"value": "https://scholar.google.com.ua/citations?hl=uk&user=eE1rZKgAAAAJ "
+			},
+			{
+				"type": "ORCID iD",
+				"value": "https://orcid.org/0000-0002-4560-2043"
+			},
+			{
+				"type": "Scopus Author ID",
+				"value": "https://www.scopus.com/authid/detail.uri?authorId=8367262600"
+			},
+			{
+				"type": "Web Of Science",
+				"value": "https://www.webofscience.com/wos/author/record/504824 "
+			},
+			{
+				"type": "researchgate",
+				"value": "https://www.researchgate.net/profile/Eduard-Parusov-2"
+			}
+		]
+	},
+	"activities": {
+		"items": [
+			"Розвиток наукових і технологічних засад виготовлення прокату з підвищеними показниками якості з вуглецевих та легованих сталей, який призначено для холодного об’ємного штампування, виробництва металокорду, бортового дроту, рукавів високого тиску, армівних матеріалів, вантажно-людських і арматурних канатів (пасм з низькою релаксацією), високоміцного пружинного дроту, зварювального й наплавного дроту, змінного інструменту машинобудівного й металургійного устаткування тощо;",
+			"Удосконалення фундаментальних і прикладних положень формування диспергованої структури сталей з підвищеною зносо- та термостійкістю для інструменту гарячого деформування;",
+			"Формування та розвиток науково-технологічних засад керування структурою і фізико-механічними властивостями легованих сталей з урахуванням утворення й трансформації метастабільних фаз;",
+			"Створення нових енергоощадних технологій термічного оброблення великогабаритних металовиробів з підвищеною експлуатаційною стійкістю;",
+			"Розроблення комплексних технологій термічного оброблення із додатковим застосуванням кріогенного впливу для складнолегованих сталей з підвищеним ресурсом експлуатації;",
+			"Дослідження особливостей кінетики розпаду переохолодженого аустеніту вуглецевих мікролегованих і легованих сталей за безперервного охолодження та в ізотермічних умовах;",
+			"Розвиток теоретичних та технологічних засад знеміцнювального термомеханічного оброблення сталевого прокату з вуглецевих і легованих сталей для підвищення його деформівності під час подальшого волочіння;",
+			"Вивчення специфіки прояву спадкового впливу із процесами структуроутворення під час кристалізації, гарячого пластичного деформування та термічної обробки сталей і сплавів;",
+			"Дослідження особливостей впливу дендритної будови злитків на формування структури і властивостей прокату з вуглецевих і легованих сталей;",
+			"Вивчення впливу хімічного складу на прояв ліквації та формування структури вуглецевих і легованих сталей під дією гарячого пластичного деформування та термічного оброблення;",
+			"Дослідження механізмів трансформації неметалевих включень на різних технологічних етапах виготовлення сталевого прокату та його перероблення методом холодного пластичного деформування (волочіння);",
+			"Вивчення особливостей впливу типу неметалевих включень на втомно-корозійне руйнування високовуглецевих сталей за умови циклічних навантажень, у тому числі в агресивних середовищах;",
+			"Дослідження процесів трансформації суб- та мікроструктури вуглецевих сталей під час холодного пластичного деформування;   ",
+			"Моделювання фазово-структурних перетворень та створення методик прогнозного визначення властивостей сталей і сплавів, зокрема з використанням нерівноважної термодинаміки;",
+			"Розроблення експрес-методів неруйнівного контролю якості металовиробів з вуглецевих, легованих та складнолегованих сталей."
+		]
+	},
+	"staffCards": [
+		{
+			"id": "lutsenko-vladyslav-anatoliiovych",
+			"photo": "/employees/lutsenko-vladyslav-anatoliiovych.jpg",
+			"position": "Провідний науковий співробітник",
+			"name": "Луценко Владислав Анатолійович",
+			"description": "Доктор технічних наук, старший науковий співробітник",
+			"researchDirection": "Деформаційно-термічна обробка металів і сплавів; перебіг фазових та структурних перетворень в вуглецевих і легованих сталях. Особливості процесів окалиноутворення та зневуглецювання на поверхні прокату. Розроблення і промислове впровадження технологій виготовлення прокату з вуглецевих і легованих сталей.  ",
+			"specialization": "05.16.01 – Металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "lutsenko-VA@i.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-885089 "
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4604-5592"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=eQUn2zkAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7004367566"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/15877725 "
+				}
+			]
+		},
+		{
+			"id": "hubenko-svitlana-ivanivna",
+			"photo": "/employees/hubenko-svitlana-ivanivna.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Губенко Світлана Іванівна",
+			"description": "Професор, доктор технічних наук",
+			"researchDirection": "Трансформація неметалевих включень і міжфазних границь включення-матриця та їх вплив на формування структури і властивостей залізних сплавів при послідовних або комплексних обробках в умовах дії високоенергетичних, теплових, деформаційних і електромагнітних полів. Деформаційно-термічне оброблення металів і сплавів. Перебіг фазових та структурних перетворень в вуглецевих і легованих сталях.",
+			"specialization": "05.16.01 – Металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "sigubenko@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-32197"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6626-3979"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=-foE3k4AAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7006727582"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/2289447 "
+				},
+				{
+					"type": "researchgate",
+					"value": "https://www.researchgate.net/profile/Svetlana-Gubenko"
+				}
+			]
+		},
+		{
+			"id": "parusov-oleh-volodymyrovych",
+			"photo": "/employees/parusov-oleh-volodymyrovych.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Парусов Олег Володимирович",
+			"researchDirection": "Трансформація неметалевих включень та міжфазних границь включення-матриця за послідовних або комплексних обробках. Деформаційно-термічне оброблення складнолегованих сталей зварювального призначення та сталей для холодного об’ємного штампування з підвищеною технологічною пластичністю. Розроблення та промислове впровадження технологій виготовлення бунтового прокату з вуглецевих та легованих сталей.",
+			"specialization": "05.16.01 – Металознавство та термічна обробка металів",
+			"description": "Кандидат технічних наук",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "termet@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-9879-6179"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=m-WmSpEAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6507896071"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/15665386"
+				}
+			]
+		},
+		{
+			"id": "chuiko-ihor-mykolaiovych",
+			"photo": "/employees/chuiko-ihor-mykolaiovych.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Чуйко Ігор Миколайович",
+			"description": "Кандидат технічних наук, старший дослідник",
+			"researchDirection": "Вирішення науково-прикладних проблем виробництва високоефективних видів сталевого прокату різноманітного призначення і його подальшого перероблення в умовах металовиробних підприємств. Розвиток наукових і технологічних засад керування структурою та властивостями легованих сталей з урахуванням особливостей утворення і трансформації метастабільних фаз. Створення енергоощадних технологій деформаційно-термічної обробки вуглецевих і легованих сталей для покращення фізико-механічних і експлуатаційних властивостей металовиробів відповідального призначення.",
+			"specialization": "05.16.01 – Металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ferrosplav@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4753-614X"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=TaoMBcwAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57211226481"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/1661603 "
+				},
+				{
+					"type": "researchgate",
+					"value": "https://www.researchgate.net/profile/Ihor-Chuiko"
+				}
+			]
+		},
+		{
+			"id": "sahura-liudmyla-volodymyrivna",
+			"photo": "/employees/sahura-liudmyla-volodymyrivna.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Сагура Людмила Володимирівна",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Деформаційно-термічна обробка бунтового прокату з високовуглецевих сталей. Дослідження особливостей перебігу фазових та структурних перетворень у високовуглецевих сталях. Впровадження енергоефективних технологій виготовлення арматурних канатів (пасм) та високоміцних пружин.",
+			"specialization": "05.16.01 – Металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "slv_metal@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-2614-0322"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=veOM61cAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=54966679400"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/67060399 "
+				},
+				{
+					"type": "researchgate",
+					"value": "https://www.researchgate.net/profile/Liudmyla-Sahura"
+				}
+			]
+		},
+		{
+			"id": "holubenko-tetiana-mykolaivna",
+			"photo": "/employees/holubenko-tetiana-mykolaivna.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Голубенко Тетяна Миколаївна",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Особливості формування структури та властивостей сортового і бунтового прокату з легованих сталей. Дослідження перебігу фазових та структурних перетворень в легованих сталях; - вдосконалення хімічного складу та розроблення режимів знеміцнювального термічного оброблення прокату з легованих сталей.",
+			"specialization": "05.16.01 – Металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "sumer@i.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-3583-211X"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=94wgLBcAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=54968707900"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/48556896 "
+				},
+				{
+					"type": "researchgate",
+					"value": "https://www.researchgate.net/profile/Tatyana-Golubenko"
+				}
+			]
+		},
+		{
+			"id": "lutsenko-olha-vladyslavivna",
+			"photo": "/employees/lutsenko-olha-vladyslavivna.jpg",
+			"position": "Науковий співробітник",
+			"name": "Луценко Ольга Владиславівна",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Особливості перебігу фазових та структурних перетворень в високовуглецевих та легованих сталях. Розроблення режимів термічної обробки сортового прокату з легованих сталей. Вдосконалення способів деформаційно-термічного впливу на структуру і властивості дрібносортного прокату.",
+			"specialization": "05.16.01 – Металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "olya.lutsenko2009@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-8298-5306"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=mllGpnYAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=26428826600"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/15877725 "
+				}
+			]
+		},
+		{
+			"id": "sivak-hanna-ivanivna",
+			"photo": "/employees/sivak-hanna-ivanivna.jpg",
+			"position": "Науковий співробітник",
+			"name": "Сівак Ганна Іванівна",
+			"researchDirection": "Особливості перебігу фазових та структурних перетворень в вуглецевих, легованих та складнолегованих сталях за умови безперервного та ізотермічного охолодження.  трансформація неметалевих включень за послідовних або комплексних обробках.",
+			"specialization": "05.16.01 – Металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "tometal@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6948-7732"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=xt-cSUwAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7006814240"
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
+		},
+		{
+			"id": "oliinyk-eduard-vadymovych",
+			"photo": "/employees/oliinyk-eduard-vadymovych.jpg",
+			"position": "Провідний інженер",
+			"name": "Олійник Едуард Вадимович",
+			"researchDirection": "Особливості перебігу фазових та структурних перетворень в вуглецевих, легованих та складнолегованих сталях за умови безперервного та ізотермічного охолодження. Розроблення для металургійних та металовиробних підприємств поліпшених технологічних рішень, які дозволяють здійснити перероблення прокату за зменшених матеріальних витрат.",
+			"specialization": "",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ediknsk@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-3366-3746"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=Qx5H8ScAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=60042063200&origin=resultslist"
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
+		}
+	]
+}

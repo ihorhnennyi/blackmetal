@@ -1,0 +1,207 @@
+{
+	"title": "Department of Extra-Furnace Treatment of Cast Iron",
+	"firstPersonCard": {
+		"id": "kysliakov",
+		"photo": "/employees/kysliakov.jpg",
+		"position": "Head of Department, Senior Researcher",
+		"name": "Kysliakov Volodymyr Hennadiiovych",
+		"description": "Candidate of Technical Sciences",
+		"researchDirection": "Theoretical-calculated and experimental research, as well as technological developments in the direction of extra-furnace refining of cast iron and mass transfer processes of the 'liquid cast iron-ladle slag-introduced reagent' system. Performance of complex work during setup, refinement and mastering of industrial facilities for extra-furnace desulfurization of cast iron",
+		"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys",
+		"contacts": [
+			{
+				"type": "Email",
+				"value": "vovkadragon12@gmail.com"
+			},
+			{
+				"type": "ORCID ID",
+				"value": "https://orcid.org/0000-0002-1775-5050"
+			},
+			{
+				"type": "Google Scholar",
+				"value": "https://scholar.google.com.ua/citations?hl=uk&user=KHwOJrgAAAAJ"
+			},
+			{
+				"type": "Scopus Author ID",
+				"value": "https://www.scopus.com/authid/detail.uri?authorId=6602476409"
+			}
+		]
+	},
+	"activities": {
+		"items": [
+			"Research of heat and mass transfer processes in the 'liquid cast iron - reagent - slag - gas phase' system during extra-furnace treatment of cast iron in ladles.",
+			"Development of new processes and technological solutions for extra-furnace preparation of cast iron for steelmaking conversion.",
+			"Development and creation of new technological and apparatus components of complexes for extra-furnace refining of cast iron.",
+			"Analysis of technological solutions for extra-furnace treatment of cast iron used in world practice and forecasting of promising directions.",
+			"Development and pilot-industrial verification of technological recommendations for optimizing the technology of cast iron preparation (desulfurization, adjustment of ladle slag parameters) in the smelting of low-sulfur converter steel.",
+			"Mastering and implementation of developments on extra-furnace treatment of cast iron at modernized and reconstructed complexes of metallurgical plants."
+		]
+	},
+	"staffCards": [
+		{
+			"id": "yelisieiev-v-i",
+			"photo":"/employees/yelisieiev-v-i.jpg",
+			"position": "Senior Researcher",
+			"name": "Yelisieiev Volodymyr Ivanovych",
+			"description": "Candidate of Physical and Mathematical Sciences",
+			"researchDirection": "Development of mathematical models of heat and mass transfer processes in modern technological apparatus, in particular during injection refining of cast iron in ladles.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isi.ovoch@gmail.com"
+				},
+				{
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0003-4999-8142"
+                },
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=Ti4Q4-gAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55553137600"
+				}
+			]
+		},
+		{
+			"id": "manachyn",
+			"photo": "/employees/manachyn.jpg",
+			"position": "Senior Researcher",
+			"name": "Manachyn Ivan Oleksandrovych",
+			"description": "Candidate of Technical Sciences, Senior Researcher",
+			"researchDirection": "Research on the study of mass transfer processes during the introduction of dispersed magnesium and non-magnesium reagents into cast iron, both in the tuyere zone and in the volume of the entire melt. Participant in the industrial development and improvement of desulfurization processes.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "imanachyn@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-9795-6751"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=MPdv2eQAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55540277500"
+				}
+			]
+		},
+		{
+			"id": "rudenko-o-l",
+			"photo":"/employees/rudenko-o-l.jpg",
+			"position": "Senior Researcher",
+			"name": "Rudenko Oleksandr Leonidovych",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Theoretical-calculated and experimental research of mass transfer processes in the 'metal-slag' system during ladle refining.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isi.ovoch@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6068-9901"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com/citations?user=xt0dGBUAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7101769307"
+				}
+			]
+		},
+		{
+			"id": "shevchenko-serhii-anatoliiovych",
+			"photo": "/employees/shevchenko.jpg",
+			"position": "Senior Researcher",
+			"name": "Shevchenko Serhii Anatoliiovych",
+			"researchDirection": "Theoretical-calculated and experimental studies of the patterns of hydro-aerodynamics of the injection introduction of dispersed reagents into the cast iron bath. Participant in the industrial development and improvement of desulfurization processes.",
+			"specialization": "05.16.02 – Metallurgy of ferrous, non-ferrous metals and special alloys",
+			"description": "Candidate of Technical Sciences",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "shev_serg@i.ua"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-9287-9177"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=vS3c7ykAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57208017658"
+				}
+			]
+		},
+		{
+			"id": "petrusha-v-p",
+			"photo":"/employees/petrusha-v-p.jpg",
+			"position": "Junior Researcher",
+			"name": "Petrusha Viktoriia Petrivna",
+			"researchDirection": "Calculation of parameters of exchange processes in the cast iron-slag system, equilibrium constants, construction of graphs and nomograms based on calculated and actual data from experiments and industrial treatments.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isi.ovoch@gmail.com"
+				},
+				{
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0002-1031-3241"
+                }
+			]
+		},
+		{
+			"id": "chubina-o-a",
+			"photo":"/employees/chubina-o-a.jpg",
+			"position": "Senior Researcher",
+			"name": "Chubina Olena A.",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Assessment of the role of ladle slag in the process of cast iron desulfurization, influence of the quantity and composition of ladle slag on the efficiency of the desulfurization process, development of recommendations for optimizing the technology of cast iron desulfurization with magnesium. Preparation and support of laboratory research on 'cold' and 'hot models'.",
+			"contacts": [
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-2213-5013"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=15044135700"
+				}
+			]
+		},
+		{
+			"id": "chugui-valentina-v",
+			"photo":"/employees/chugui-valentina-v.jpg",
+			"position": "Lead Engineer",
+			"name": "Chugui Valentyna V.",
+			"description": "",
+			"researchDirection": "Processing of experimental data, calculation of parameters and indicators of cast iron treatments. Calculations according to models, presentation of calculation results in the form of tables and diagrams",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isi.ovoch@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0005-4327-0750"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": ""
+				}
+			]
+		}
+	]
+}

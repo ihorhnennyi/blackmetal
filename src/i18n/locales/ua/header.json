@@ -1,0 +1,235 @@
+{
+	"searchPlaceholder": "Пошук по сайту",
+	"navItems": [
+		{
+			"id": "about",
+			"label": "Про нас",
+			"items": [
+				{
+					"id": "developments",
+					"label": "Основні розробки",
+					"href": "/about/developments"
+				},
+				{
+					"id": "documents",
+					"label": "Нормативні документи",
+					"href": "/about/documents"
+				},
+				{
+					"id": "history",
+					"label": "Історія Інституту",
+					"href": "/about/history"
+				},
+				{
+					"id": "strategy",
+					"label": "Стратегія Інституту",
+					"href": "/about/strategy"
+				},
+				{
+					"id": "procurement",
+					"label": "Закупівлі",
+					"href": "/about/procurement"
+				}
+			]
+		},
+		{
+			"id": "structure",
+			"label": "Структура інститута",
+			"items": [
+				{
+					"id": "directorate",
+					"label": "Дирекція",
+					"href": "/structure/directorate"
+				},
+				{
+					"id": "scientific-departments",
+					"label": "Наукові відділи",
+					"href": "/scientific-departments"
+				},
+				{
+					"id": "technical-departments",
+					"label": "Науково-технічні відділи",
+					"href": "/technical-departments"
+				},
+				{
+					"id": "scientific-councils",
+					"label": "Вчені ради Інституту",
+					"items": [
+						{
+							"id": "main-council",
+							"label": "Вчена рада",
+							"href": "/structure/councils/main"
+						},
+						{
+							"id": "young-scientists",
+							"label": "Рада молодих вчених",
+							"href": "/structure/councils/young"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "publishing",
+			"label": "Видавнича діяльність",
+			"items": [
+				{
+					"id": "scientific-works",
+					"label": "Збірник наукових праць",
+					"link": "https://jrn.isi.gov.ua/?lang=en"
+				},
+				{
+					"id": "monographs",
+					"label": "Монографії",
+					"href": "/publishing/monographs"
+				},
+				{
+					"id": "conferences",
+					"label": "Конференції",
+					"items": [
+						{
+							"id": "main-council",
+							"label": "Всеукраїнська конференція «Наука і металургія»",
+							"link": "/Запрошення_на_конференцію_НіМ_20242.pdf"
+						},
+						{
+							"id": "young-scientists",
+							"label": "Міжнародна конференція «HighMatTech»",
+							"link": "/HighMatTech-2025.pdf"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "training",
+			"label": "Підготовка кадрів",
+			"items": [
+				{
+					"id": "postgraduate",
+					"label": "Аспірантура",
+					"items": [
+						{
+							"id": "applicants",
+							"label": "Для вступників",
+							"href": "/training/postgraduate/applicants"
+						},
+						{
+							"id": "sсhedule",
+							"label": "Розклад Занять",
+							"href": "/training/postgraduate/schedule"
+						},
+						{
+							"id": "individual-plans",
+							"label": "Навчальні плани",
+							"href": "/training/postgraduate/plans"
+						},
+						{
+							"id": "education-programs",
+							"label": "Освітньо наукові програми",
+							"href": "/training/postgraduate/programs"
+						},
+						{
+							"id": "orders",
+							"label": "Накази",
+							"href": "/training/postgraduate/orders"
+						},
+						{
+							"id": "regulations",
+							"label": "Правила та положення",
+							"href": "/training/postgraduate/regulations"
+						},
+						{
+							"id": "license",
+							"label": "Ліцензія",
+							"href": "/training/postgraduate/license"
+						},
+						{
+							"id": "antiplagiat",
+							"label": "Перевірка антиплагіату",
+							"href": "/training/postgraduate/antiplagiat"
+						},
+						{
+							"id": "syllabus-136",
+							"label": "Силабуси 136",
+							"href": "/training/postgraduate/syllabus-136"
+						},
+						{
+							"id": "syllabus-132",
+							"label": "Силабуси 132",
+							"href": "/training/postgraduate/syllabus-132"
+						},
+						{
+							"id": "stakeholders",
+							"label": "Стейкхолдери",
+							"href": "/training/postgraduate/stakeholders"
+						},
+						{
+							"id": "accreditation",
+							"label": "Акредитація",
+							"href": "/training/postgraduate/accreditation"
+						}
+					]
+				},
+				{
+					"id": "special-councils",
+					"label": "Разові спеціалізовані вчені ради",
+					"items": [
+						{
+							"id": "metallurgy",
+							"label": "Металургія",
+							"items": [
+								{
+									"id": "phd7744",
+									"label": "PhD 7744 (Арендач Н.А.)",
+									"href": "/training/special-councils/metallurgy/phd7744"
+								}
+							]
+						},
+						{
+							"id": "materials-science",
+							"label": "Матеріалознавство",
+							"href": "/training/special-councils/materials-science"
+						}
+					]
+				},
+				{
+					"id": "specialized-council",
+					"label": "Спеціалізована вчена рада Д 08.231.01",
+					"href": "/training/specialized"
+				}
+			]
+		},
+		{
+			"id": "services",
+			"label": "Послуги",
+			"items": [
+				{
+					"id": "equipment-center",
+					"label": "Центр колективного користування науковими приладами (ЦККП)",
+					"href": "/services/equipment-center"
+				},
+				{
+					"id": "testing-center",
+					"label": "Випробувальний центр",
+					"href": "/services/testing-center"
+				},
+				{
+					"id": "technical-committee",
+					"label": "Технічний комітет 4 (ТК4)",
+					"href": "/services/technical-committee"
+				},
+				{
+					"id": "technical-services",
+					"label": "Науково-технічні послуги",
+					"href": "/services/technical-services"
+				}
+			]
+		},
+		{
+			"id": "contacts",
+			"label": "Контакти",
+			"href": "/contacts"
+		}
+	]
+}

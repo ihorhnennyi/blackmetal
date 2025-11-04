@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Лист металу -->
+  <rect x="14" y="28" width="36" height="8" fill="#B0BEC5" stroke="#455A64" stroke-width="2" rx="2"/>
+
+  <!-- Прокатні ролики -->
+  <circle cx="14" cy="32" r="6" fill="#90A4AE" stroke="#37474F" stroke-width="2"/>
+  <circle cx="50" cy="32" r="6" fill="#90A4AE" stroke="#37474F" stroke-width="2"/>
+
+  <!-- Стрілка прокатки -->
+  <path d="M32 42 L38 48 L32 54" fill="none" stroke="#1976D2" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Маркер стрілки -->
+  <defs>
+    <marker id="arrow" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#1976D2"/>
+    </marker>
+  </defs>
+</svg>

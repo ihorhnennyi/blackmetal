@@ -1,0 +1,296 @@
+{
+	"title": "Відділ фізико-хімічних проблем металургійних процесів",
+	"firstPersonCard": {
+		"id": "stepanenko",
+		"photo": "/employees/stepanenko.jpg",
+		"position": "Завідувач відділом",
+		"name": "Степаненко Дмитро Олександрович",
+		"description": "Кандидат технічних наук",
+		"researchDirection": "Аналітичні та експериментальні дослідження властивостей (в’язкість, електропровідність, температури плавлення та ін.), мінералогічного і фазового складу металургійних шлаків та їх фізико-хімічної взаємодії з металевими розплавами та вогнетривами. Дослідження структури оксидних і шлакових розплавів. Обґрунтування та розробка технологічних показників шлакового режиму при виробництві чавуну та сталі.",
+		"specialization": " 05.16.02 – Металургія чорних і кольорових металів, та спеціальних сплавів.",
+		"contacts": [
+			{
+				"type": "Email",
+				"value": "d.gorodenskiy@gmail.com"
+			},
+			{
+				"type": "ORCID ID",
+				"value": "https://orcid.org/0000-0002-0184-8295"
+			},
+			{
+				"type": "Google Scholar",
+				"value": "https://scholar.google.com.ua/citations?user=u-pZEKoAAAAJ"
+			},
+			{
+				"type": "Scopus Author ID",
+				"value": "https://www.scopus.com/authid/detail.uri?authorId=56974001300"
+			}
+		]
+	},
+	"activities": {
+		"items": [
+			"Розвиток теорії фізико-хімічного моделювання багатокомпонентних металевих і оксидних систем, фізико-хімічних моделей структури металевих і шлакових розплавів, дослідження закономірностей формування їх властивостей в залежності від складу на основі параметрів міжатомної взаємодії в них.",
+			"Дослідження закономірностей зміни властивостей металопродукції в залежності від хімічного складу і технології, що включає отримання, рафінування, модифікування і мікролегування; опис з єдиних методологічних позицій впливу складу і умов отримання металопродукції на різних стадіях переділу на її якість; вироблення шляхів оптимізації наскрізних технологій виробництва та управління якістю металопродукції.",
+			"Створення системи інформаційного забезпечення теоретичної та прикладної металургії, що включає створення, поповнення та актуалізацію баз і банків даних за властивостями шихтових матеріалів, металургійних розплавів і результатів їх взаємодії на основі розвитку ідей теорії фізико-хімічного моделювання.",
+			"Розвиток методології створення моделей для прогнозування фізико-хімічних і технологічних властивостей металургійних розплавів на основі накопиченого фонду експериментальних даних.",
+			"Розробка алгоритмічного та прикладного програмного забезпечення комп'ютерних систем аналізу багатовимірних масивів експериментальних даних в системах інформаційного забезпечення АСНД і АСУТП.",
+			"Розробка комп'ютерних систем контролю і управління якістю чавуну і сталі на основі комплексного врахування фізико-хімічних і технологічних властивостей розплавів."
+		]
+	},
+	"staffCards": [
+		{
+			"id": "tohobitska",
+			"photo": "/employees/tohobitska.jpg",
+			"position": "Провідний науковий співробітник",
+			"name": "Тогобицька Дар’я Миколаївна",
+			"description": "Професор, доктор технічних наук",
+			"researchDirection": "Методологічні та теоретичні основи оптимізації металургійних технологій на основі комплексного вико­ристання математичного та фізико-хімічного моделювання. Створення бази знань та інтелектуальних систем прийняття рішень при управлінні металургійними процесами.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів, та спеціальних сплавів.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "dntog@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-884564"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6413-4823"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=NFNXbqIAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602585340"
+				}
+			]
+		},
+		{
+			"id": "hryshyn",
+			"photo": "/employees/hryshyn.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Гришин Олександр Михайлович",
+			"description": "Доцент, доктор технічних наук",
+			"researchDirection": "Теоретичні та експериментальні дослідження процесів твердо фазного відновлення металів з їх оксидів.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів.",
+			"contacts": [
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com/citations?hl=uk&user=bseKcuwAAAAJ&view_op=list_works&sortby=pubdate"
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0009-0000-0665-1179"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55118646900 "
+				}
+			]
+		},
+		{
+			"id": "belkova",
+			"photo": "/employees/belkova.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Бєлькова Алла Іванівна",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Інформаційні технології. Фізико-хімічне та математичне моделювання властивостей шихтових матеріалів, їх  розплавів та процесів їх взаємодії, алгоритмічне забезпечення систем управління металургійними процесами.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів, та спеціальних сплавів.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "alla2904b8@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-8519-9351"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=8JoI9noAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6506286433"
+				}
+			]
+		},
+		{
+			"id": "tsiupa",
+			"photo": "/employees/tsiupa.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Цюпа Наталя Олександрівна",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Вплив лугів на властивості оксидних систем та їх розплавів. Моделювання процесів взаємодії лужних сполук в системах «шлак-метал-газ-футерівка».",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "tysya6669@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-0682-461X"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=OSMX5ncAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57203586351"
+				}
+			]
+		},
+		{
+			"id": "povorotnia",
+			"photo": "/employees/povorotnia.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Поворотня Ірина Романівна",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Дослідження процесів розподілу та ефективності засвоєння легуючих елементів в системі «метал-шлак- газ». Вдосконалення технологічних прийомів введення добавок у металевий розплав з метою досягнення максимального ступеня їх засвоєння, поліпшення показників якості сталі, зниження енергетичних і сировинних витрат при виплавці сталі.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "iro4ka01091990@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-5872-7403"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=6jebBSwAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57222352527"
+				}
+			]
+		},
+		{
+			"id": "lisova",
+			"photo": "/employees/lisova.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Лісова Людмила Олександрівна",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Дослідження спеціальних процесів плавки; термодинамічні розрахунки рівноважного стану системи газ-шлак-метал; вивчення структури та властивостей шлакових розплавів.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів.",
+			"contacts": [
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com/citations?hl=uk&user=xNEAOkoAAAAJ"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6298-9115"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/inward/authorDetails.url?authorID=57200641385&partnerID=MN8TOARS"
+				}
+			]
+		},
+		{
+			"id": "likhachov",
+			"photo": "/employees/likhachov.jpg",
+			"position": "Науковий співробітник",
+			"name": "Ліхачов Юрій Михайлович ",
+			"researchDirection": "Розробка та створення документально-фактографічних і ієрархічних баз даних, створен­ня програмного забезпечення для  оптимізації металургійних процесів.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "lanchic327@i.ua"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=HKXghRQAAAAJ"
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0003-3168-7813"
+				}
+			]
+		},
+		{
+			"id": "khodotova",
+			"photo": "/employees/khodotova.jpg",
+			"position": "Молодший науковий співробітник",
+			"name": "Ходотова Надія Євстахівна",
+			"researchDirection": "Комплексний аналіз багатовимірних експериментальних даних про властивості металургійних систем та технологічних даних та розробка на їх основі прогнозних моделей.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "isi-ofhp@ukr.net"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=5u71LRkAAAAJ"
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-6958-4636"
+				}
+			]
+		},
+
+		{
+			"id": "shevchenko-valentina-m",
+			"photo": "/employees/shevchenko-valentina-m.jpg",
+			"position": "Провідний інженер",
+			"name": "Шевченко Валентина Миколаївна",
+			"researchDirection": "Аналіз багатовимірних експерименттальних даних про властивості металургій-них систем та технологічних даних.",
+			"contacts": [
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0007-2089-6413"
+				}
+			]
+		},
+		{
+			"id": "bocharov",
+			"photo": "/employees/bocharov.jpg",
+			"position": "Провідний інженер",
+			"name": "Бочаров Антон Вікторович ",
+			"researchDirection": "Аналіз багатовимірних експериментальних даних про властивості металургій-них систем та розробка моделей.",
+			"contacts": [
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0005-6975-4454"
+				}
+			]
+		},
+		{
+			"id": "kuksa",
+			"photo": "/employees/kuksa.jpg",
+			"position": "Науковий співробітник",
+			"name": "Кукса Олег Володимирович",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Фізико-хімічні дослідження металургійних процесів в окислювальних і відновних умовах з використанням методики міжатомної взаємодії в металургійних розплавах.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів, та спеціальних сплавів.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "olegsteelmaster@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-6268-0692"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=E4JMR08AAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57222352909"
+				}
+			]
+		}
+	]
+}

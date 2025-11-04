@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="300" height="300" fill="black">
+  <!-- Outer Circle -->
+  <circle cx="256" cy="256" r="240" stroke="black" stroke-width="32" fill="none" />
+
+  <!-- Flask -->
+  <path d="M144 112 L208 304 Q216 328 208 352 Q200 368 200 384 Q200 400 208 416 Q216 432 208 448 H112 Q104 432 112 416 Q120 400 120 384 Q120 368 112 352 Q104 328 112 304 L176 112 Z" fill="black" />
+
+  <!-- Bubbles -->
+  <circle cx="150" cy="260" r="10" fill="white" />
+  <circle cx="165" cy="300" r="8" fill="white" />
+  <circle cx="140" cy="340" r="6" fill="white" />
+  <circle cx="170" cy="360" r="5" fill="white" />
+
+  <!-- Metal stream -->
+  <rect x="240" y="64" width="32" height="288" fill="black" />
+  <path d="M256 352 Q240 384 256 416 Q272 384 256 352 Z" fill="black" />
+
+  <!-- Gear -->
+  <circle cx="360" cy="192" r="64" fill="black" />
+  <circle cx="360" cy="192" r="24" fill="white" />
+  <!-- Gear Teeth -->
+  <g transform="rotate(0, 360, 192)">
+    <rect x="358" y="112" width="4" height="24" fill="black"/>
+    <rect x="358" y="248" width="4" height="24" fill="black"/>
+    <rect x="288" y="190" width="24" height="4" fill="black"/>
+    <rect x="408" y="190" width="24" height="4" fill="black"/>
+    <rect x="310" y="134" width="4" height="24" transform="rotate(-45 312 146)" fill="black"/>
+    <rect x="402" y="134" width="4" height="24" transform="rotate(45 404 146)" fill="black"/>
+    <rect x="310" y="234" width="4" height="24" transform="rotate(45 312 246)" fill="black"/>
+    <rect x="402" y="234" width="4" height="24" transform="rotate(-45 404 246)" fill="black"/>
+  </g>
+</svg>

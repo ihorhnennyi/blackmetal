@@ -1,0 +1,235 @@
+{
+	"searchPlaceholder": "Search the site",
+	"navItems": [
+		{
+			"id": "about",
+			"label": "About Us",
+			"items": [
+				{
+					"id": "developments",
+					"label": "Main Developments",
+					"href": "/about/developments"
+				},
+				{
+					"id": "documents",
+					"label": "Regulatory Documents",
+					"href": "/about/documents"
+				},
+				{
+					"id": "history",
+					"label": "Institute History",
+					"href": "/about/history"
+				},
+				{
+					"id": "strategy",
+					"label": "Institute Strategy",
+					"href": "/about/strategy"
+				},
+				{
+					"id": "procurement",
+					"label": "Procurement",
+					"href": "/about/procurement"
+				}
+			]
+		},
+		{
+			"id": "structure",
+			"label": "Institute Structure",
+			"items": [
+				{
+					"id": "directorate",
+					"label": "Directorate",
+					"href": "/structure/directorate"
+				},
+				{
+					"id": "scientific-departments",
+					"label": "Scientific Departments",
+					"href": "/scientific-departments"
+				},
+				{
+					"id": "technical-departments",
+					"label": "Scientific and Technical Departments",
+					"href": "/technical-departments"
+				},
+				{
+					"id": "scientific-councils",
+					"label": "Institute Academic Councils",
+					"items": [
+						{
+							"id": "main-council",
+							"label": "Academic Council",
+							"href": "/structure/councils/main"
+						},
+						{
+							"id": "young-scientists",
+							"label": "Young Scientists Council",
+							"href": "/structure/councils/young"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "publishing",
+			"label": "Publishing Activity",
+			"items": [
+				{
+					"id": "scientific-works",
+					"label": "Collection of Scientific Works",
+					"link": "https://jrn.isi.gov.ua/?lang=en"
+				},
+				{
+					"id": "monographs",
+					"label": "Monographs",
+					"href": "/publishing/monographs"
+				},
+				{
+					"id": "conferences",
+					"label": "Conferences",
+					"items": [
+						{
+							"id": "main-council",
+							"label": "All-Ukrainian Conference 'Science and Metallurgy'",
+							"link": "/Запрошення_на_конференцію_НіМ_20242.pdf"
+						},
+						{
+							"id": "young-scientists",
+							"label": "International Conference 'HighMatTech'",
+							"link": "/HighMatTech-2025.pdf"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "training",
+			"label": "Personnel Training",
+			"items": [
+				{
+					"id": "postgraduate",
+					"label": "Postgraduate Studies",
+					"items": [
+						{
+							"id": "applicants",
+							"label": "For Applicants",
+							"href": "/training/postgraduate/applicants"
+						},
+						{
+							"id": "sсhedule",
+							"label": "Class Schedule",
+							"href": "/training/postgraduate/schedule"
+						},
+						{
+							"id": "individual-plans",
+							"label": "Study Plans",
+							"href": "/training/postgraduate/plans"
+						},
+						{
+							"id": "education-programs",
+							"label": "Educational and Scientific Programs",
+							"href": "/training/postgraduate/programs"
+						},
+						{
+							"id": "orders",
+							"label": "Orders",
+							"href": "/training/postgraduate/orders"
+						},
+						{
+							"id": "regulations",
+							"label": "Rules and Regulations",
+							"href": "/training/postgraduate/regulations"
+						},
+						{
+							"id": "license",
+							"label": "License",
+							"href": "/training/postgraduate/license"
+						},
+						{
+							"id": "antiplagiat",
+							"label": "Plagiarism Check",
+							"href": "/training/postgraduate/antiplagiat"
+						},
+						{
+							"id": "syllabus-136",
+							"label": "Syllabi 136",
+							"href": "/training/postgraduate/syllabus-136"
+						},
+						{
+							"id": "syllabus-132",
+							"label": "Syllabi 132",
+							"href": "/training/postgraduate/syllabus-132"
+						},
+						{
+							"id": "stakeholders",
+							"label": "Stakeholders",
+							"href": "/training/postgraduate/stakeholders"
+						},
+						{
+							"id": "accreditation",
+							"label": "Accreditation",
+							"href": "/training/postgraduate/accreditation"
+						}
+					]
+				},
+				{
+					"id": "special-councils",
+					"label": "Ad Hoc Specialized Academic Councils",
+					"items": [
+						{
+							"id": "metallurgy",
+							"label": "Metallurgy",
+							"items": [
+								{
+									"id": "phd7744",
+									"label": "PhD 7744 (Arench N.A.)",
+									"href": "/training/special-councils/metallurgy/phd7744"
+								}
+							]
+						},
+						{
+							"id": "materials-science",
+							"label": "Materials Science",
+							"href": "/training/special-councils/materials-science"
+						}
+					]
+				},
+				{
+					"id": "specialized-council",
+					"label": "Specialized Academic Council D 08.231.01",
+					"href": "/training/specialized"
+				}
+			]
+		},
+		{
+			"id": "services",
+			"label": "Services",
+			"items": [
+				{
+					"id": "equipment-center",
+					"label": "Center for Collective Use of Scientific Instruments (CCUSI)",
+					"href": "/services/equipment-center"
+				},
+				{
+					"id": "testing-center",
+					"label": "Testing Center",
+					"href": "/services/testing-center"
+				},
+				{
+					"id": "technical-committee",
+					"label": "Technical Committee 4 (TC4)",
+					"href": "/services/technical-committee"
+				},
+				{
+					"id": "technical-services",
+					"label": "Scientific and Technical Services",
+					"href": "/services/technical-services"
+				}
+			]
+		},
+		{
+			"id": "contacts",
+			"label": "Contacts",
+			"href": "/contacts"
+		}
+	]
+}

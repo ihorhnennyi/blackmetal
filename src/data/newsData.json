@@ -1,0 +1,74 @@
+{
+	"news": [
+		{
+			"id": 1,
+			"imageUrl": "/news/1-1.jpg",
+			"date": "12.12.2023"
+		},
+		{
+			"id": 2,
+			"imageUrl": "/news/2-1.jpg",
+			"date": "24.04.2024"
+		},
+		{
+			"id": 3,
+			"imageUrl": "/news/3-1.jpeg",
+			"date": "25.04.2024"
+		},
+		{
+			"id": 4,
+			"imageUrl": "/news/4-1.png",
+			"date": "15.08.2024"
+		},
+		{
+			"id": 5,
+			"imageUrl": "/news/5-1.jpg",
+			"date": "23.09.2024"
+		},
+		{
+			"id": 6,
+			"imageUrl": "/news/6-1.jpg",
+			"date": "01.10.2024"
+		},
+		{
+			"id": 7,
+			"imageUrl": "/news/7-1.jpg",
+			"date": "07.10.2024"
+		},
+		{
+			"id": 8,
+			"imageUrl": "/news/8-1.png",
+			"date": "23.10.2024"
+		},
+		{
+			"id": 9,
+			"imageUrl": "/news/9-1.png",
+			"date": "22.11.2024"
+		},
+		{
+			"id": 10,
+			"imageUrl": "/news/10-1.jpg",
+			"date": "19.12.2024"
+		},
+		{
+			"id": 11,
+			"imageUrl": "/news/11-1.jpg",
+			"date": "09.05.2025"
+		},
+		{
+			"id": 12,
+			"imageUrl": "/news/12-1.jpg",
+			"date": "16.07.2025"
+		},
+		{
+			"id": 13,
+			"imageUrl": "/news/13-1.png",
+			"date": "10.07.2025"
+		},
+		{
+			"id": 14,
+			"imageUrl": "/news/14-1.jpg",
+			"date": "01.09.2025"
+		}
+	]
+}

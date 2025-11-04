@@ -1,0 +1,220 @@
+{
+    "title": "Laboratory of Structure Formation and Properties of Ferrous Metals",
+    "firstPersonCard": {
+        "id": "levchenko-gennadij-vasilovich",
+        "photo": "/employees/levchenko-gennadij-vasilovich.jpg",
+        "position": "Head of Laboratory",
+        "name": "Levchenko Gennadii Vasylovych",
+        "email": "gvlevchenko2018@gmail.com",
+        "description": "Professor, Doctor of Technical Sciences",
+        "researchDirection": "- structural heredity in steels and alloys and its influence on the formation of properties of steels and alloys. Development of methods for directed formation of structure and properties of metals. Development of complex heat treatment regimes for steels and alloys with increased wear and heat resistance.",
+        "specialization": "05.16.01 – Materials Science and Heat Treatment of Metals",
+        "contacts": [
+            {
+                "type": "Email",
+                "value": "gvlevchenko2018@gmail.com"
+            },
+            {
+                "type": "Encyclopedia",
+                "value": "https://esu.com.ua/article-53945"
+            },
+            {
+                "type": "ORCID ID",
+                "value": "https://orcid.org/0000-0003-1173-5320"
+            },
+            {
+                "type": "Google Scholar",
+                "value": "https://scholar.google.com.ua/citations?user=lGv7cNsAAAAJ&hl=uk"
+            },
+            {
+                "type": "Scopus Author ID",
+                "value": "https://www.scopus.com/authid/detail.uri?authorId=7004337743"
+            },
+            {
+                "type": "webofscience",
+                "value": "https://www.webofscience.com/wos/author/record/15075996 "
+            },
+            {
+                "type": "webofscience",
+                "value": "https://www.webofscience.com/wos/author/record/15075996"
+            }
+        ]
+    },
+    "staffCards": [
+        {
+            "id": "bobyr-sergij-volodimirovich",
+            "photo": "/employees/bobyr-sergij-volodimirovich.jpg",
+            "position": "Leading Researcher",
+            "name": "Bobyr Serhii Volodymyrovych",
+            "description": "Doctor of Technical Sciences, Senior Researcher",
+            "researchDirection": "Development of complex heat treatment regimes to increase wear and heat resistance of metal products in mechanical engineering. Analysis and modeling of non-equilibrium phase-structural transformations in steels and alloys. Diffusion processes in metals and alloys, further development of thermodynamic foundations of diffusion theories.",
+            "specialization": "05.16.01 – Materials Science and Heat Treatment of Metals",
+            "contacts": [
+                {
+                    "type": "Email",
+                    "value": "svbobyr07@gmail.com"
+                },
+                {
+                    "type": "Encyclopedia",
+                    "value": "https://esu.com.ua/article-878711 "
+                },
+                {
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0001-6816-1554"
+                },
+                {
+                    "type": "Google Scholar",
+                    "value": "https://scholar.google.com.ua/citations?hl=uk&user=otI1cPUAAAAJ"
+                },
+                {
+                    "type": "Scopus Author ID",
+                    "value": "https://www.scopus.com/authid/detail.uri?authorId=55556749700"
+                },
+                {
+                    "type": "webofscience",
+                    "value": "https://www.webofscience.com/wos/author/record/2510802"
+                }
+            ]
+        },
+        {
+            "id": "borisenko-andrij-jurijovich",
+            "photo": "/employees/borisenko-andrij-jurijovich.jpg",
+            "position": "Senior Researcher",
+            "name": "Borisenko Andrii Yuriiovych",
+            "description": "Doctor of Technical Sciences",
+            "researchDirection": "Mechanisms of phase transformations and formation of the internal structure of metals. Structural heredity of steel and cast iron. Development of methods for directed formation of structure and properties of metals.",
+            "specialization": "05.16.01 – Materials Science and Heat Treatment of Metals",
+            "contacts": [
+                {
+                    "type": "Email",
+                    "value": "asbor@ua.fm"
+                },
+                {
+                    "type": "Encyclopedia",
+                    "value": "https://esu.com.ua/article-878712 "
+                },
+                {
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0003-2120-0944"
+                },
+                {
+                    "type": "Google Scholar",
+                    "value": "https://scholar.google.com.ua/citations?hl=uk&user=HdQGZB8AAAAJ"
+                },
+                {
+                    "type": "Scopus Author ID",
+                    "value": "https://www.scopus.com/authid/detail.uri?authorId=7102498619"
+                },
+                {
+                    "type": "webofscience",
+                    "value": "https://www.webofscience.com/wos/author/record/OGM-9763-2025"
+                }
+            ]
+        },
+        {
+            "id": "balahanova-tetjana-valerijivna",
+            "photo": "/employees/balahanova-tetjana-valerijivna.jpg",
+            "position": "Senior Researcher",
+            "name": "Balakhanova Tetiana Valeriivna",
+            "description": "Candidate of Technical Sciences",
+            "researchDirection": "Optimization of the selective laser melting process to obtain materials with homogeneous microstructure, minimal defect level and a specified set of mechanical characteristics. Study and scientific substantiation of the mechanisms of defect formation in large cross-section rolled products to determine their nature and ways of minimization. Analysis of the influence of the dendritic structure of cast steel on the microstructure and operational characteristics of the finished rolled product and development of scientific approaches to improve the reliability of metal products, particularly for the railway industry.",
+            "specialization": "05.16.01 – Materials Science and Heat Treatment of Metals",
+            "contacts": [
+                {
+                    "type": "Email",
+                    "value": "tatja.balakhanova@gmail.com"
+                },
+                {
+                    "type": "Encyclopedia",
+                    "value": ""
+                },
+                {
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0003-2493-218x"
+                },
+                {
+                    "type": "Google Scholar",
+                    "value": "https://scholar.google.com.ua/citations?hl=uk&user=xP2iY-oAAAAJ"
+                },
+                {
+                    "type": "Scopus Author ID",
+                    "value": "https://www.scopus.com/authid/detail.uri?authorId=58298399500"
+                },
+                {
+                    "type": "webofscience",
+                    "value": "https://www.webofscience.com/wos/author/record/48576176"
+                }
+            ]
+        },
+        {
+            "id": "baranivska-olena-jevgenivna",
+            "photo": "/employees/baranivska-olena-jevgenivna.jpg",
+            "position": "Researcher",
+            "name": "Baranivska Olena Yevgenivna",
+            "description": "Candidate of Technical Sciences",
+            "researchDirection": "Hereditary connection of the primary dendritic structure with the grain structure of cast steel and finished metal products. Features of phase and structural transformations in steels and alloys with increased wear and heat resistance. Improvement of heat treatment regimes for metal products for hot deformation tools.",
+            "specialization": "05.16.01 – Materials Science and Heat Treatment of Metals",
+            "contacts": [
+                {
+                    "type": "Email",
+                    "value": "elena15dnepr@gmail.com"
+                },
+                {
+                    "type": "Encyclopedia",
+                    "value": ""
+                },
+                {
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0002-4106-5797"
+                },
+                {
+                    "type": "Google Scholar",
+                    "value": "https://scholar.google.com.ua/citations?hl=uk&user=gOda9vkAAAAJ"
+                },
+                {
+                    "type": "Scopus Author ID",
+                    "value": "https://www.scopus.com/authid/detail.uri?authorId=58555247300"
+                },
+                {
+                    "type": "webofscience",
+                    "value": "https://www.webofscience.com/wos/author/record/72680200 "
+                }
+            ]
+        },
+        {
+            "id": "loshkarjov-dmitro-valerijovich",
+            "photo": "/employees/loshkarjov-dmitro-valerijovich.jpg",
+            "position": "Lead Engineer",
+            "name": "Loshkariov Dmytro Valeriiovych",
+            "description": "",
+            "researchDirection": "Modeling of phase-structural transformations, including using methods of non-equilibrium thermodynamics, during cooling of alloyed steels under continuous cooling and isothermal conditions. Predictive determination of mechanical properties of carbon and alloyed steels after heat treatment.",
+            "specialization": "",
+            "contacts": [
+                {
+                    "type": "Email",
+                    "value": "kashtanp10@gmail.com"
+                },
+                {
+                    "type": "Encyclopedia",
+                    "value": ""
+                },
+                {
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0003-3817-7840"
+                },
+                {
+                    "type": "Google Scholar",
+                    "value": "https://scholar.google.com.ua/citations?user=ZOIMtEQAAAAJ&hl=uk"
+                },
+                {
+                    "type": "Scopus Author ID",
+                    "value": ""
+                },
+                {
+                    "type": "webofscience",
+                    "value": ""
+                }
+            ]
+        }
+    ]
+}

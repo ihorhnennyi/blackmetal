@@ -1,0 +1,927 @@
+{
+	"newsTitle": "News",
+	"news": [
+		{
+			"id": 1,
+			"title": "Internship in Australia of Deputy Director for Scientific Work Dr. Sc. (Tech.), Sen. Res. O.Ye. Merkulov",
+			"text": "Internship with financial support from the non-profit organization 'Breakthrough Prize Foundation' of the Ukrainian-Australian Research Fund of Deputy Director for Scientific Work Dr. Sc. (Tech.), Sen. Res. O.Ye. Merkulov at the Centre for Ironmaking Materials Research – CIMR",
+			"content": [
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "In October 2023, Deputy Director of the Z.I. Nekrasov Iron and Steel Institute of the National Academy of Sciences of Ukraine (Dnipro), Doctor of Technical Sciences "
+						},
+						{
+							"type": "navlink",
+							"value": "Oleksii Merkulov",
+							"href": "merkulov"
+						},
+						{
+							"type": "text",
+							"value": " arrived at the "
+						},
+						{
+							"type": "link",
+							"value": "University of Newcastle",
+							"href": "https://www.newcastle.edu.au/"
+						},
+						{
+							"type": "text",
+							"value": " (New South Wales state) to begin joint research at the Centre for Ironmaking Materials Research (CIMR) of the Newcastle Institute for Energy & Resources of this university."
+						}
+					]
+				},
+				{
+					"type": "image",
+					"value": "/news/1-2.jpg"
+				},
+				{
+					"type": "desc",
+					"value": "Doctor of Technical Sciences Oleksii MERKULOV working in the CIMR laboratories"
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "Communication Project Manager of the University of Newcastle Annalese Thomas spoke with the Ukrainian scientist about his scientific career in Ukraine and his latest research in Australia. With the kind permission of the University of Newcastle, we are publishing the "
+						},
+						{
+							"type": "link",
+							"value": "translation of this interview",
+							"href": "https://old.nas.gov.ua/UA//Messages/Pages/View.aspx?MessageID=10866&fbclid=IwY2xjawL4CUNleHRuA2FlbQIxMABicmlkETFkZDFqNmRkdTNmdnhxa2NrAR4YLvep-7vIjOuJTRaomxu8-qdNOM6-sM-Vj6Mqz6nlS8U5EBOHtzCpfYpnuQ_aem_gR08T8xUyJ58Uz10XtQZ7A"
+						},
+						{
+							"type": "text",
+							"value": "."
+						}
+					]
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "We wish Doctor of Technical Sciences "
+						},
+						{
+							"type": "navlink",
+							"value": "Oleksii MERKULOV",
+							"href": "merkulov"
+						},
+						{
+							"type": "text",
+							"value": " successful implementation of the set scientific tasks, fruitful cooperation with Australian colleagues, new discoveries in the field of ironmaking materials research and significant results that will contribute to the development of international scientific partnership and strengthening the authority of Ukrainian science in the world."
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 2,
+			"title": "Employees of the ISI of the NAS of Ukraine awarded the Z.I. Nekrasov Prize",
+			"text": "Employees of the ISI of the NAS of Ukraine Dr. Sc. (Tech.), Sen. Res. O.I. Babachenko, Dr. Sc. (Tech.), Sen. Res. H.A. Kononenko, PhD in Philology R.V. Podolskyi were awarded the Z.I. Nekrasov Prize – for outstanding scientific works in the field of metallurgy",
+			"content": [
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "On April 24, 2024, a regular session of the General Meeting of the National Academy of Sciences of Ukraine took place in Kyiv. During the reporting session, the President of the Academy of Sciences of Ukraine Anatolii Zavhorodnii "
+						},
+						{
+							"type": "link",
+							"value": "presented diplomas to the laureates of the prizes named after outstanding scientists of Ukraine based on the results of the 2023 competition",
+							"href": "https://old.nas.gov.ua/UA/Messages/Pages/View.aspx?MessageID=11256"
+						},
+						{
+							"type": "text",
+							"value": ". Among the laureates were employees of the Z.I. Nekrasov Iron and Steel Institute, who were awarded the Z.I. Nekrasov Prize for outstanding scientific works in the field of metallurgy for the cycle of scientific works 'Development of technological parameters for the production of railway-purpose metal products and quality assessment criteria that ensure increased reliability and durability'. The author team: Director of the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine, Doctor of Technical Sciences "
+						},
+						{
+							"type": "navlink",
+							"value": "Oleksandr Babachenko",
+							"href": "babachenko"
+						},
+						{
+							"type": "text",
+							"value": "; Scientific Secretary of the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine, Doctor of Technical Sciences "
+						},
+						{
+							"type": "navlink",
+							"value": "Hanna Kononenko",
+							"href": "kononenko-hanna-andriivna"
+						},
+						{
+							"type": "text",
+							"value": "; Research Fellow of the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine, Doctor of Philosophy "
+						},
+						{
+							"type": "navlink",
+							"value": "Rostyslav Podolskyi",
+							"href": "podolskyi-rostyslav-viacheslavovych"
+						},
+						{
+							"type": "text",
+							"value": "."
+						}
+					]
+				},
+				{
+					"type": "image",
+					"value": "/news/2-2.jpeg"
+				},
+				{
+					"type": "desc",
+					"value": "President of the NAS of Ukraine Anatolii ZAVHORODNII presents a diploma to the Director of the ISI of the NAS of Ukraine Oleksandr BABACHENKO"
+				},
+				{
+					"type": "text",
+					"value": "We wish the team of authors new professional successes, victories and energy for further work!"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"title": "Congratulations to the Director of the ISI of the NAS of Ukraine Dr. Sc. (Tech.), Sen. Res. O.I. Babachenko on his election as a Corresponding Member of the NAS of Ukraine",
+			"text": "Following the session of the General Meeting of the NAS of Ukraine, the Director of the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine, Doctor of Technical Sciences Oleksandr Ivanovych Babachenko was elected a Corresponding Member of the National Academy of Sciences of Ukraine",
+			"content": [
+				{
+					"type": "text",
+					"value": "On April 25, 2024, a session of the General Meeting of the NAS of Ukraine took place, during which the Director of the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine, Doctor of Technical Sciences Oleksandr Ivanovych Babachenko was elected to the vacant position of Corresponding Member of the National Academy of Sciences of Ukraine in the specialty 'Materials Science, Technology of Materials'."
+				},
+				{
+					"type": "image",
+					"value": "/news/3-1.jpeg"
+				},
+				{
+					"type": "text",
+					"value": "Congratulations on the recognition of your significant contribution to the development of science, many years of fruitful work, deep scientific erudition and leadership in your field."
+				},
+				{
+					"type": "text",
+					"value": "We wish you endless inspiration, inexhaustible energy, interesting ideas on the path to new scientific heights!"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"title": "Update of ATEX © software",
+			"text": "On August 15, 2024, the ISI of the NAS of Ukraine received an official license for the non-commercial use of ATEX© software",
+			"content": [
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "On August 15, 2024, the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine received an official license for the non-commercial use of "
+						},
+						{
+							"type": "bold",
+							"value": "ATEX©"
+						},
+						{
+							"type": "text",
+							"value": " software, which will contribute to improving the quality of scientific research and training of postgraduate students."
+						}
+					]
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "The receipt of the license for "
+						},
+						{
+							"type": "link",
+							"value": "ATEX© software",
+							"href": "http://www.atex-software.eu/index.html"
+						},
+						{
+							"type": "text",
+							"value": " by the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine is a significant step in improving scientific work. This software allows for detailed analysis of electron microscopy and X-ray diffraction results, which will help the Institute's employees research the unique structural features of steels and alloys of new chemical compositions. Furthermore, this tool significantly simplifies the confirmation of existing effects in steels, cast irons and other alloys, and contributes to the professional development of postgraduate students and scientists, who now gain access to modern analysis methods."
+						}
+					]
+				},
+				{
+					"type": "image",
+					"value": "/news/4-2.png"
+				},
+				{
+					"type": "desc",
+					"value": "B. Beausir and J.-J. Fundenberger, Analysis Tools For Electron And X-ray diffraction, ATEX - software, www.atex-software.eu, Université de Lorraine - Metz, 2017"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"title": "Business trip to Germany of Senior Researcher Cand. Sc. (Tech.) T.V. Kimstach and Junior Researcher V.R. Shcherbachov",
+			"text": "Senior Researcher Cand. Sc. (Tech.), Assoc. Prof. Tetiana KIMSTACH and Junior Researcher Vadym SHCHERBACHOV, as part of a working group, visited TU Bergakademie Freiberg (Freiberg, Germany)",
+			"content": [
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "On September 23-27, 2024, Cand. Sc. (Tech.), Assoc. Prof. "
+						},
+						{
+							"type": "navlink",
+							"value": "Tetiana KIMSTACH",
+							"href": "kimstach-tetiana-volodymyrivna"
+						},
+						{
+							"type": "text",
+							"value": ", Research Fellow of the Department of Problems of Deformation-Thermal Treatment of Structural Steels of the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine, and "
+						},
+						{
+							"type": "navlink",
+							"value": "Vadym SHCHERBACHOV",
+							"href": "shcherbachov-v-r"
+						},
+						{
+							"type": "text",
+							"value": ", Junior Researcher of the Department of Cast Iron Metallurgy of the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine, participated in the International Metallurgical Erasmus+ Staff Week at "
+						},
+						{
+							"type": "link",
+							"value": "TU Bergakademie Freiberg",
+							"href": "https://tu-freiberg.de/en"
+						},
+						{
+							"type": "text",
+							"value": ", Freiberg, Germany. Within the event, they attended presentations by the Erasmus+ National Agency Higher Education / German Academic Exchange Service (DAAD) and the Erasmus+ Partner Day, where participating universities were presented. During the working trip, new scientific contacts for future cooperation were established, which may contribute to the further development of joint projects between institutions."
+						}
+					]
+				},
+				{
+					"type": "text",
+					"value": "Assoc. Prof. Kimstach T.V. also familiarized herself with the scientific and technical base of the academy, visited the research laboratories of the Institute of Iron and Steel Technology, which made it possible to learn about modern scientific methods and approaches used in Germany for researching structural steels."
+				},
+				{
+					"type": "image",
+					"value": "/news/5-2.jpg"
+				},
+				{
+					"type": "desc",
+					"value": "Cand. Sc. (Tech.), Assoc. Prof. Tetiana KIMSTACH visiting one of the laboratories of TU Bergakademie Freiberg"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"title": "Business trip to Austria of employees of the ISI of the NAS of Ukraine",
+			"text": "Business trip to Austria of Acting Head of Department Dr. Sc. (Tech.), Sen. Res. H.A. Kononenko and Junior Researcher, Postgraduate Student O.A. Safronova",
+			"content": [
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "From October 1 to 13, 2024, Dr. Sc. (Tech.), Senior Researcher, Acting Head of the Department of Problems of Deformation-Thermal Treatment of Structural Steels "
+						},
+						{
+							"type": "navlink",
+							"value": "Hanna KONONENKO",
+							"href": "kononenko-hanna-andriivna"
+						},
+						{
+							"type": "text",
+							"value": " (project manager) and Postgraduate Student, Junior Researcher "
+						},
+						{
+							"type": "navlink",
+							"value": "Olena SAFRONOVA",
+							"href": "safronova-olena-anatoliivna"
+						},
+						{
+							"type": "text",
+							"value": " (responsible project executor) visited the "
+						},
+						{
+							"type": "link",
+							"value": "Erich Schmid Institute of Materials Science of the Austrian Academy of Sciences",
+							"href": "https://www.oeaw.ac.at/esi/erich-schmid-institute"
+						},
+						{
+							"type": "text",
+							"value": " within the framework of the joint Ukrainian-Austrian research project 'Improvement of Heat Treatment Regimes of AISI 316L Produced by SLM for Reducing Residual Stresses' (No. DR 0123U103227), funded within the framework of scientific and technological cooperation between Ukraine and Austria."
+						}
+					]
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "During the working visit, the results of current research were discussed, and an introduction to the research base of the "
+						},
+						{
+							"type": "link",
+							"value": "Erich Schmid Institute of Materials Science of the Austrian Academy of Sciences",
+							"href": "https://www.oeaw.ac.at/"
+						},
+						{
+							"type": "text",
+							"value": " was conducted for "
+						},
+						{
+							"type": "navlink",
+							"value": "Olena SAFRONOVA",
+							"href": "safronova-olena-anatoliivna"
+						},
+						{
+							"type": "text",
+							"value": ". Issues of further cooperation in new scientific directions were discussed. We express our gratitude to the Director of the Erich Schmid Institute of Materials Science "
+						},
+						{
+							"type": "link",
+							"value": "Prof. Dr.-Ing. habil. Dr. h.c. Jürgen Eckert",
+							"href": "https://www.oeaw.ac.at/esi/institute/staff/juergen-eckert"
+						},
+						{
+							"type": "text",
+							"value": " and "
+						},
+						{
+							"type": "link",
+							"value": "Dr.-Ing. Parthiban Ramasamy",
+							"href": "https://www.oeaw.ac.at/esi/institute/staff/parthiban-ramasamy"
+						},
+						{
+							"type": "text",
+							"value": " for the warm welcome and support of Ukrainian scientists. Special thanks to the Ministry of Education and Science of Ukraine for the opportunity to conduct this research and expand cooperation with European partners."
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 7,
+			"title": "Participation of employees of the ISI of the NAS of Ukraine in the 7th International Conference 'WRT2024' in Yaremche",
+			"text": "Participation of employees of the ISI of the NAS of Ukraine in the work of the conference 'Welding and Related Technologies 2024', Yaremche, Ukraine",
+			"content": [
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "From October 7 to 10, 2024, the conference "
+						},
+						{
+							"type": "link",
+							"value": "Welding and Related Technologies Conference 2024",
+							"href": "https://wrt2024.com.ua/"
+						},
+						{
+							"type": "text",
+							"value": " was held in Yaremche (Ukraine), which brought together leading scientists and engineers to exchange experience and research results. Representatives of the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine also took part in this event."
+						}
+					]
+				},
+				{
+					"type": "text",
+					"value": "Scientific reports of the Institute's employees:"
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "The Director of the Institute, Corresponding Member of the NAS of Ukraine "
+						},
+						{
+							"type": "navlink",
+							"value": "Oleksandr BABACHENKO",
+							"href": "babachenko"
+						},
+						{
+							"type": "text",
+							"value": ", presented the research results in the field of railway transport by the team of authors Babachenko O.I., Kononenko H.A., Podolskyi R.V., Safronova O.A. with a report on the topic: 'Development of chemical composition and heat treatment of pearlite steel for high-strength railway rails'."
+						}
+					]
+				},
+				{
+					"type": "text",
+					"value": "The report highlighted innovative approaches to creating pearlitic steel with improved characteristics for railway rails."
+				},
+				{
+					"type": "image",
+					"value": "/news/7-2.jpg"
+				},
+				{
+					"type": "desc",
+					"value": "report by Corr. Member of the NAS of Ukraine, Dr. Sc. (Tech.) Oleksandr BABACHENKO"
+				},
+				{
+					"type": "text",
+					"value": "This event was a unique opportunity for our employees to share the results of their research with the international scientific community, receive valuable feedback and expand professional contacts."
+				},
+				{
+					"type": "text",
+					"value": "We express our sincere gratitude to the organizing committee of the Welding and Related Technologies Conference 2024 for the invitation and the opportunity to present the achievements of our Institute."
+				}
+			]
+		},
+		{
+			"id": 8,
+			"title": "Participation of employees of the ISI of the NAS of Ukraine in the international conference 'Innovative Manufacturing Engineering & Energy 2024', Athens, Greece",
+			"text": "Participation of employees of the ISI of the NAS of Ukraine in the work of the conference 'Innovative Manufacturing Engineering & Energy 2024', Athens, Greece",
+			"content": [
+				{
+					"type": "text",
+					"value": "From October 23 to 25, 2024, the international conference Innovative Manufacturing Engineering & Energy 2024 (IMANEE2024) took place in the capital of Greece, Athens. This event brought together leading scientists from around the world to discuss current issues in the field of innovative manufacturing and energy."
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "At the conference, the Head of the Department of Problems of Deformation-Thermal Treatment of Structural Steels, Doctor of Technical Sciences "
+						},
+						{
+							"type": "navlink",
+							"value": "Hanna KONONENKO",
+							"href": "kononenko-hanna-andriivna"
+						},
+						{
+							"type": "text",
+							"value": ", and a Research Fellow of the same department, Doctor of Philosophy "
+						},
+						{
+							"type": "navlink",
+							"value": "Rostyslav PODOLSKYI",
+							"href": "podolskyi-rostyslav-viacheslavovych"
+						},
+						{
+							"type": "text",
+							"value": ", presented the results of the work of the team of authors: Adjams'kyi S.V. (Dnipro), Dovhyi B.T. (Warsaw), Kononenko H.A. (Dnipro), Karmyris-Orbatanskyi P. (Krakow), Podolskyi R.V. (Dnipro)."
+						}
+					]
+				},
+				{
+					"type": "text",
+					"value": "Report topic: 'Peculiarities of the evolution of the microstructure and mechanical properties depending on the correction of the focal length in parts made by laser melting in a powder layer.'"
+				},
+				{
+					"type": "text",
+					"value": "The report highlighted the results of research in the field of additive manufacturing, in particular, the influence of correcting the focal length of the laser beam on the evolution of the microstructure and mechanical properties of parts manufactured by laser powder bed fusion."
+				},
+				{
+					"type": "image",
+					"value": "/news/8-2.jpg"
+				},
+				{
+					"type": "text",
+					"value": "This conference became a unique platform for presenting the scientific achievements of our Institute at the international level, exchanging experience with colleagues from different countries, as well as for establishing new scientific contacts."
+				},
+				{
+					"type": "text",
+					"value": "We express our sincere gratitude to the IMANEE2024 organizing committee for the opportunity to present the results of our team's work at this important event."
+				}
+			]
+		},
+		{
+			"id": 9,
+			"title": "New equipment in the Center for Shared Use of Scientific Equipment of the ISI of the NAS of Ukraine",
+			"text": "The Center for Shared Use of Scientific Equipment of the ISI of the NAS of Ukraine received new equipment",
+			"content": [
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "The Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine is pleased to announce an important update to the Center for Shared Use of Instruments. Thanks to the support of the "
+						},
+						{
+							"type": "link",
+							"value": "National Academy of Sciences of Ukraine",
+							"href": "https://old.nas.gov.ua/UA//pages/default.aspx"
+						},
+						{
+							"type": "text",
+							"value": ", the Center has been replenished with state-of-the-art equipment:"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"value": "The 'COXEM-40N' electron microscope with a STEM attachment, which provides high-precision analysis of the structural characteristics of materials;"
+				},
+				{
+					"type": "image",
+					"value": "/news/9-2.jpg"
+				},
+				{
+					"type": "text",
+					"value": "The 'LHVS-1000Z' microhardness tester, which allows for research into the mechanical properties of materials with the highest accuracy."
+				},
+				{
+					"type": "image",
+					"value": "/news/9-3.jpg"
+				},
+				{
+					"type": "text",
+					"value": "This update will significantly expand the Institute's capabilities in conducting materials science, metallurgical and interdisciplinary research."
+				},
+				{
+					"type": "text",
+					"value": "Thanks to partners and organizers:"
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "We sincerely thank the companies "
+						},
+						{
+							"type": "link",
+							"value": "LLC 'Novations'",
+							"href": "https://novations.ua/"
+						},
+						{
+							"type": "text",
+							"value": " and "
+						},
+						{
+							"type": "link",
+							"value": "'Materials LAB'",
+							"href": "https://materials-lab.com.ua/"
+						},
+						{
+							"type": "text",
+							"value": " for the prompt delivery of equipment, as well as for the conducted briefings and training sessions. Special thanks to the Technical Director of LLC 'Novations' Andrii Derzhipolskyi and the Technical Director of 'Materials LAB' Ihor Poliakov for their professional approach, consultations and support in mastering the new equipment."
+						}
+					]
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "We express separate gratitude to the "
+						},
+						{
+							"type": "link",
+							"value": "National Academy of Sciences of Ukraine",
+							"href": "https://old.nas.gov.ua/UA//pages/default.aspx"
+						},
+						{
+							"type": "text",
+							"value": " for the financial support that made this update possible. Thanks to such initiatives, we continue to enhance the competitiveness of Ukrainian science on the international arena."
+						}
+					]
+				},
+				{
+					"type": "text",
+					"value": "We invite scientists and engineers to cooperate with our Center to use the latest equipment in their research!"
+				}
+			]
+		},
+		{
+			"id": 10,
+			"title": "Employee of the ISI of the NAS of Ukraine won the 'Best Young Scientist of the Academy 2024' competition",
+			"text": "Junior Researcher of the ISI of the NAS of Ukraine, Postgraduate Student Olena SAFRONOVA won the 'Best Young Scientist of the Academy 2024' competition in the 'Postgraduate Students' category",
+			"content": [
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "The Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine sincerely congratulates the Junior Researcher of the Department of Problems of Deformation-Thermal Treatment of Structural Steels, Postgraduate Student "
+						},
+						{
+							"type": "navlink",
+							"value": "Olena SAFRONOVA",
+							"href": "safronova-olena-anatoliivna"
+						},
+						{
+							"type": "text",
+							"value": " on her brilliant victory in the 'Best Young Scientist of the Academy' competition in the postgraduate students category (technical specialties)!"
+						}
+					]
+				},
+				{
+					"type": "image",
+					"value": "/news/10-2.jpg"
+				},
+				{
+					"type": "desc",
+					"value": "President of the NAS of Ukraine Anatolii ZAVHORODNII presents the winner's diploma to the employee of the ISI of the NAS of Ukraine, postgraduate student Olena Safronova"
+				},
+				{
+					"type": "text",
+					"value": "This award is a recognition of Olena SAFRONOVA's significant scientific achievements, her perseverance and creative approach to solving complex problems in the field of materials science. Her research has significant potential for the development of Ukraine's metallurgical industry and increasing its competitiveness."
+				},
+				{
+					"type": "text",
+					"value": "We are proud that such talented and ambitious young scientists work within the walls of our Institute. This victory is not only a personal merit but also an inspiration for the entire scientific team."
+				},
+				{
+					"type": "text",
+					"value": "We wish Olena SAFRONOVA new achievements, scientific discoveries and successful implementation of all her ideas!"
+				}
+			]
+		},
+		{
+			"id": 11,
+			"title": "Employees of the ISI of the NAS of Ukraine became laureates of the Verkhovna Rada of Ukraine Prize for Young Scientists for 2024",
+			"text": "A team of young scientists from the ISI of the NAS of Ukraine won the Verkhovna Rada of Ukraine Prize for Young Scientists 2024",
+			"content": [
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "According to the Resolution of the Verkhovna Rada of Ukraine No. 4411-IX dated May 1, 2025 "
+						},
+						{
+							"type": "link",
+							"value": "'On Awarding the Verkhovna Rada of Ukraine Prize for Young Scientists for 2024'",
+							"href": "https://zakon.rada.gov.ua/laws/show/4411-20#Text"
+						},
+						{
+							"type": "text",
+							"value": ", a team of young scientists from the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine was awarded the prestigious Verkhovna Rada of Ukraine Prize for significant scientific achievements."
+						}
+					]
+				},
+				{
+					"type": "text",
+					"value": "The Prize Laureates are:"
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "navlink",
+							"value": "Podolskyi Rostyslav Viacheslavovych",
+							"href": "podolskyi-rostyslav-viacheslavovych"
+						},
+						{
+							"type": "text",
+							"value": " - Doctor of Philosophy in Mechanical Engineering, Acting Head of the Department of Deformation-Thermal Treatment of Structural Steels;"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "navlink",
+							"value": "Povorotnia Iryna Romanivna",
+							"href": "povorotnia"
+						},
+						{
+							"type": "text",
+							"value": " - Candidate of Technical Sciences, Research Fellow of the Department of Physico-Chemical Problems of Metallurgical Processes;"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "navlink",
+							"value": "Klemeshov Yevhen Serhiiovych",
+							"href": "klemeshov-jevgen-sergijovich"
+						},
+						{
+							"type": "text",
+							"value": " - Candidate of Technical Sciences, Research Fellow of the Department of Processes and Machines of Metal Forming;"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "navlink",
+							"value": "Safronova Olena Anatoliivna",
+							"href": "safronova-olena-anatoliivna"
+						},
+						{
+							"type": "text",
+							"value": " - Junior Researcher of the Department of Deformation-Thermal Treatment of Structural Steels."
+						}
+					]
+				},
+				{
+					"type": "text",
+					"value": "The Prize was awarded for the joint scientific work 'Prospects for the Production of High-Strength Railway Rails in the Conditions of Post-War Recovery', which is relevant in the context of the needs of national infrastructure and the restoration of Ukraine's transport potential."
+				},
+				{
+					"type": "text",
+					"value": "We sincerely congratulate the laureates on their well-deserved award! We wish you further scientific achievements, realization of ambitious projects, new discoveries and good health!"
+				}
+			]
+		},
+		{
+			"id": 12,
+			"title": "Deputy Director for Scientific Work Dr. Sc. (Tech.), Sen. Res. Oleksii Yevhenovych Merkulov became a member of the renewed composition of the Scientific Committee of the National Council for the Development of Science and Technology",
+			"text": "The composition of the Scientific Committee of the National Council for the Development of Science and Technology has been updated",
+			"content": [
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "The Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine sincerely congratulates the Doctor of Technical Sciences, Deputy Director for Scientific Work "
+						},
+						{
+							"type": "navlink",
+							"value": "Oleksii Yevhenovych Merkulov",
+							"href": "merkulov"
+						},
+						{
+							"type": "text",
+							"value": " on his inclusion in the new composition of the Scientific Committee of the National Council for the Development of Science and Technology!"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"value": "By the Order of the Cabinet of Ministers of Ukraine dated July 16, 2025 No. 728-r, the new composition of the Scientific Committee - an advisory body that plays a key role in the formation and implementation of state policy in the field of science and innovations - was approved. The powers of the members are determined for a period of four years."
+				},
+				{
+					"type": "text",
+					"value": "The committee includes leading Ukrainian scientists from various fields of knowledge, representing institutions of the NAS of Ukraine, national universities and regional scientific centers. The high expertise, many years of scientific experience and active position of each committee member will contribute to strengthening the role of science in the system of strategic decision-making in Ukraine."
+				},
+				{
+					"type": "text",
+					"value": "For the team of the Institute, this is not only a recognition of Oleksii Yevhenovych's professional level, but also evidence of the important role of applied metallurgical science in the development of the economy, industry and technological security of the state."
+				}
+			]
+		},
+		{
+			"id": 13,
+			"title": "PhD student Ihor Liubeka successfully completed the international Science2Business program",
+			"text": "PhD student Ihor Liubeka successfully completed the international Science2Business program",
+			"content": [
+				{
+					"type": "text",
+					"value": "On July 10, 2025, PhD student of the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine, Ihor Liubeka, successfully completed the intensive Science2Business (S2B) training program and received an official certificate."
+				},
+				{
+					"type": "text",
+					"value": "The program lasted 7 weeks (60 hours) in an online format and was organized within the framework of the European Seeds of Bravery initiative, supported by the European Innovation Council (EIC) and funded by the European Union. Leading partners such as INNOU8, Aalto University, EIT Health, and Erasmus Centre for Entrepreneurship participated in its implementation."
+				},
+				{
+					"type": "image",
+					"value": "/news/13-2.png"
+				},
+				{
+					"type": "minititle",
+					"value": "About the Science2Business program"
+				},
+				{
+					"type": "text",
+					"value": "Science2Business aims to help young scientists and innovators transform scientific ideas into commercially viable business solutions. The course covered the following key areas:"
+				},
+				{
+					"type": "list",
+					"children": [
+						{
+							"type": "text",
+							"value": "development of entrepreneurial competencies,"
+						},
+						{ "type": "text", "value": "formation of innovation ecosystems" },
+						{ "type": "text", "value": "inclusive entrepreneurship" },
+						{ "type": "text", "value": "project scaling" }
+					]
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "The classes were conducted by international experts and mentors, including representatives of "
+						},
+						{
+							"type": "bold",
+							"value": "Erasmus Centre for Entrepreneurship"
+						},
+						{
+							"type": "text",
+							"value": ", who have extensive experience in entrepreneurship and innovation."
+						}
+					]
+				},
+				{
+					"type": "image",
+					"value": "/news/13-3.png"
+				},
+				{
+					"type": "minititle",
+					"value": "Importance for the scientific community"
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "The participation of Ihor Liubeka in the "
+						},
+						{
+							"type": "bold",
+							"value": "Science2Business"
+						},
+						{
+							"type": "text",
+							"value": " program opens new opportunities for integrating the scientific results obtained at the Iron and Steel Institute into the global innovation space. It also contributes to strengthening the role of Ukrainian researchers in the development of high-tech industries and the creation of competitive, science-intensive products."
+						}
+					]
+				},
+				{
+					"type": "image",
+					"value": "/news/13-4.png"
+				}
+			]
+		},
+		{
+			"id": 14,
+			"title": "Deputy Director for Research of the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine presents green metallurgy developments at the ICSTI 2025 World Congress in Beijing",
+			"text": "Deputy Director for Research of the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine, Doctor of Technical Sciences Oleksii Merkulov, took part in the 10th International Congress on Science and Technology of Ironmaking (ICSTI 2025), held on August 25–29, 2025, in Beijing (China).",
+			"content": [
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "Deputy Director for Research of the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine, Doctor of Technical Sciences "
+						},
+						{
+							"type": "navlink",
+							"value": "Oleksii Merkulov",
+							"href": "merkulov"
+						},
+						{
+							"type": "text",
+							"value": " took part in the 10th International Congress on Science and Technology of Ironmaking (ICSTI 2025), held on August 25–29, 2025, in Beijing (China)."
+						}
+					]
+				},
+				{
+					"type": "image",
+					"value": "/news/14-2.jpg"
+				},
+				{
+					"type": "text",
+					"value": "This year's event brought together about 400 participants from 32 countries — leading scientists, researchers, and representatives of the metallurgical industry. Since 1994, ICSTI has been held every 3–4 years in different countries and is a key international platform for discussing modern solutions in iron and steel production."
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "As part of the scientific program, "
+						},
+						{
+							"type": "navlink",
+							"value": "Oleksii Merkulov",
+							"href": "merkulov"
+						},
+						{
+							"type": "text",
+							"value": " presented a report “Blast furnace smelting with injection of coal gasification products”, demonstrating the latest developments of the Institute aimed at reducing coke consumption and cutting CO₂ emissions in blast furnace production. The scientist emphasized that although hydrogen metallurgy is a promising direction, in the short and medium term, it cannot be the only solution due to the high cost of 'green' hydrogen."
+						}
+					]
+				},
+				{
+					"type": "text",
+					"children": [
+						{
+							"type": "text",
+							"value": "In addition, at the invitation of the organizing committee, "
+						},
+						{
+							"type": "navlink",
+							"value": "Oleksii Merkulov",
+							"href": "merkulov"
+						},
+						{
+							"type": "text",
+							"value": " served as co-chair of the section “Hydrogen (H2)-based Ironmaking for Graduate Students”, where young scientists from leading universities in Australia, Austria, India, Indonesia, Korea, and China presented the results of their research."
+						}
+					]
+				},
+				{
+					"type": "image",
+					"value": "/news/14-3.jpg"
+				},
+				{
+					"type": "text",
+					"value": "The participation of the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine in such events provides access to the latest information on global trends, allows assessing the competitiveness of its own developments, and helps establish cooperation with international partners. The presented achievements of Ukrainian scientists aroused great interest and were positively received by both the academic community and representatives of the global steel industry."
+				},
+				{
+					"type": "image",
+					"value": "/news/14-4.jpg"
+				}
+			]
+		}
+	]
+}

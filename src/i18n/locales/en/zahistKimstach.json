@@ -1,0 +1,30 @@
+{
+	"title": "Defense of Kimstach",
+	"blocks": [
+		{
+			"type": "smalltext",
+			"content": "On June 8, 2023, at 11:00, a meeting of the specialized academic council D 08.231.01 will host the defense of the candidate's dissertation prepared by Tetyana Volodymyrivna Kimstach, Senior Lecturer of the Department of Materials Science and Thermal Processing of Metals of the Ukrainian State University of Science and Technology, on the topic \"Research and Development of Tin-Aluminum Bronze with Improved Casting, Tribotechnical and Corrosion Properties\" in the specialty 05.16.01 – Materials Science and Thermal Processing of Metals (Technical Sciences) for the degree of Candidate of Technical Sciences. Scientific Supervisor – Kostiantyn Ivanovych Uzlov, Doctor of Technical Sciences, Professor, Professor of the Department of Materials Science and Thermal Processing of Metals of the Ukrainian State University of Science and Technology, Dnipro."
+		},
+		{
+			"type": "documents",
+			"data": [
+				{
+					"title": "Dissertation of Kimstach T.V.",
+					"link": "/Дисертація-Кімстач.pdf"
+				},
+				{
+					"title": "Abstract of Kimstach T.V.",
+					"link": "/Автореферат-Кімстач.pdf"
+				},
+				{
+					"title": "REVIEW OF THE FIRST OPPONENT",
+					"link": "/відгук-Сухова.pdf"
+				},
+				{
+					"title": "REVIEW OF THE SECOND OPPONENT",
+					"link": "/Борисенко-А.Ю.pdf"
+				}
+			]
+		}
+	]
+}

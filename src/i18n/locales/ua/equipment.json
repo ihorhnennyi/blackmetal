@@ -1,0 +1,295 @@
+{
+	"title": "Відділ технологічного обладнання та систем управління",
+	"firstPersonCard": {
+		"id": "semenov-yuriy-stanislavovych",
+		"photo": "/employees/semenov-yuriy-stanislavovych.jpg",
+		"position": "Завідувач відділу, старший науковий співробітник",
+		"name": "Семенов Юрій Станіславович",
+		"description": "Кандидат технічних наук",
+		"researchDirection": "Розробка комплексних прийомів та способів управління доменною піччю, в тому числі, з використанням нових засобів контролю; математичних моделей процесів завантаження шихтових матеріалів і їх розподілу в доменній печі; інтелектуальних систем підтримки прийняття рішень з управління доменної плавкою; технології завантаження доменних печей багатокомпонентними шихтовими матеріалами.",
+		"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+		"contacts": [
+			{
+				"type": "Email",
+				"value": "yuriy.semenov.isi@gmail.com"
+			},
+			{
+				"type": "Encyclopedia",
+				"value": ""
+			},
+			{
+				"type": "ORCID ID",
+				"value": "https://orcid.org/0000-0003-2299-5742"
+			},
+			{
+				"type": "Google Scholar",
+				"value": "https://scholar.google.com.ua/citations?hl=ru&user=T91etI4AAAAJ"
+			},
+			{
+				"type": "Scopus Author ID",
+				"value": "https://www.scopus.com/authid/detail.uri?authorId=57194100443"
+			}
+		]
+	},
+	"activities": {
+		"items": [
+			"Теоретичні та експериментальні дослідження впливу фізико-механічних і технологічних характеристик дрібнофракційних шихтових матеріалів на процес пресування, якість готової продукції (брикетів) і їх металургійні властивості; розробку технологічних режимів брикетування; роботи з вдосконалення конструкції і технічних характеристик пресового обладнання.",
+			"Наукові дослідження режимів роботи технологічного обладнання в комплексі з приводом та системи автоматизованого контролю в доменних, сталеплавильних та прокатних цехах при удосконаленні існуючих та реалізації нових технологічних процесів, а також при освоєнні виробництва нових видів продукції.",
+			"Розробка інформаційних систем АСУ ТП доменної плавки, в тому числі математичних моделей процесу та їх програмна реалізація.",
+			"Розробка технології завантаження шихтових матеріалів в доменну піч з її адаптацією до конкретних об’єктів.",
+			"Розробка методів та способів діагностування технічного стану обладнання прокатних клітей на основі закономірностей зміни параметрів перехідних процесів.",
+			"Статистичне моделювання динамічних навантажень, визначення спектру навантаженості і розробка методів прогнозування залишкового ресурсу обладнання.",
+			"Розробка методів зменшення ударних навантажень під час захвату смуги валками і рівня вібраційних процесів в прокатних станах.",
+			"Дослідження динаміки взаємодії через смугу, що прокатується багатоклітьової групи стану та впливу збурень на міжклітьові натяжіння та поздовжню різнотовщинність та зменшення останньої."
+		]
+	},
+	"staffCards": [
+		{
+			"id": "baiul-kostiantyn-vasylovych",
+			"photo": "/employees/baiul-kostiantyn-vasylovych.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Баюл Костянтин  Васильович",
+			"description": "Доктор технічних наук, старший дослідник",
+			"researchDirection": "Розробка технологій та обладнання для брикетування дрібнофракційних матеріалів.",
+			"specialization": "05.05.08 – Машини для металургійного виробництва",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "baiulkonstantin@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-70025"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-1426-7956"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=oSs1UWIAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6505600072"
+				}
+			]
+		},
+		{
+			"id": "vereniov-valentyn-volodymyrovych",
+			"photo": "/employees/vereniov-valentyn-volodymyrovych.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Вереньов Валентин Володимирович",
+			"description": "Доктор технічних наук",
+			"researchDirection": "Математичне моделювання динамічних процесів в прокатному обладнанні. Розробка методів діагностування технічного стану лінії приводу прокатних клітей на основі вимірів параметрів вібрації обладнання. Розробка технічних рішень, спрямованих на зменшення паразитних динамічних навантажень в прокатному обладнанні.",
+			"specialization": "05.05.08 – Машини для металургійного виробництва",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "verenev0704@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878714"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-2561-5365"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=quTCBfoAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6506264259"
+				}
+			]
+		},
+		{
+			"id": "vashchenko-serhii-volodymyrovych",
+			"photo": "/employees/vashchenko-serhii-volodymyrovych.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Ващенко Сергій Володимирович",
+			"description": "Кандидат технічних наук, старший дослідник",
+			"researchDirection": "Розробка технологій та обладнання для брикетування дрібнофракційних матеріалів. Дослідження властивостей окускованої металургійної сировини. Математичне моделювання процесів завантаження шихтових матеріалів і їх розподілу в доменній печі.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "sergeyvaschenko.sv@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-8344-961X"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=CV9KP54AAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57204789130"
+				}
+			]
+		},
+		{
+			"id": "solodka-natalia-oleksandrivna",
+			"photo": "/employees/solodka-natalia-oleksandrivna.jpg",
+			"position": "Науковий співробітник",
+			"name": "Солодка Наталія Олександрівна",
+			"description": "Кандидат технічних наук, доцент",
+			"researchDirection": "Розробка технологій та обладнання для брикетування дрібнофракційних матеріалів.",
+			"specialization": "05.23.17 – Будівельна механіка",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "office.isi@nas.gov.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-7545-4969"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=JE0zX8YAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57217833042"
+				}
+			]
+		},
+		{
+			"id": "khudyakov-oleksandr-yuriiovych",
+			"photo": "/employees/khudyakov-oleksandr-yuriiovych.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Худяков Олександр Юрійович",
+			"description": "Кандидат технічних наук, старший дослідник",
+			"researchDirection": "Розробка технологій та обладнання для брикетування дрібнофракційних матеріалів. Дослідження властивостей окускованої металургійної сировини.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "khudyakovsashko@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-6507-1120"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=gwlxwpwAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57204787574"
+				}
+			]
+		},
+		{
+			"id": "shumelchyk-yevhen-ihorovych",
+			"photo": "/employees/shumelchyk-yevhen-ihorovych.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Шумельчик Євген Ігорович",
+			"description": "Кандидат технічних наук, старший дослідник",
+			"researchDirection": "Розробка комплексних прийомів та способів управління доменною піччю, в тому числі, з використанням нових засобів контролю; математичних моделей процесів завантаження шихтових матеріалів і їх розподілу в доменній печі; інтелектуальних систем підтримки прийняття рішень з управління доменної плавкою; технології завантаження доменних печей багатокомпонентними шихтовими матеріалами.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ievgen.shumelchyk@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-5350-6425"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=BW8nbmkAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55580859800"
+				}
+			]
+		},
+		{
+			"id": "frolova-liliia-anatoliivna",
+			"photo": "/employees/frolova-liliia-anatoliivna.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Фролова Лілія Анатоліївна",
+			"description": "Доктор технічних наук, доцент",
+			"researchDirection": "Розробка технології одержання пігментів з вторинної сировини, нанотехнологіїї, наноматеріали з заданими властивостями.",
+			"specialization": "05.17.01 – Технологія неорганічних речовин",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "office.isi@nas.gov.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-7970-2264"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=kzzoASUAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55505810700"
+				}
+			]
+		},
+		{
+			"id": "horupakha-viktor-volodymyrovych",
+			"photo": "/employees/horupakha.jpg",
+			"position": "Науковий співробітник",
+			"name": "Горупаха Віктор Володимирович",
+			"researchDirection": "Вивчення особливостей поведінки матеріалів та продуктів плавки в горні доменної печі і їхнього впливу на стійкість роботи нижньої частини доменної печі. Впровадження нових технологічних рішень на металургійних підприємствах. Розробка методів виводу доменних печей на оптимальні показники із нестаціонарних режимів.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "gorupaha.viktor@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-0531-1871"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=XTorPLIAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=56725733400"
+				}
+			]
+		}
+	]
+}

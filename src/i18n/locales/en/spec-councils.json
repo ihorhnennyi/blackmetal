@@ -1,0 +1,107 @@
+{
+	"title": "One-time Specialized Academic Council PhD 7744",
+	"blocks": [
+		{
+			"type": "text",
+			"content": "Field of Study: Metallurgy"
+		},
+		{
+			"type": "text",
+			"content": "Applicant: Arendach Nataliia Anatoliivna"
+		},
+		{
+			"type": "text",
+			"content": "Dissertation Topic: Development of Technological Foundations for Oxidative Blowing in a Ladle during the Production of Low-Carbon Steel"
+		},
+		{
+			"type": "documents",
+			"data": [
+				{
+					"title": "Abstract",
+					"link": "/АНОТАЦІЯ_Арендач.pdf"
+				},
+				{
+					"title": "Dissertation",
+					"link": "/дис-с-виправ_Арендач.pdf.p7s.zip"
+				},
+				{
+					"title": "Conclusion",
+					"link": "/Висновок-про-новізну-АрендачНА.pdf"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"content": "Order No. 16 dated 03.02.2025 'On the Establishment of a One-time Specialized Academic Council for Awarding the Degree of Doctor of Philosophy'"
+		},
+		{
+			"type": "text",
+			"content": "Chairman of the One-time Council – Chernyatevych Anatolii Hryhorovych, Doctor of Technical Sciences, Professor, Chief Researcher of the Department of Physical and Technical Problems of Steel Metallurgy of the Z.I. Nekrasov Institute of Ferrous Metallurgy of the National Academy of Sciences of Ukraine."
+		},
+		{
+			"type": "text",
+			"content": "Official Opponent – Zhadanos Oleksandr Volodymyrovych, Candidate of Technical Sciences, Associate Professor, Associate Professor of the Department of Electrometallurgy named after Academician M.I. Gasik of the Dnipro Metallurgical Institute of the Ukrainian State University of Science and Technology of the Ministry of Education and Science of Ukraine."
+		},
+		{
+			"type": "document",
+			"data": {
+				"title": "Review",
+				"link": "/Відгук_на_дисертацію_Арендач_Н_А_Жаданос_О_В_-1.zip"
+			}
+		},
+		{
+			"type": "text",
+			"content": "Official Opponent — Smirnov Oleksii Mykolaiovych, Doctor of Technical Sciences, Professor, Head of the Department of Magnetic Hydrodynamics of the Physical and Technological Institute of Metals and Alloys."
+		},
+		{
+			"type": "document",
+			"data": {
+				"title": "Review",
+				"link": "/Відгук_на_дисертацію_Арендач_Н_А_Смірнов_О_.pdf"
+			}
+		},
+		{
+			"type": "text",
+			"content": "Reviewer – Kysliakov Volodymyr Hennadiiovych, Candidate of Technical Sciences, Head of the Department of External Cast Iron Treatment of the Z.I. Nekrasov Institute of Ferrous Metallurgy of the National Academy of Sciences of Ukraine."
+		},
+		{
+			"type": "document",
+			"data": {
+				"title": "Review",
+				"link": "/Рецензія_на_дисертацію_Арендач_Н_А_Кислякова_В_Г_.zip"
+			}
+		},
+		{
+			"type": "text",
+			"content": "Reviewer – Piptiuk Vitalii Petrovych, Candidate of Technical Sciences, Senior Researcher, Senior Researcher of the Department of Physical and Technical Problems of Steel Metallurgy of the Z.I. Nekrasov Institute of Ferrous Metallurgy of the National Academy of Sciences of Ukraine."
+		},
+		{
+			"type": "document",
+			"data": {
+				"title": "Review",
+				"link": "/Рецензія_на_дисертацію_Арендач_Н_А_Піптюк_В_П_.zip"
+			}
+		},
+		{
+			"type": "text",
+			"content": "Date and Time of Defense: April 1, 2025, starting at 10:00."
+		},
+		{
+			"type": "text",
+			"content": "Place of Defense: Dnipro, Academician Starodubov Square, 1, Room 116."
+		},
+		{
+			"type": "documents",
+			"data": [
+				{
+					"title": "Conference Audio Recording",
+					"link": "https://drive.google.com/file/d/1vMLylMueXmpU0v67D70MnxfqlArcG0KR/view?usp=sharing"
+				},
+				{
+					"title": "Conference Video Recording",
+					"link": "https://drive.google.com/file/d/1z7kKxCZ3Jqw3VjMY21V1SfhcDR1IuPz7/view?usp=sharing"
+				}
+			]
+		}
+	]
+}

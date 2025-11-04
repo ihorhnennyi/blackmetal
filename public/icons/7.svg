@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Шестерня -->
+  <circle cx="32" cy="32" r="10" fill="#90A4AE" stroke="#455A64" stroke-width="2"/>
+  <path d="M32 18 V10" stroke="#455A64" stroke-width="2"/>
+  <path d="M32 54 V46" stroke="#455A64" stroke-width="2"/>
+  <path d="M18 32 H10" stroke="#455A64" stroke-width="2"/>
+  <path d="M54 32 H46" stroke="#455A64" stroke-width="2"/>
+  <path d="M24 24 L18 18" stroke="#455A64" stroke-width="2"/>
+  <path d="M40 24 L46 18" stroke="#455A64" stroke-width="2"/>
+  <path d="M24 40 L18 46" stroke="#455A64" stroke-width="2"/>
+  <path d="M40 40 L46 46" stroke="#455A64" stroke-width="2"/>
+
+  <!-- Полум’я над шестернею -->
+  <path d="M28 14 C28 10, 36 10, 36 14 C36 18, 28 18, 28 14 Z" fill="#FF5722"/>
+
+  <!-- Крапля охолодження знизу -->
+  <path d="M32 48 C30 52, 34 52, 32 56 C30 54, 30 50, 32 48 Z" fill="#0288D1"/>
+</svg>

@@ -1,0 +1,64 @@
+{
+	"header": {
+		"about": "Про нас",
+		"developments": "Основні розробки"
+	},
+	"routes": {
+		"HomePage": "Інститут чорної металургії",
+		"DashboardPage": "Панель",
+		"ServicesPage": "Сервіси",
+		"RepositoryPage": "Репозиторій",
+		"RemoteEducationPage": "Дистанційна освіта",
+		"ApplicantPage": "Абітурієнту",
+		"EntrantPage": "Вступнику",
+		"LibraryPage": "Бібліотека",
+		"ProcurementPage": "Закупівлі"
+	},
+	"components": {
+		"document-card": {
+			"see": "Подивитись",
+			"download": "Скачати"
+		},
+		"search": "Пошук"
+	},
+	"contacts": {
+		"encyclopedia": "Encyclopedia",
+		"googleScholar": "Google Scholar",
+		"orcid": "ORCID iD",
+		"scopus": "Scopus Author ID",
+		"webofscience": "Web of Science",
+		"sciprofiles": "SciProfiles",
+		"researchgate": "ResearchGate",
+		"bibliographic": "Bibliographic"
+	},
+	"departments": {
+		"common": {
+			"staffTitle": "Наукові співробітники відділу:",
+			"activitiesTitle": "Основні напрями діяльності відділу:"
+		}
+	},
+	"footer": {
+		"map": "Мапа сайту",
+		"about": "Про сайт",
+		"location": "МІСЦЕ ЗНАХОДЖЕННЯ",
+		"address": "Дніпро, площа академіка Стародубова 1",
+		"contacts": "КОНТАКТИ",
+		"question": "ЗАДАТИ ПИТАННЯ",
+		"questionButton": "Зворотній зв'язок",
+		"socials": "СОЦ.МЕРЕЖІ"
+	},
+
+	"logo": {
+		"text": "Інститут чорної металургії<br />ім. З.І. Некрасова<br />Національної академії наук України"
+	},
+	"buttonNews": {
+		"go": "Перейти"
+	},
+	"common": {
+		"readMore": "Детальніше"
+	},
+	"notFound": {
+		"title": "Сторінка не знайдена",
+		"backButton": "Повернутись на головну"
+	}
+}

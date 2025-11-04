@@ -1,0 +1,457 @@
+{
+	"title": "Відділ проблем деформаційно-термічної обробки конструкційних сталей",
+	"firstPersonCard": {
+		"id": "babachenko",
+		"photo": "/employees/babachenko.jpg",
+		"position": "Завідувач відділом",
+		"name": "Бабаченко Олександр Іванович",
+		"description": " Доктор технічних наук, старший науковий співробітник",
+		"researchDirection": "Розробка наукових положень і технологічних рішень щодо нових процесів виробництва колісно-бандажних сталей і залізничних коліс і бандажів, що забезпечують високий рівень їх ресурсу. Дослідження впливу структурного стану і комплексу властивостей різних видів сталевого прокату на його експлуатаційну надійність",
+		"specialization": "05.02.01 – Матеріалознавство",
+		"contacts": [
+			{
+				"type": "Email",
+				"value": "a_babachenko@i.ua"
+			},
+			{
+				"type": "Encyclopedia",
+				"value": "https://esu.com.ua/article-878708 "
+			},
+			{
+				"type": "Google Scholar",
+				"value": "https://scholar.google.com.ua/citations?hl=ru&user=0P3Q8GUAAAAJ "
+			},
+			{
+				"type": "ORCID iD",
+				"value": "https://orcid.org/0000-0003-4710-0343 "
+			},
+			{
+				"type": "Scopus Author ID",
+				"value": "https://www.scopus.com/authid/detail.uri?authorId=6602718336"
+			},
+			{
+				"type": "webofscience",
+				"value": "https://www.webofscience.com/wos/author/record/2510193 "
+			}
+		]
+	},
+	"activities": {
+		"items": [
+			"Розробка систем легування сталей для металопродукції залізничного призначення та технологічних параметрів деформаційної та термічної обробки, що забезпечують підвищення її експлуатаційної довговічності та зниження собівартості виробництва.",
+			"Розвиток наукових і технологічних положень ефективних процесів формування структури і заданого комплексу властивостей сортового і фасонного прокату шляхом їх термомеханічного зміцнення.",
+			"Дослідження впливу структурного стану і комплексу властивостей різних видів сталевого прокату на його експлуатаційну надійність."
+		]
+	},
+	"staffCards": [
+		{
+			"id": "podolskyi-rostyslav-viacheslavovych",
+			"photo": "/employees/podolskyi.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Подольський Ростислав Вячеславович",
+			"description": "доктор філософських наук (PhD)",
+			"researchDirection": "Розробка науково-обґрунтованого комплексу технологічних рішень виробництва залізничних рейок та дослідження впливу структурного стану на механічні властивості, що забезпечують високу експлуатаційну стійкість.  Дослідження структурного стану та комплексу механічних властивостей виробів, виготовлених адитивним способом виробництва  для застосування в різних експлуатаційних умовах.",
+			"specialization": "132 – Матеріалознавство",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "rostislavpodolskij@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-0288-0641"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=xUHD_2wAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57244145000"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/32788823"
+				}
+			]
+		},
+		{
+			"id": "filonenko-natalia-yuriivna",
+			"photo": "/employees/filonenko-natalia-yuriivna.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Філоненко Наталія Юріївна",
+			"description": "Кандидат фізико-математичних наук",
+			"researchDirection": "Встановлення фізичних закономірностей фазових перетворень та структуроутворення в сплавах та сталях при їх кристалізації з рівноважного та не рівноважного станів, що дозволить розробити металеві сплави з прогнозованими властивостями шляхом зміни їх фазового складу та керування фазовими перетвореннями, що здійснюються в них. Розвиток наукових, теоретичних та технологічних положень впливу умов кристалізації сплавів з урахуванням флуктаційних процесів на фізичні властивості сплавів та сталей. Дослідження механізму та кінетики фазових перетворень в сплавах легованих бором.",
+			"specialization": "01.04.07 – Фізика твердого тіла",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "natph2016@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-1219-348X"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=6KP-FfwAAAAJ&hl=ru"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602449305"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/610758"
+				}
+			]
+		},
+		{
+			"id": "uzlov-oleh-volodymyrovych",
+			"photo": "/employees/uzlov.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Узлов Олег Володимирович",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Розвиток наукових і технологічних положень ефективних процесів формування структури і заданого комплексу властивостей сортового і листового прокату шляхом їх термо-механічного зміцнення. Дослідження голчастого фериту.",
+			"specialization": "05.02.01 — Матеріалознавство",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "oleg.uzlov@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-1329-5576"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=Ey66V_QAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6504710171"
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
+		},
+		{
+			"id": "dementieva-zhanna-andriivna",
+			"position": "Науковий співробітник",
+			"name": "Дементьєва Жанна Андріївна",
+			"researchDirection": "Дослідження особливостей структуроутворення в процесі кристалізації та деформаційно-термічних обробок вуглецевих, мікро-, низько- і легованих сталей. Розвиток методу оцінки та виявлення розміру зерна сталей. Розвиток методу оцінки ступеня деформаційного пророблення прокату з вуглецевих і низьколегованих сталей зі зміни пара-метрів слідів дендритної структури.",
+			"specialization": "05.16.01 – металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "okc.testcenter@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0002-3194-9975"
+				},
+				{
+					"type": "Google Scholar",
+					"value": ""
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6603027804"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/7189462"
+				}
+			]
+		},
+		{
+			"id": "puchikov-oleksandr-volodymyrovych",
+			"photo": "/employees/puchikov.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Пучиков Олександр Володимирович",
+			"researchDirection": "Розвиток наукових і технологічних положень ефективних процесів формування структури і заданого комплексу властивостей сортового і листового прокату шляхом їх термо-механічного зміцнення. Дослідження голчастого фериту.",
+			"specialization": "05.16.01 – металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "okc.testcenter@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0006-8873-8350"
+				},
+				{
+					"type": "Google Scholar",
+					"value": ""
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57221958802"
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
+		},
+		{
+			"id": "safronov-oleksandr-leonidovych",
+			"position": "Молодший науковий співробітник",
+			"name": "Сафронов Олександр Леонідович",
+			"researchDirection": "Розробка наукових положень і технологічних рішень нових процесів виробництва колісно-бандажних сталей і залізничних коліс і бандажів, що забезпечують високий рівень їх ресурсу. Дослідження впливу структурного стану і комплексу властивостей різних видів сталевого прокату на його експлуатаційну надійність",
+			"specialization": "05.16.01 – металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "okc.testcenter@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0007-1308-5380"
+				},
+				{
+					"type": "Google Scholar",
+					"value": ""
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=59479087100"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/14247681"
+				}
+			]
+		},
+		{
+			"id": "sukhoi-andrii-pavlovych",
+			"position": "Молодший науковий співробітник",
+			"name": "Сухий Андрій Павлович",
+			"researchDirection": "Дослідження процесів формування структурного стану і комплексу властивостей низьколегованих сталей при їх переривистому охолодженні і наступному самовідпуску.",
+			"specialization": "05.16.01 – Металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "okc.testcenter@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0009-3117-3135"
+				},
+				{
+					"type": "Google Scholar",
+					"value": ""
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/results/authorNamesList.uri?st1=sukhoy&st2=A.P.&origin=searchauthorlookup"
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
+		},
+		{
+			"id": "klynova-olha-pylypivna",
+			"photo": "/employees/klynova.jpg",
+			"position": "Провідний інженер",
+			"name": "Клинова Ольга Пилипівна",
+			"researchDirection": "Дослідження процесів формування структурного стану і комплексу властивостей низьколегованих сталей при їх переривистому охолодженні і наступному самовідпуску.",
+			"specialization": "05.16.01 – Металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "okc.testcenter@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0005-4514-0992"
+				},
+				{
+					"type": "Google Scholar",
+					"value": ""
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": ""
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
+		},
+		{
+			"id": "shpak-olena-adolfivna",
+			"photo": "/employees/shpak.jpg",
+			"position": "Молодший науковий співробітник",
+			"name": "Шпак Олена Адольфівна",
+			"researchDirection": "Розвиток наукових і технологічних положень ефективних процесів формування структури і заданого комплексу властивостей сортового і листового прокату шляхом їх термомеханічного зміцнення. Дослідження голчастого фериту.",
+			"specialization": "05.16.01 – Металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "okc.testcenter@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0005-2797-4790"
+				},
+				{
+					"type": "Google Scholar",
+					"value": ""
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=58927093000"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/56617740"
+				}
+			]
+		},
+		{
+			"id": "kononenko-hanna-andriivna",
+			"photo": "/employees/kononenko.jpg",
+			"position": "Cтарший науковий співробітник",
+			"name": "Кононенко Ганна Андріївна",
+			"description": "Доктор технічних наук, старший дослідник",
+			"researchDirection": "Вдосконалення існуючих та розробка нових марок сталей для виробництва металопродукції залізничного призначення, що забезпечують високі значення зносостійкості і підвищений опір термічному впливу при експлуатації. Розвиток теоретичних положень про вплив гарячої пластичної деформації на формування кінцевої структури з урахуванням спадкового впливу первинної дендритно-зеренної структури у зіставленні з хімічною неоднорідністю, яка виникає при кристалізації. Розвиток наукових і технологічних положень ефективних процесів формування структурного стану та комплексу механічних властивостей виробів, виготовлених адитивним способом виробництва  для застосування в різних експлуатаційних умовах.",
+			"specialization": "05.02.01 — Матеріалознавство",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "perlit@ua.fm"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-885097"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-7446-4105"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=BJW8bsEAAAAJ&hl=ru"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7007038178"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/23626556"
+				}
+			]
+		},
+		{
+			"id": "safronova-olena-anatoliivna",
+			"photo": "/employees/safronova.jpg",
+			"position": "Науковий співробітник",
+			"name": "Сафронова Олена Анатоліївна",
+			"researchDirection": "Розробка наукових положень і технологічних рішень нових процесів виробництва залізничних осей, дослідження впливу структурного стану і комплексу властивостей на експлуатаційну надійність.",
+			"specialization": "132 – Матеріалознавство",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "alena.safronova1997@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4032-4275"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=MsPSVxwAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57324547800"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/27284234"
+				}
+			]
+		},
+		{
+			"id": "kimstach-tetiana-volodymyrivna",
+			"photo": "/employees/kimstach.jpg",
+			"position": "Старший науковий співробітник",
+			"name": "Кімстач Тетяна Володимирівна",
+			"description": "Доцент, кандидат технічних наук",
+			"researchDirection": "Розробка технологічних рішень для отримання високоміцного товстолистового прокату відповідального призначення з економнолегованої сталі на засадах встановлення особливостей процесів структуроутворення та фазових перетворень.",
+			"specialization": "05.16.01 – Металознавство та термічна обробка металів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "13misstatyana@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-8993-201X"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=6_Y5mq0AAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57216829671"
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
+		}
+	]
+}

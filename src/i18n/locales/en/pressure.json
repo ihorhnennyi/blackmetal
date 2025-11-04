@@ -1,0 +1,202 @@
+{
+	"title": "Department of Metal Forming Processes and Machines",
+	"firstPersonCard": {
+		"id": "prykhodko-ihor-yuriiovych",
+		"photo": "/employees/prykhodko.jpg",
+		"position": "Head of Department",
+		"name": "Prykhodko Ihor Yuriiovych",
+		"description": "Doctor of Technical Sciences, Senior Researcher",
+		"researchDirection": "Research, improvement of existing and development of new technological processes for hot and cold rolling of strips",
+		"specialization": "05.03.05 – Processes and Machines of Pressure Treatment",
+		"contacts": [
+			{
+				"type": "Email",
+				"value": "isi@ukr.net"
+			},
+			{
+				"type": "Encyclopedia",
+				"value": "https://esu.com.ua/article-878141"
+			},
+			{
+				"type": "ORCID ID",
+				"value": "https://orcid.org/0000-0001-5651-8106"
+			},
+			{
+				"type": "Google Scholar",
+				"value": "https://scholar.google.com.ua/citations?hl=ru&user=1a4kQMUAAAAJ"
+			},
+			{
+				"type": "Scopus Author ID",
+				"value": "https://www.scopus.com/authid/detail.uri?authorId=6701369789"
+			}
+		]
+	},
+	"activities": {
+		"items": [
+			"Development of scientific and technological foundations, creation of new and improvement of existing technological processes for continuous long product rolling.",
+			"Development of scientific and technological foundations of the high-speed wire rod rolling process on modern wire mills equipped with finishing block stands.",
+			"Development of the theory and technology of cold roll-forming and drawing processes for simple and shaped profiles of high precision, expansion of their range.",
+			"Research of the influence of technological factors in hot rolling, descaling, cold rolling, annealing, temper rolling and coating application processes on the quality of sheet steel.",
+			"Development and research of new methods for optimizing rolling processes and managing the quality of sheet rolled products.",
+			"Research of the influence of technological parameters of hot, cold rolling and temper rolling of strips on the efficiency, stability, reliability of sheet mill equipment and their productivity.",
+			"Creation of effective methods for forming the optimal temperature and stress state of coiled strip metal in hot, cold rolling and annealing processes in bell furnaces.",
+			"Creation of new algorithms, measurement and automatic control systems for strip rolling processes.",
+			"Study of dynamic processes affecting rolling stability and product quality, reliability and service life of sheet rolling mills, creation of calculation methods and automated systems for monitoring dynamic loads and vibration.",
+			"Technologies and equipment for cryogenic treatment in the field of rolling production and mechanical engineering."
+		]
+	},
+	"staffCards": [
+		{
+			"id": "razdobrieiev-valerii-huriiovych",
+			"position": "Senior Researcher",
+			"name": "Razdobrieiev Valerii Huriiovych",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Research, improvement of existing and development of new technological processes for the production of long rolled products",
+			"specialization": "05.16.01 – Materials Science and Heat Treatment of Metals",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "v_razdobreev@ukr.net"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-7402-7992"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=TSYO5asAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6602379313"
+				}
+			]
+		},
+		{
+			"id": "kliuchnykov-kyrylo-yuriiovych",
+			"photo": "/employees/kliuchnykov.jpg",
+			"position": "Junior Researcher",
+			"name": "Kliuchnykov Kyrylo Yuriiovych",
+			"researchDirection": "Research and development of technologies for obtaining high-precision profiles for mechanical engineering by methods of cold rolling and roll-forming in roller guides",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "kirill.shaman.k@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-2465-3244"
+				}
+			]
+		},
+		{
+			"id": "palamar-dmytro-hryhorovych",
+			"photo": "/employees/palamar.jpg",
+			"position": "Junior Researcher",
+			"name": "Palamar Dmytro Hryhorovych",
+			"researchDirection": "Improvement of existing and development of technological rolling regimes for long products in continuous small-section mills",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "damjan@i.ua"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-9503-3248"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=9TAWdzMAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7801385516"
+				}
+			]
+		},
+		{
+			"id": "tokmakov-pavlo-vadymovych",
+			"position": "Junior Researcher",
+			"name": "Tokmakov Pavlo Vadymovych",
+			"description": "",
+			"researchDirection": "Improvement of existing and development of technological rolling regimes for wire rod in wire mill conditions.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "pvtokmakov0902@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-2043-6242"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6701924110"
+				}
+			]
+		},
+		{
+			"id": "leshchenko-oleksandr-ivanovych",
+			"position": "Junior Researcher",
+			"name": "Leshchenko Oleksandr Ivanovych",
+			"researchDirection": "Improvement of existing and development of technological rolling regimes for long products in continuous small-section mills.",
+			"specialization": "05.05.08 – Machines for Metallurgical Production",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "leschenko.a.73@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000- 0003-1877-8358"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=15837202900"
+				}
+			]
+		},
+		{
+			"id": "korennoi-volodymyr-vitaliiovych",
+			"position": "Researcher",
+			"name": "Korennoi Volodymyr Vitaliiovych",
+			"researchDirection": "Mathematical modeling of dynamic processes in rolling equipment. Development of methods for diagnosing the technical condition of rolling stand drive lines based on equipment vibration parameter measurements. Development of technical solutions aimed at reducing parasitic dynamic loads in rolling equipment.",
+			"specialization": "05.05.08 – Machines for Metallurgical Production",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "koren_noy@ukr.net"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-8329-781X"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=Inxha04AAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=56028846800"
+				}
+			]
+		},
+		{
+			"id": "ivanov-oleksandr-ivanovych",
+			"position": "Lead Engineer",
+			"name": "Ivanov Oleksandr Ivanovych",
+			"description": "Associate Professor, Candidate of Technical Sciences",
+			"researchDirection": "Mathematical modeling of metal forming processes.",
+			"contacts": [
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-1259-6377"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57195566216"
+				}
+			]
+		}
+	]
+}

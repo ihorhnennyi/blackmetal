@@ -1,0 +1,119 @@
+{
+    "title": "Лабораторія проблем виробництва плоского прокату",
+    "firstPersonCard": {
+        "id": "prykhodko-ihor-yuriiovych",
+        "photo": "/employees/prykhodko.jpg",
+        "position": "Завідувач відділом",
+        "name": "Приходько Ігор Юрійович",
+        "description": "Доктор технічних наук, старший науковий співробітник",
+        "researchDirection": "Дослідження, удосконалення існуючих та розробка  нових технологічних процесів гарячої та холодної прокатки штаб",
+        "specialization": "05.03.05 – Процеси та машини обробки тиском",
+        "contacts": [
+            {
+                "type": "Email",
+                "value": "isi@ukr.net"
+            },
+            {
+                "type": "Encyclopedia",
+                "value": "https://esu.com.ua/article-878141"
+            },
+            {
+                "type": "ORCID ID",
+                "value": "https://orcid.org/0000-0001-5651-8106"
+            },
+            {
+                "type": "Google Scholar",
+                "value": "https://scholar.google.com.ua/citations?hl=ru&user=1a4kQMUAAAAJ"
+            },
+            {
+                "type": "Scopus Author ID",
+                "value": "https://www.scopus.com/authid/detail.uri?authorId=6701369789"
+            }
+        ]
+    },
+    "staffCards": [
+        {
+            "id": "vorobej-sergij-oleksandrovich",
+            "photo": "/employees/vorobej-sergij-oleksandrovich.jpg",
+            "name": "Воробей Сергій Олександрович",
+            "position": "Старший науковий співробітник",
+            "description": "Доктор технічних наук",
+            "researchDirection": "Дослідження, удосконалення існуючих та розробка  нових технологічних процесів безперервної прокатки штабового, сортового прокату і катанки",
+            "specialization": "05.03.05 – Процеси та машини обробки тиском",
+            "contacts": [
+                {
+                    "type": "Email",
+                    "value": "vso54@ukr.net"
+                },
+                {
+                    "type": "Encyclopedia",
+                    "value": "https://esu.com.ua/article-878715"
+                },
+                {
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0003-0119-3935"
+                },
+                {
+                    "type": "Google Scholar",
+                    "value": "https://scholar.google.com.ua/citations?hl=ru&user=P9EWr5UAAAAJ"
+                },
+                {
+                    "type": "Scopus Author ID",
+                    "value": "https://www.scopus.com/authid/detail.uri?authorId=6508350878"
+                }
+            ]
+        },
+        {
+            "id": "raznosilin-valentin-vjacheslavovich",
+            "name": "Разносілін Валентин В'ячеславович",
+            "position": "Молодший науковий співробітник",
+            "researchDirection": "Математичне моделювання процесів прокатки, розробка систем управління процесами прокатки",
+            "specialization": "05.03.05 – Процеси та машини обробки тиском",
+            "contacts": [
+                {
+                    "type": "Email",
+                    "value": "valentin.raznosilin@gmail.com"
+                },
+                {
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0002-4463-4588"
+                },
+                {
+                    "type": "Google Scholar",
+                    "value": "https://scholar.google.com.ua/citations?hl=ru&user=mxt6ZJwAAAAJ"
+                },
+                {
+                    "type": "Scopus Author ID",
+                    "value": "https://www.scopus.com/authid/detail.uri?authorId=28167901000"
+                }
+            ]
+        },
+        {
+            "id": "klemeshov-jevgen-sergijovich",
+            "photo": "/employees/klemeshov-jevgen-sergijovich.jpg",
+            "name": "Клемешов Євген Сергійович",
+            "position": "Науковий співробітник",
+            "description": "Кандидат технічних наук",
+            "researchDirection": "Математичне моделювання процесів обробки металів тиском",
+            "specialization": "05.03.05 – Процеси та машини обробки тиском",
+            "contacts": [
+                {
+                    "type": "Email",
+                    "value": "klemeshov.evgen@gmail.com"
+                },
+                {
+                    "type": "ORCID ID",
+                    "value": "https://www.scopus.com/authid/detail.uri?authorId=57217104095"
+                },
+                {
+                    "type": "Scopus Author ID",
+                    "value": "https://www.scopus.com/authid/detail.uri?authorId=57217104095"
+                },
+                {
+                    "type": "webofscience",
+                    "value": "https://www.webofscience.com/wos/author/record/55757155"
+                }
+            ]
+        }
+    ]
+}

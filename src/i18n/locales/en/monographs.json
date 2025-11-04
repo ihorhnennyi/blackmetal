@@ -1,0 +1,51 @@
+{
+	"title": "Monographs",
+	"data": [
+		{
+			"title": "Concept of Sustainable Development of Metallurgy in Ukraine",
+			"link": "/monographs/000-364-Сборная.pdf",
+			"image": "/monographs/Концепція.jpg"
+		},
+		{
+			"title": "THEORY AND TECHNOLOGY OF ROLLING",
+			"link": "/monographs/ТЕОРІЯ-ТА-ТЕХНОЛОГІЯ-ПРОКАТКИ.pdf",
+			"date": "13.12.2013",
+			"image": "/monographs/ТЕОРІЯ.jpg"
+		},
+		{
+			"title": "Crack Resistance of Railway Wheels",
+			"link": "/monographs/Тріщиностійкість-залізничних-коліс..pdf",
+			"image": "/monographs/Тріщиностійкість.jpeg",
+			"date": "13.12.2013"
+		},
+		{
+			"title": "Development of Steels for Metal Products",
+			"link": "/monographs/Розробка-сталей-для-металопродукції-залізничного-призначення.pdf",
+			"image": "/monographs/Розробка.jpeg",
+			"date": "13.12.2013"
+		},
+		{
+			"title": "Implementation of SLM Technology",
+			"link": "/monographs/Реалізація-технології-селективного-лазерного-плавлення-в-Україні.pdf",
+			"image": "/monographs/SLM.jpeg",
+			"date": "13.12.2013"
+		},
+		{
+			"title": "Reliability and Durability of Railway Wheels and Tires",
+			"link": "/monographs/Надежность-и-долговечность-железнодорожных-колес-и-бандажей.pdf",
+			"image": "/monographs/Надежность.jpeg",
+			"date": "13.12.2013"
+		},
+		{
+			"title": "DIAGNOSTICS AND MANAGEMENT OF BLAST FURNACE SMELTING",
+			"link": "/monographs/Book_укр.pdf",
+			"image": "/monographs/ДІАГНОСТИКА.jpeg",
+			"date": "13.12.2013"
+		},
+		{
+			"title": "Compliance in the System of Metallurgical Production",
+			"link": "/monographs/Сборная-2024-02-24.pdf",
+			"date": "13.12.2013"
+		}
+	]
+}

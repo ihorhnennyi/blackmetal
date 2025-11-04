@@ -1,0 +1,24 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Верхній прес -->
+  <rect x="22" y="8" width="20" height="6" fill="#455A64"/>
+  <!-- Нижній прес -->
+  <rect x="22" y="50" width="20" height="6" fill="#455A64"/>
+
+  <!-- Металевий злиток -->
+  <rect x="26" y="28" width="12" height="8" fill="#FFC107" stroke="#FF8F00" stroke-width="2"/>
+
+  <!-- Силові стрілки -->
+  <path d="M32 16 V28" stroke="#D32F2F" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M32 48 V36" stroke="#D32F2F" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Вали -->
+  <circle cx="20" cy="32" r="4" fill="#90A4AE"/>
+  <circle cx="44" cy="32" r="4" fill="#90A4AE"/>
+
+  <!-- Маркер стрілки -->
+  <defs>
+    <marker id="arrow" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#D32F2F"/>
+    </marker>
+  </defs>
+</svg>

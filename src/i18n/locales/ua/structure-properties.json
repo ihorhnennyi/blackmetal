@@ -1,0 +1,228 @@
+{
+    "title": "Лабораторія проблем структуроутворення і властивостей чорних металів",
+    "firstPersonCard": {
+        "id": "levchenko-gennadij-vasilovich",
+        "photo": "/employees/levchenko-gennadij-vasilovich.jpg",
+        "position": "Завідувач лабораторією",
+        "name": "Левченко Геннадій Васильович",
+        "email": "gvlevchenko2018@gmail.com",
+        "description": "Професор, доктор технічних наук",
+        "researchDirection": "- структурна спадковість в сталях і сплавах та її вплив на формування властивостей сталей та сплавів. Розроблення способів спрямованого формування структури та властивостей металівю. Розроблення комплексних режимів термічного оброблення сталей та сплавів з підвищеною зносо- та термостійкістю.",
+        "specialization": "05.16.01 – Металознавство та термічна обробка металів",
+        "contacts": [
+            {
+                "type": "Email",
+                "value": "gvlevchenko2018@gmail.com"
+            },
+            {
+                "type": "Encyclopedia",
+                "value": "https://esu.com.ua/article-53945"
+            },
+            {
+                "type": "ORCID ID",
+                "value": "https://orcid.org/0000-0003-1173-5320"
+            },
+            {
+                "type": "Google Scholar",
+                "value": "https://scholar.google.com.ua/citations?user=lGv7cNsAAAAJ&hl=uk"
+            },
+            {
+                "type": "Scopus Author ID",
+                "value": "https://www.scopus.com/authid/detail.uri?authorId=7004337743"
+            },
+            {
+                "type": "webofscience",
+                "value": "https://www.webofscience.com/wos/author/record/15075996 "
+            },
+            {
+                "type": "webofscience",
+                "value": "https://www.webofscience.com/wos/author/record/15075996"
+            }
+        ]
+    },
+    "staffCards": [
+        {
+            "id": "bobyr-sergij-volodimirovich",
+            "photo": "/employees/bobyr-sergij-volodimirovich.jpg",
+            "position": "Провідний науковий співробітник",
+            "name": "Бобирь Сергій Володимирович",
+            "description": "Доктор технічних наук, старший науковий співробітник",
+            "researchDirection": "Розроблення комплексних режимів термічного оброблення для підвищення зносо- та термостійкості металовиробів у машинобудуванні. Аналіз та моделювання нерівноважних фазово-структурних перетворень у сталях та сплавах. Дифузійні процеси у металах та сплавах, подальший розвиток термодинамічних засад теорій дифузії.",
+            "specialization": "05.16.01 – Металознавство та термічна обробка металів",
+            "contacts": [
+                {
+                    "type": "Email",
+                    "value": "svbobyr07@gmail.com"
+                },
+                {
+                    "type": "Encyclopedia",
+                    "value": "https://esu.com.ua/article-878711 "
+                },
+                {
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0001-6816-1554"
+                },
+                {
+                    "type": "Google Scholar",
+                    "value": "https://scholar.google.com.ua/citations?hl=uk&user=otI1cPUAAAAJ"
+                },
+                {
+                    "type": "Scopus Author ID",
+                    "value": "https://www.scopus.com/authid/detail.uri?authorId=55556749700"
+                },
+                {
+                    "type": "webofscience",
+                    "value": "https://www.webofscience.com/wos/author/record/2510802"
+                },
+                {
+                    "type": "sciprofiles",
+                    "value": "https://sciprofiles.com/profile/1477338"
+                },
+                {
+                    "type": "researchgate",
+                    "value": "https://www.researchgate.net/profile/Sergey-Bobyr?ev=hdr_xprf"
+                }
+            ]
+        },
+        {
+            "id": "borisenko-andrij-jurijovich",
+            "photo": "/employees/borisenko-andrij-jurijovich.jpg",
+            "position": "Старший науковий співробітник",
+            "name": "Борисенко Андрій Юрійович",
+            "description": "Доктор технічних наук",
+            "researchDirection": "Механізми фазових перетворень та утворення внутрішньої структури металів. Структурна спадковість сталі та чавуну. Розроблення способів спрямованого формування структури та властивостей металів.",
+            "specialization": "05.16.01 – Металознавство та термічна обробка металів",
+            "contacts": [
+                {
+                    "type": "Email",
+                    "value": "asbor@ua.fm"
+                },
+                {
+                    "type": "Encyclopedia",
+                    "value": "https://esu.com.ua/article-878712 "
+                },
+                {
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0003-2120-0944"
+                },
+                {
+                    "type": "Google Scholar",
+                    "value": "https://scholar.google.com.ua/citations?hl=uk&user=HdQGZB8AAAAJ"
+                },
+                {
+                    "type": "Scopus Author ID",
+                    "value": "https://www.scopus.com/authid/detail.uri?authorId=7102498619"
+                },
+                {
+                    "type": "webofscience",
+                    "value": "https://www.webofscience.com/wos/author/record/OGM-9763-2025"
+                }
+            ]
+        },
+        {
+            "id": "balahanova-tetjana-valerijivna",
+            "photo": "/employees/balahanova-tetjana-valerijivna.jpg",
+            "position": "Старший науковий співробітник",
+            "name": "Балаханова Тетяна Валеріївна",
+            "description": "Кандидат технічних наук",
+            "researchDirection": "Оптимізація процесу селективного лазерного плавлення з метою отримання матеріалів із однорідною мікроструктурою, мінімальним рівнем дефектності та заданим комплексом механічних характеристик. Вивчення та наукове обґрунтування механізмів виникнення дефектів у прокаті великого поперечного перерізу з метою визначення їхньої природи та шляхів мінімізації. Аналіз впливу дендритної структури литої сталі на мікроструктуру та експлуатаційні характеристики готового прокату і розроблення наукових підходів до підвищення надійності металопродукції, зокрема для залізничної галузі.",
+            "specialization": "05.16.01 – Металознавство та термічна обробка металів",
+            "contacts": [
+                {
+                    "type": "Email",
+                    "value": "tatja.balakhanova@gmail.com"
+                },
+                {
+                    "type": "Encyclopedia",
+                    "value": ""
+                },
+                {
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0003-2493-218x"
+                },
+                {
+                    "type": "Google Scholar",
+                    "value": "https://scholar.google.com.ua/citations?hl=uk&user=xP2iY-oAAAAJ"
+                },
+                {
+                    "type": "Scopus Author ID",
+                    "value": "https://www.scopus.com/authid/detail.uri?authorId=58298399500"
+                },
+                {
+                    "type": "webofscience",
+                    "value": "https://www.webofscience.com/wos/author/record/48576176"
+                }
+            ]
+        },
+        {
+            "id": "baranivska-olena-jevgenivna",
+            "photo": "/employees/baranivska-olena-jevgenivna.jpg",
+            "position": "Науковий співробітник",
+            "name": "Барановська Олена Євгенівна",
+            "description": "Кандидат технічних наук",
+            "researchDirection": "Спадковий зв’язок первинної дендритної структури із зеренною структурою литої сталі та готових металовиробів. Особливості перебігу фазових та структурних перетворень у сталях і сплавах з підвищеною зносо- та термостійкістю. Вдосконалення режимів термічного оброблення металовиробів для інструменту гарячого деформування.",
+            "specialization": "05.16.01 – Металознавство та термічна обробка металів",
+            "contacts": [
+                {
+                    "type": "Email",
+                    "value": "elena15dnepr@gmail.com"
+                },
+                {
+                    "type": "Encyclopedia",
+                    "value": ""
+                },
+                {
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0002-4106-5797"
+                },
+                {
+                    "type": "Google Scholar",
+                    "value": "https://scholar.google.com.ua/citations?hl=uk&user=gOda9vkAAAAJ"
+                },
+                {
+                    "type": "Scopus Author ID",
+                    "value": "https://www.scopus.com/authid/detail.uri?authorId=58555247300"
+                },
+                {
+                    "type": "webofscience",
+                    "value": "https://www.webofscience.com/wos/author/record/72680200 "
+                }
+            ]
+        },
+        {
+            "id": "loshkarjov-dmitro-valerijovich",
+            "photo": "/employees/loshkarjov-dmitro-valerijovich.jpg",
+            "position": "Провідний інженер",
+            "name": "Лошкарьов Дмитро Валерійович",
+            "description": "",
+            "researchDirection": "Моделювання фазово-структурних перетворень, у тому числі з використанням методів нерівноважної термодинаміки, під час охолодження легованих сталей за безперервного охолодження та в ізотермічних умовах. Прогнозне визначення механічних властивостей вуглецевих та легованих сталей після термічного оброблення.",
+            "specialization": "",
+            "contacts": [
+                {
+                    "type": "Email",
+                    "value": "kashtanp10@gmail.com"
+                },
+                {
+                    "type": "Encyclopedia",
+                    "value": ""
+                },
+                {
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0003-3817-7840"
+                },
+                {
+                    "type": "Google Scholar",
+                    "value": "https://scholar.google.com.ua/citations?user=ZOIMtEQAAAAJ&hl=uk"
+                },
+                {
+                    "type": "Scopus Author ID",
+                    "value": ""
+                },
+                {
+                    "type": "webofscience",
+                    "value": ""
+                }
+            ]
+        }
+    ]
+}

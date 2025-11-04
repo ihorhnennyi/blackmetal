@@ -1,0 +1,295 @@
+{
+	"title": "Department of Technological Equipment and Control Systems",
+	"firstPersonCard": {
+		"id": "semenov-yuriy-stanislavovych",
+		"photo": "/employees/semenov-yuriy-stanislavovych.jpg",
+		"position": "Head of Department, Senior Researcher",
+		"name": "Semenov Yurii Stanislavovych",
+		"description": "Candidate of Technical Sciences",
+		"researchDirection": "Development of comprehensive techniques and methods for blast furnace control, including the use of new control means; mathematical models of charge material loading processes and their distribution in the blast furnace; intelligent decision support systems for blast furnace smelting control; technology for loading blast furnaces with multi-component charge materials.",
+		"specialization": "05.16.02 – Metallurgy of Ferrous, Non-Ferrous Metals and Special Alloys",
+		"contacts": [
+			{
+				"type": "Email",
+				"value": "yuriy.semenov.isi@gmail.com"
+			},
+			{
+				"type": "Encyclopedia",
+				"value": ""
+			},
+			{
+				"type": "ORCID ID",
+				"value": "https://orcid.org/0000-0003-2299-5742"
+			},
+			{
+				"type": "Google Scholar",
+				"value": "https://scholar.google.com.ua/citations?hl=ru&user=T91etI4AAAAJ"
+			},
+			{
+				"type": "Scopus Author ID",
+				"value": "https://www.scopus.com/authid/detail.uri?authorId=57194100443"
+			}
+		]
+	},
+	"activities": {
+		"items": [
+			"Theoretical and experimental studies of the influence of physical-mechanical and technological characteristics of fine-fraction charge materials on the pressing process, quality of finished products (briquettes) and their metallurgical properties; development of briquetting technological regimes; work on improving the design and technical characteristics of pressing equipment.",
+			"Scientific research on the operating regimes of technological equipment in conjunction with the drive and automated control system in blast furnace, steelmaking and rolling shops during the improvement of existing and implementation of new technological processes, as well as during the development of new types of products.",
+			"Development of information systems for blast furnace smelting process control systems (ACS), including mathematical models of the process and their software implementation.",
+			"Development of charge material loading technology for blast furnaces with its adaptation to specific facilities.",
+			"Development of methods and techniques for diagnosing the technical condition of rolling mill equipment based on patterns of change in transient process parameters.",
+			"Statistical modeling of dynamic loads, determination of load spectrum and development of methods for predicting the residual life of equipment.",
+			"Development of methods to reduce impact loads during strip bite by rolls and the level of vibrational processes in rolling mills.",
+			"Study of the dynamics of interaction through the rolled strip of a multi-stand mill group and the influence of disturbances on inter-stand tensions and longitudinal thickness variation and its reduction."
+		]
+	},
+	"staffCards": [
+		{
+			"id": "baiul-kostiantyn-vasylovych",
+			"photo": "/employees/baiul-kostiantyn-vasylovych.jpg",
+			"position": "Senior Researcher",
+			"name": "Baiul Kostiantyn Vasylovych",
+			"description": "Doctor of Technical Sciences, Senior Researcher",
+			"researchDirection": "Development of technologies and equipment for briquetting fine-fraction materials.",
+			"specialization": "05.05.08 – Machines for Metallurgical Production",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "baiulkonstantin@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-70025"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-1426-7956"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=oSs1UWIAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6505600072"
+				}
+			]
+		},
+		{
+			"id": "vereniov-valentyn-volodymyrovych",
+			"photo": "/employees/vereniov-valentyn-volodymyrovych.jpg",
+			"position": "Senior Researcher",
+			"name": "Vereniov Valentyn Volodymyrovych",
+			"description": "Doctor of Technical Sciences",
+			"researchDirection": "Mathematical modeling of dynamic processes in rolling equipment. Development of methods for diagnosing the technical condition of rolling mill drive lines based on equipment vibration parameter measurements. Development of technical solutions aimed at reducing parasitic dynamic loads in rolling equipment.",
+			"specialization": "05.05.08 – Machines for Metallurgical Production",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "verenev0704@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878714"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-2561-5365"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=quTCBfoAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6506264259"
+				}
+			]
+		},
+		{
+			"id": "vashchenko-serhii-volodymyrovych",
+			"photo": "/employees/vashchenko-serhii-volodymyrovych.jpg",
+			"position": "Senior Researcher",
+			"name": "Vashchenko Serhii Volodymyrovych",
+			"description": "Candidate of Technical Sciences, Senior Researcher",
+			"researchDirection": "Development of technologies and equipment for briquetting fine-fraction materials. Study of the properties of agglomerated metallurgical raw materials. Mathematical modeling of charge material loading processes and their distribution in the blast furnace.",
+			"specialization": "05.16.02 – Metallurgy of Ferrous, Non-Ferrous Metals and Special Alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "sergeyvaschenko.sv@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-8344-961X"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=CV9KP54AAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57204789130"
+				}
+			]
+		},
+		{
+			"id": "solodka-natalia-oleksandrivna",
+			"photo": "/employees/solodka-natalia-oleksandrivna.jpg",
+			"position": "Researcher",
+			"name": "Solodka Nataliia Oleksandrivna",
+			"description": "Candidate of Technical Sciences, Associate Professor",
+			"researchDirection": "Development of technologies and equipment for briquetting fine-fraction materials.",
+			"specialization": "05.23.17 – Structural Mechanics",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "office.isi@nas.gov.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-7545-4969"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=JE0zX8YAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57217833042"
+				}
+			]
+		},
+		{
+			"id": "khudyakov-oleksandr-yuriiovych",
+			"photo": "/employees/khudyakov-oleksandr-yuriiovych.jpg",
+			"position": "Senior Researcher",
+			"name": "Khudiakov Oleksandr Yuriiovych",
+			"description": "Candidate of Technical Sciences, Senior Researcher",
+			"researchDirection": "Development of technologies and equipment for briquetting fine-fraction materials. Study of the properties of agglomerated metallurgical raw materials.",
+			"specialization": "05.16.02 – Metallurgy of Ferrous, Non-Ferrous Metals and Special Alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "khudyakovsashko@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-6507-1120"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=gwlxwpwAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57204787574"
+				}
+			]
+		},
+		{
+			"id": "shumelchyk-yevhen-ihorovych",
+			"photo": "/employees/shumelchyk-yevhen-ihorovych.jpg",
+			"position": "Senior Researcher",
+			"name": "Shumelchyk Yevhen Ihorovych",
+			"description": "Candidate of Technical Sciences, Senior Researcher",
+			"researchDirection": "Development of comprehensive techniques and methods for blast furnace control, including the use of new control means; mathematical models of charge material loading processes and their distribution in the blast furnace; intelligent decision support systems for blast furnace smelting control; technology for loading blast furnaces with multi-component charge materials.",
+			"specialization": "05.16.02 – Metallurgy of Ferrous, Non-Ferrous Metals and Special Alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ievgen.shumelchyk@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-5350-6425"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=BW8nbmkAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55580859800"
+				}
+			]
+		},
+		{
+			"id": "frolova-liliia-anatoliivna",
+			"photo": "/employees/frolova-liliia-anatoliivna.jpg",
+			"position": "Senior Researcher",
+			"name": "Frolova Liliia Anatoliivna",
+			"description": "Doctor of Technical Sciences, Associate Professor",
+			"researchDirection": "Development of technology for obtaining pigments from secondary raw materials, nanotechnology, nanomaterials with specified properties.",
+			"specialization": "05.17.01 – Technology of Inorganic Substances",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "office.isi@nas.gov.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-7970-2264"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=kzzoASUAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55505810700"
+				}
+			]
+		},
+		{
+			"id": "horupakha-viktor-volodymyrovych",
+			"photo": "/employees/horupakha.jpg",
+			"position": "Researcher",
+			"name": "Horupakha Viktor Volodymyrovych",
+			"researchDirection": "Study of the behavior characteristics of materials and smelting products in the blast furnace hearth and their influence on the stability of the lower part of the blast furnace. Implementation of new technological solutions at metallurgical enterprises. Development of methods for bringing blast furnaces to optimal performance from unsteady regimes.",
+			"specialization": "05.16.02 – Metallurgy of Ferrous, Non-Ferrous Metals and Special Alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "gorupaha.viktor@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-0531-1871"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=XTorPLIAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=56725733400"
+				}
+			]
+		}
+	]
+}

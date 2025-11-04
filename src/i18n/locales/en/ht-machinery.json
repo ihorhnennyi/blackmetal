@@ -1,0 +1,372 @@
+{
+	"title": "Department of Metal Heat Treatment for Mechanical Engineering",
+	"firstPersonCard": {
+		"id": "parusov-eduard-volodymyrovych",
+		"photo": "/employees/parusov-eduard-volodymyrovych.jpg",
+		"position": "Deputy Director for Scientific Work, Head of Department",
+		"name": "Parusov Eduard Volodymyrovych",
+		"description": "Doctor of Technical Sciences, Senior Researcher",
+		"researchDirection": "Thermomechanical processing of metals and alloys; features of phase and structural transformations in carbon and alloy steels during continuous and isothermal cooling; development and industrial implementation of end-to-end technologies for the production and processing of coiled rolled products from low-carbon, high-carbon and low-carbon alloy steels.",
+		"specialization": "05.02.01 – Materials Science",
+		"contacts": [
+			{
+				"type": "Email",
+				"value": "tometal@ukr.net"
+			},
+			{
+				"type": "Encyclopedia",
+				"value": "https://esu.com.ua/article-878138 "
+			},
+			{
+				"type": "Google Scholar",
+				"value": "https://scholar.google.com.ua/citations?hl=uk&user=eE1rZKgAAAAJ "
+			},
+			{
+				"type": "ORCID iD",
+				"value": "https://orcid.org/0000-0002-4560-2043"
+			},
+			{
+				"type": "Scopus Author ID",
+				"value": "https://www.scopus.com/authid/detail.uri?authorId=8367262600"
+			},
+			{
+				"type": "Web Of Science",
+				"value": "https://www.webofscience.com/wos/author/record/504824 "
+			}
+		]
+	},
+	"activities": {
+		"items": [
+			"Development of scientific and technological foundations for the production of rolled products with improved quality indicators from carbon and alloy steels, intended for cold bulk stamping, production of metal cord, bead wire, high-pressure hoses, reinforcement materials, cargo-personnel and reinforcement cables (strands with low relaxation), high-strength spring wire, welding and surfacing wire, replaceable tools for mechanical engineering and metallurgical equipment, etc.;",
+			"Improvement of fundamental and applied principles for the formation of a dispersed structure of steels with increased wear and heat resistance for hot deformation tools;",
+			"Formation and development of scientific and technological foundations for controlling the structure and physical-mechanical properties of alloy steels, taking into account the formation and transformation of metastable phases;",
+			"Creation of new energy-saving technologies for heat treatment of large-sized metal products with increased operational durability;",
+			"Development of complex heat treatment technologies with additional use of cryogenic exposure for complex alloy steels with an increased service life;",
+			"Study of the features of the kinetics of supercooled austenite decay in carbon microalloyed and alloy steels during continuous cooling and under isothermal conditions;",
+			"Development of theoretical and technological foundations for softening thermomechanical processing of steel rolled products from carbon and alloy steels to improve its deformability during subsequent drawing;",
+			"Study of the specifics of the manifestation of the hereditary influence on the structure formation processes during crystallization, hot plastic deformation and heat treatment of steels and alloys;",
+			"Study of the features of the influence of the dendritic structure of ingots on the formation of the structure and properties of rolled products from carbon and alloy steels;",
+			"Study of the influence of chemical composition on the manifestation of segregation and the formation of the structure of carbon and alloy steels under the action of hot plastic deformation and heat treatment;",
+			"Study of the mechanisms of non-metallic inclusion transformation at various technological stages of steel rolled product manufacturing and its processing by cold plastic deformation (drawing);",
+			"Study of the features of the influence of the type of non-metallic inclusions on the fatigue-corrosion destruction of high-carbon steels under cyclic loads, including in aggressive environments;",
+			"Study of the processes of transformation of the substructure and microstructure of carbon steels during cold plastic deformation;",
+			"Modeling of phase-structural transformations and creation of methods for predictive determination of the properties of steels and alloys, in particular using non-equilibrium thermodynamics;",
+			"Development of express methods for non-destructive quality control of metal products made from carbon, alloy and complex alloy steels."
+		]
+	},
+	"staffCards": [
+		{
+			"id": "lutsenko-vladyslav-anatoliiovych",
+			"photo": "/employees/lutsenko-vladyslav-anatoliiovych.jpg",
+			"position": "Leading Researcher",
+			"name": "Lutsenko Vladyslav Anatoliiovych",
+			"description": "Doctor of Technical Sciences, Senior Researcher",
+			"researchDirection": "Thermomechanical processing of metals and alloys; the course of phase and structural transformations in carbon and alloy steels. Features of scale formation and decarburization processes on the surface of rolled products. Development and industrial implementation of technologies for the production of rolled products from carbon and alloy steels.",
+			"specialization": "05.16.01 – Metal Science and Heat Treatment of Metals",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "lutsenko-VA@i.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-885089 "
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4604-5592"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=eQUn2zkAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7004367566"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/15877725 "
+				}
+			]
+		},
+		{
+			"id": "hubenko-svitlana-ivanivna",
+			"photo": "/employees/hubenko-svitlana-ivanivna.jpg",
+			"position": "Senior Researcher",
+			"name": "Hubenko Svitlana Ivanivna",
+			"description": "Professor, Doctor of Technical Sciences",
+			"researchDirection": "Transformation of non-metallic inclusions and inclusion-matrix phase boundaries and their influence on the formation of the structure and properties of iron alloys during sequential or complex treatments under the action of high-energy, thermal, deformation and electromagnetic fields. Thermomechanical processing of metals and alloys. The course of phase and structural transformations in carbon and alloy steels.",
+			"specialization": "05.16.01 – Metal Science and Heat Treatment of Metals",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "sigubenko@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-32197"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6626-3979"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=-foE3k4AAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7006727582"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/2289447 "
+				}
+			]
+		},
+		{
+			"id": "parusov-oleh-volodymyrovych",
+			"photo": "/employees/parusov-oleh-volodymyrovych.jpg",
+			"position": "Senior Researcher",
+			"name": "Parusov Oleh Volodymyrovych",
+			"researchDirection": "Transformation of non-metallic inclusions and inclusion-matrix phase boundaries during sequential or complex treatments. Thermomechanical processing of complex alloy steels for welding purposes and steels for cold bulk stamping with increased technological plasticity. Development and industrial implementation of technologies for the production of coiled rolled products from carbon and alloy steels.",
+			"specialization": "05.16.01 – Metal Science and Heat Treatment of Metals",
+			"description": "Candidate of Technical Sciences",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "termet@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-9879-6179"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=m-WmSpEAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=6507896071"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/15665386"
+				}
+			]
+		},
+		{
+			"id": "chuiko-ihor-mykolaiovych",
+			"photo": "/employees/chuiko-ihor-mykolaiovych.jpg",
+			"position": "Senior Researcher",
+			"name": "Chuiko Ihor Mykolaiovych",
+			"description": "Candidate of Technical Sciences, Senior Researcher",
+			"researchDirection": "Solving scientific and applied problems of producing high-efficiency types of steel rolled products for various purposes and their further processing at metal production enterprises. Development of scientific and technological foundations for controlling the structure and properties of alloy steels, taking into account the features of the formation and transformation of metastable phases. Creation of energy-saving technologies for thermomechanical processing of carbon and alloy steels to improve the physical-mechanical and operational properties of metal products for critical purposes.",
+			"specialization": "05.16.01 – Metal Science and Heat Treatment of Metals",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ferrosplav@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4753-614X"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=TaoMBcwAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57211226481"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/1661603 "
+				}
+			]
+		},
+		{
+			"id": "sahura-liudmyla-volodymyrivna",
+			"photo": "/employees/sahura-liudmyla-volodymyrivna.jpg",
+			"position": "Senior Researcher",
+			"name": "Sahura Liudmyla Volodymyrivna",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Thermomechanical processing of coiled rolled products from high-carbon steels. Study of the features of the course of phase and structural transformations in high-carbon steels. Implementation of energy-efficient technologies for the production of reinforcement cables (strands) and high-strength springs.",
+			"specialization": "05.16.01 – Metal Science and Heat Treatment of Metals",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "slv_metal@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-2614-0322"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=veOM61cAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=54966679400"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/67060399 "
+				}
+			]
+		},
+		{
+			"id": "holubenko-tetiana-mykolaivna",
+			"photo": "/employees/holubenko-tetiana-mykolaivna.jpg",
+			"position": "Senior Researcher",
+			"name": "Holubenko Tetiana Mykolaivna",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Features of the formation of the structure and properties of bar and coiled rolled products from alloy steels. Study of the course of phase and structural transformations in alloy steels; - improvement of the chemical composition and development of modes of softening heat treatment of rolled products from alloy steels.",
+			"specialization": "05.16.01 – Metal Science and Heat Treatment of Metals",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "sumer@i.ua"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-3583-211X"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=94wgLBcAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=54968707900"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/48556896 "
+				}
+			]
+		},
+		{
+			"id": "lutsenko-olha-vladyslavivna",
+			"photo": "/employees/lutsenko-olha-vladyslavivna.jpg",
+			"position": "Researcher",
+			"name": "Lutsenko Olha Vladyslavivna",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Features of the course of phase and structural transformations in high-carbon and alloy steels. Development of heat treatment modes for bar rolled products from alloy steels. Improvement of methods of thermomechanical influence on the structure and properties of small-section rolled products.",
+			"specialization": "05.16.01 – Metal Science and Heat Treatment of Metals",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "olya.lutsenko2009@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-8298-5306"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=mllGpnYAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=26428826600"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/15877725 "
+				}
+			]
+		},
+		{
+			"id": "sivak-hanna-ivanivna",
+			"photo": "/employees/sivak-hanna-ivanivna.jpg",
+			"position": "Researcher",
+			"name": "Sivak Hanna Ivanivna",
+			"researchDirection": "Features of the course of phase and structural transformations in carbon, alloy and complex alloy steels under conditions of continuous and isothermal cooling. Transformation of non-metallic inclusions during sequential or complex treatments.",
+			"specialization": "05.16.01 – Metal Science and Heat Treatment of Metals",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "tometal@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-6948-7732"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=xt-cSUwAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7006814240"
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
+		},
+		{
+			"id": "oliinyk-eduard-vadymovych",
+			"photo": "/employees/oliinyk-eduard-vadymovych.jpg",
+			"position": "Lead Engineer",
+			"name": "Oliinyk Eduard Vadymovych",
+			"researchDirection": "Features of the course of phase and structural transformations in carbon, alloy and complex alloy steels under conditions of continuous and isothermal cooling. Development of improved technological solutions for metallurgical and metalworking enterprises that allow processing rolled products with reduced material costs.",
+			"specialization": "",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ediknsk@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-3366-3746"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=Qx5H8ScAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=60042063200&origin=resultslist"
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
+		}
+	]
+}

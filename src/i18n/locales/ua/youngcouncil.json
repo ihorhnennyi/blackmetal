@@ -1,0 +1,276 @@
+{
+	"title": "Рада молодих вчених",
+	"data": [
+		{
+			"id": "podolskyi-rostyslav-viacheslavovych",
+			"photo": "/employees/podolskyi.jpg",
+			"position": "Голова Ради молодих вчених",
+			"name": "Подольський Ростислав Вячеславович",
+			"description": "доктор філософських наук (PhD)",
+			"researchDirection": "Розробка науково-обґрунтованого комплексу технологічних рішень виробництва залізничних рейок та дослідження впливу структурного стану на механічні властивості, що забезпечують високу експлуатаційну стійкість.  Дослідження структурного стану та комплексу механічних властивостей виробів, виготовлених адитивним способом виробництва  для застосування в різних експлуатаційних умовах.",
+			"specialization": "132 – Матеріалознавство",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "rostislavpodolskij@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-0288-0641"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=xUHD_2wAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57244145000"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/32788823"
+				}
+			]
+		},
+		{
+			"id": "tsiupa",
+			"photo": "/employees/tsiupa.jpg",
+			"position": "Заступниця голови Ради молодих вчених",
+			"name": "Цюпа Наталя Олександрівна",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Вплив лугів на властивості оксидних систем та їх розплавів. Моделювання процесів взаємодії лужних сполук в системах «шлак-метал-газ-футерівка».",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "tysya6669@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0003-0682-461X"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=OSMX5ncAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57203586351"
+				}
+			]
+		},
+		{
+			"id": "povorotnia",
+			"photo": "/employees/povorotnia.jpg",
+			"position": "Секратар",
+			"name": "Поворотня Ірина Романівна",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Дослідження процесів розподілу та ефективності засвоєння легуючих елементів в системі «метал-шлак- газ». Вдосконалення технологічних прийомів введення добавок у металевий розплав з метою досягнення максимального ступеня їх засвоєння, поліпшення показників якості сталі, зниження енергетичних і сировинних витрат при виплавці сталі.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів.",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "iro4ka01091990@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-5872-7403"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=6jebBSwAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57222352527"
+				}
+			]
+		},
+		{
+			"id": "manachyn",
+			"photo": "/employees/manachyn.jpg",
+			"position": "Член ради молодих вчених",
+			"name": "Маначин Іван Олександрович",
+			"description": "Кандидат технічних наук, старший дослідник",
+			"researchDirection": "Дослідження з вивчення масообмінних процесів при введенні диспергованих магнієвих і немагнієвих реагентів в чавун, як в прифурменной зоні, так і в об’ємі всього розплаву. Учасник промислового освоєння і вдосконалення процесів десульфурації.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "imanachyn@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0001-9795-6751"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=MPdv2eQAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55540277500"
+				}
+			]
+		},
+		{
+			"id": "klemeshov-jevgen-sergijovich",
+			"photo": "/employees/klemeshov-jevgen-sergijovich.jpg",
+			"name": "Клемешов Євген Сергійович",
+			"position": "Член ради молодих вчених",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Математичне моделювання процесів обробки металів тиском",
+			"specialization": "05.03.05 – Процеси та машини обробки тиском",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "klemeshov.evgen@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57217104095"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57217104095"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/55757155"
+				}
+			]
+		},
+		{
+			"id": "kornilov",
+			"position": "Член ради молодих вчених",
+			"name": "Корнілов Богдан Володимирович",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Розробка математичних моделей теплової роботи та моніторингу теплових втрат, розпалу футерівки шахти та горнів доменних печей, теплових втрат доменної печі, у тому числі для діагностування на ранніх стадіях розладів у роботі печі. Вдосконалення існуючих технологій та розробка нових технологій (у тому числі використання водневмісного палива), спрямованих на декарбонізацію доменного виробництва.",
+			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "balesan2209@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-5544-3023"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=eRjJNjQAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57204979621"
+				},
+                {
+                    "type": "bibliographic",
+                    "value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0024770"
+                }
+			]
+		},
+		{
+			"id": "yushkevych-pavlo-olehovich",
+			"position": "Член ради молодих вчених",
+			"name": "Юшкевич Павло Олегович",
+			"description": "Кандидат технічних наук",
+			"researchDirection": "Розробка нових та вдосконалення існуючих технологій і обладнання для виробництва сталі в напрямах заощадження енергетичних та матеріальних ресурсів, покращення якості.",
+			"specialization": "G10 Металургія",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ISI.DPS.R@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-2675-0737"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=ru&user=9sBFaw8AAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=59220205700"
+				}
+			]
+		},
+		{
+			"id": "safronova-olena-anatoliivna",
+			"photo": "/employees/safronova.jpg",
+			"position": "Член ради молодих вчених",
+			"name": "Сафронова Олена Анатоліївна",
+			"researchDirection": "Розробка наукових положень і технологічних рішень нових процесів виробництва залізничних осей, дослідження впливу структурного стану і комплексу властивостей на експлуатаційну надійність.",
+			"specialization": "132 – Матеріалознавство",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "alena.safronova1997@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-4032-4275"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=MsPSVxwAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=57324547800"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/27284234"
+				}
+			]
+		},
+		{
+			"id": "oliinyk-eduard-vadymovych",
+			"photo": "/employees/oliinyk-eduard-vadymovych.jpg",
+			"position": "Член ради молодих вчених",
+			"name": "Олійник Едуард Вадимович",
+			"researchDirection": "Особливості перебігу фазових та структурних перетворень в вуглецевих, легованих та складнолегованих сталях за умови безперервного та ізотермічного охолодження. Розроблення для металургійних та металовиробних підприємств поліпшених технологічних рішень, які дозволяють здійснити перероблення прокату за зменшених матеріальних витрат.",
+			"specialization": "",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ediknsk@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-3366-3746"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=Qx5H8ScAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=60042063200&origin=resultslist"
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
+		},
+		{
+			"position": "Член ради молодих вчених",
+			"name": "Щербачов Вадим Родіонович"
+		}
+	]
+}
