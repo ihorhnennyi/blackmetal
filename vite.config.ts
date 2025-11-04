@@ -19,12 +19,6 @@ export default defineConfig({
     },
     dedupe: ['react', 'react-dom']
   },
-  base: '/',
-  plugins: [react()],
-  server: {
-    proxy: { '/api': { target: 'http://localhost:8080', changeOrigin: true, secure: false } }
-  },
-  preview: {
-    proxy: { '/api': { target: 'http://localhost:8080', changeOrigin: true, secure: false } }
-  }
+  base: '/', 
+  plugins: [react()]
 })
