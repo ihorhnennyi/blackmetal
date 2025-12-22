@@ -1102,6 +1102,77 @@
           "value": "The recognition of the Institute’s scientists highlighted their contributions to the development of the metallurgical industry, the training of young researchers, and the implementation of advanced technologies in industry."
         }
       ]
+    },
+    {
+      "id": 19,
+      "title": "Excursion to the Museum of Ferrous Metallurgy",
+      "text": "An excursion to the Museum of Ferrous Metallurgy of IFM took place",
+      "content": [
+        {
+          "type": "text",
+          "value": "On November 27, 2025, as part of the events dedicated to the International Day of Engagement in Science for Sustainable Development, an excursion to the Museum of Ferrous Metallurgy took place."
+        },
+        {
+          "type": "text",
+          "value": "The Museum of Ferrous Metallurgy, located in the central building of IFM, has a unique exhibition dedicated to the achievements of domestic metallurgical scientists, the evolution of blast furnace, steelmaking and rolling production, as well as modern trends in the development of the industry."
+        },
+        {
+          "type": "text",
+          "value": "Employees of IFM, postgraduate students and students listened with great interest to the story about the history of the development of Ukraine’s metallurgical industry, outstanding metallurgical scientists and metallurgical dynasties of the Dnipropetrovsk region, its scientific and technical potential and its role in shaping the industrial power of the state."
+        },
+        {
+          "type": "text",
+          "value": "In addition to a rich collection of documents and photographs, the museum has several stands featuring working models of metallurgical equipment — blast furnace No. 9 of Kryvorizhstal, a hot metal desulfurization unit, rolling mills and others — which clearly demonstrate the features of various metallurgical processes."
+        },
+        {
+          "type": "image",
+          "value": "/news/19/19-2.jpg"
+        },
+        {
+          "type": "image",
+          "value": "/news/19/19-3.jpg"
+        },
+        {
+          "type": "image",
+          "value": "/news/19/19-4.jpg"
+        },
+        {
+          "type": "image",
+          "value": "/news/19/19-5.jpg"
+        },
+        {
+          "type": "image",
+          "value": "/news/19/19-6.jpg"
+        },
+        {
+          "type": "image",
+          "value": "/news/19/19-7.jpg"
+        },
+        {
+          "type": "image",
+          "value": "/news/19/19-8.jpg"
+        },
+        {
+          "type": "image",
+          "value": "/news/19/19-9.jpg"
+        },
+        {
+          "type": "image",
+          "value": "/news/19/19-10.jpg"
+        },
+        {
+          "type": "image",
+          "value": "/news/19/19-11.jpg"
+        },
+        {
+          "type": "image",
+          "value": "/news/19/19-12.jpg"
+        },
+        {
+          "type": "image",
+          "value": "/news/19/19-13.jpg"
+        }
+      ]
     }
   ]
 }
