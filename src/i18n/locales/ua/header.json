@@ -92,40 +92,34 @@
               "label": "Всеукраїнська конференція «Наука і металургія»",
               "items": [
                 {
-                  "id": "invitation",
-                  "label": "Запрошення",
-                  "items": [
-                    {
-                      "id": "2020",
-                      "label": "2020",
-                      "link": "/conferences/science-metallurgy/Наука_та_металургія_2019.pdf"
-                    },
-                    {
-                      "id": "2021",
-                      "label": "2021",
-                      "link": "/conferences/science-metallurgy/тези_НМ2021.pdf"
-                    },
-                    {
-                      "id": "2022",
-                      "label": "2022",
-                      "link": "/conferences/science-metallurgy/НМ_2022.pdf"
-                    },
-                    {
-                      "id": "2023",
-                      "label": "2023",
-                      "link": "/conferences/science-metallurgy/НіМ2023-укр.-11.12.pdf"
-                    },
-                    {
-                      "id": "2024",
-                      "label": "2024",
-                      "link": "/conferences/science-metallurgy/НіМ_2024_укр_final_ver.pdf"
-                    },
-                    {
-                      "id": "2025",
-                      "label": "2025",
-                      "link": "/conferences/science-metallurgy/SCIENCE AND METALLURGY_2025.pdf"
-                    }
-                  ]
+                  "id": "2019",
+                  "label": "2019",
+                  "link": "/conferences/science-metallurgy/Наука_та_металургія_2019.pdf"
+                },
+                {
+                  "id": "2021",
+                  "label": "2021",
+                  "link": "/conferences/science-metallurgy/тези_НМ2021.pdf"
+                },
+                {
+                  "id": "2022",
+                  "label": "2022",
+                  "link": "/conferences/science-metallurgy/НМ_2022.pdf"
+                },
+                {
+                  "id": "2023",
+                  "label": "2023",
+                  "link": "/conferences/science-metallurgy/НіМ2023-укр.-11.12.pdf"
+                },
+                {
+                  "id": "2024",
+                  "label": "2024",
+                  "link": "/conferences/science-metallurgy/НіМ_2024_укр_final_ver.pdf"
+                },
+                {
+                  "id": "2025",
+                  "label": "2025",
+                  "link": "/conferences/science-metallurgy/SCIENCE AND METALLURGY_2025.pdf"
                 }
               ]
             },
