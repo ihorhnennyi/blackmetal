@@ -1092,6 +1092,67 @@
           "value": "/news/19/19-13.jpg"
         }
       ]
+    },
+    {
+      "id": 20,
+      "title": "Congratulations to ICHM scientists on receiving honors from the National Academy of Sciences of Ukraine",
+      "text": "Employees of the ICHM of the NAS of Ukraine have been honored by the Presidium of the NAS of Ukraine for professional achievements and a significant contribution to the development of fundamental and applied research",
+      "content": [
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "The Iron and Steel Institute of the NAS of Ukraine named after Z.I. Nekrasov sincerely congratulates its scientists on receiving honors from the National Academy of Sciences of Ukraine."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "We congratulate Senior Research Fellow of VFTPMS "
+            },
+            {
+              "type": "navlink",
+              "value": "Vitalii Petrovych Piptiuk",
+              "href": "piptiuk-vitalii-petrovych"
+            },
+            {
+              "type": "text",
+              "value": " on being awarded the Presidium of the NAS of Ukraine Distinction “For Professional Achievements”, and the Head of the Laboratory of Thermal Engineering and Energy-Saving Technologies of VMCh "
+            },
+            {
+              "type": "navlink",
+              "value": "Oleksii Leonidovych Chaika",
+              "href": "chaika-oleksii-leonidovych"
+            },
+            {
+              "type": "text",
+              "value": " on receiving the Honorary Diploma of the NAS of Ukraine."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "These awards are presented for outstanding achievements in the development of fundamental and applied scientific research, a significant personal contribution to the development and implementation of new scientific solutions and effective technologies, and for strengthening the scientific and technological potential of Ukraine."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "We wish our colleagues further professional success, inspiration, new scientific results, and the realization of ambitious projects!"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
