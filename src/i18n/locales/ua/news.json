@@ -1282,7 +1282,7 @@
         {
           "type": "text",
           "children": [
-            { "type": "link", "value": "Зразок заяви (DOCS)", "href": "/news/21/zaiava.docs" },
+            { "type": "link", "value": "Зразок заяви (DOCS)", "href": "/news/21/zaiava.docx" },
             { "type": "text", "value": " • " },
             { "type": "link", "value": "Зразок анкети (DOC)", "href": "/news/21/anketa.doc" }
           ]
