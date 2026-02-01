@@ -95,6 +95,16 @@
       "id": 21,
       "imageUrl": "/news/21/21-1.jpg",
       "date": "19.01.2026"
+    },
+    {
+      "id": 22,
+      "imageUrl": "/news/22/22-1.png",
+      "date": "29.01.2026"
+    },
+    {
+      "id": 23,
+      "imageUrl": "/news/23/23-1.jpg",
+      "date": "30.01.2026"
     }
   ]
 }

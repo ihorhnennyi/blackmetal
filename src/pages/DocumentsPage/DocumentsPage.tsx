@@ -1,7 +1,27 @@
-import { Box, Typography } from '@mui/material'
-import { DocumentTitleSearch, PresentationPlayer } from '@/components'
+import { Box } from '@mui/material'
+import { DocumentTitleSearch, PresentationPlayer, DocumentCard } from '@/components'
+import { DocumentCardAdaptation } from '@/components/DocumentCard/styles'
 
 const DocumentsPage = () => {
+	const normDocuments = [
+		{
+			title: 'ІЧМ Додаток 1 Статут ІЧМ',
+			link: '/norm_doc/ІЧМ Додаток 1 Статут ІЧМ.pdf',
+		},
+		{
+			title: 'ІЧМ Додаток 4 Реєстрація Збірника в сфері медіа',
+			link: '/norm_doc/ІЧМ Додаток 4 Реєстрація Збірника в сфері медіа.pdf',
+		},
+		{
+			title: 'План забезпечення гендерної рівності ІЧМ',
+			link: '/norm_doc/План забезпечення гендерної рівності ІЧМ.pdf',
+		},
+		{
+			title: 'План забезпечення гендерної рівності ІЧМ (англ.)',
+			link: '/norm_doc/План забезпечення гендерної рівності ІЧМ_англ.pdf',
+		},
+	]
+
 	return (
 		<Box
 			sx={{
@@ -9,7 +29,7 @@ const DocumentsPage = () => {
 			}}
 		>
 			<DocumentTitleSearch title='Нормативні документи' search={false} />
-			<Box
+			{/* <Box
 				sx={{
 					width: '100%',
 					zIndex: 1,
@@ -17,6 +37,18 @@ const DocumentsPage = () => {
 				}}
 			>
 				<PresentationPlayer pdfUrl='/reg_doc.pdf' />
+			</Box> */}
+
+			<Box sx={{ maxWidth: '1220px', m: '0px auto', mb: 4 }}>
+				<Box sx={DocumentCardAdaptation}>
+					{normDocuments.map((doc, index) => (
+						<DocumentCard
+							key={index}
+							title={doc.title}
+							link={doc.link}
+						/>
+					))}
+				</Box>
 			</Box>
 
 			<Box
