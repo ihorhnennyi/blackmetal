@@ -17,9 +17,11 @@ const EducationProgramsPage = () => {
 		return null
 	}
 
-	const filteredData = data.data.filter(item =>
-		item.title.toLowerCase().includes(searchQuery.toLowerCase())
-	)
+	const filteredData = data.data
+		.filter(item =>
+			item.title.toLowerCase().includes(searchQuery.toLowerCase())
+		)
+		.reverse()
 
 	const handleSearchChange = (query: string) => {
 		setSearchQuery(query)
