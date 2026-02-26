@@ -44,6 +44,7 @@ const Syllabus136Page = () => {
 							title={item.title}
 							link={item.link}
 							date={item.date}
+							titleAsLink
 						/>
 					))}
 				</Box>

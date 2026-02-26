@@ -2,7 +2,13 @@ import { Box, Button, Link as MUILink, Typography } from '@mui/material'
 import { useTranslation } from 'react-i18next'
 import { DocumentCardProps } from './DocumentCardInterface'
 
-const DocumentCard = ({ title, link, date, image }: DocumentCardProps) => {
+const DocumentCard = ({
+	title,
+	link,
+	date,
+	image,
+	titleAsLink = false,
+}: DocumentCardProps) => {
 	const { t } = useTranslation()
 
 	const getFileNameFromUrl = (url: string): string => {
@@ -21,6 +27,55 @@ const DocumentCard = ({ title, link, date, image }: DocumentCardProps) => {
 	const fileExtension = getFileExtensionFromUrl(fileName)
 	const fileLink = `${link}`
 	const imageLink = `/${image}`
+
+	const titleBlock = titleAsLink ? (
+		<MUILink
+			href={fileLink}
+			target='_blank'
+			rel='noopener noreferrer'
+			underline='none'
+			sx={{
+				maxWidth: '304px',
+				m: '0px auto',
+				mt: '-4px',
+				display: 'flex',
+				justifyContent: 'center',
+				alignItems: 'center',
+				flex: 1,
+				cursor: 'pointer',
+			}}
+		>
+			<Typography
+				sx={{
+					fontSize: '18px',
+					fontWeight: 600,
+					color: '#242424',
+					textAlign: 'center',
+					'&:hover': { color: 'primary.main' },
+				}}
+			>
+				{title}
+			</Typography>
+		</MUILink>
+	) : (
+		<Typography
+			sx={{
+				maxWidth: '304px',
+				m: '0px auto',
+				mt: '-4px',
+				display: 'flex',
+				justifyContent: 'center',
+				alignItems: 'center',
+				fontSize: '18px',
+				fontWeight: 600,
+				color: '#242424',
+				textAlign: 'center',
+				flex: 1,
+			}}
+		>
+			{title}
+		</Typography>
+	)
 
 	return (
 		<Box
@@ -83,36 +138,21 @@ const DocumentCard = ({ title, link, date, image }: DocumentCardProps) => {
 				/>
 			)}
 
-			<Typography
-				sx={{
-					maxWidth: '304px',
-					m: '0px auto',
-					mt: '-4px',
-					display: 'flex',
-					justifyContent: 'center',
-					alignItems: 'center',
-					fontSize: '18px',
-					fontWeight: 600,
-					color: '#242424',
-					textAlign: 'center',
-					flex: 1,
-				}}
-			>
-				{title}
-			</Typography>
-			<Box
-				sx={{
-					maxWidth: '304px',
-					width: '100%',
-					m: '0px auto',
-					display: 'flex',
-					justifyContent: 'center',
-					gap: '20px',
-					flexWrap: 'wrap',
-				}}
-			>
-				{['docx', 'doc', 'zip', 'rar'].includes(fileExtension) ? (
-					<>
+			{titleBlock}
+
+			{!titleAsLink && (
+				<Box
+					sx={{
+						maxWidth: '304px',
+						width: '100%',
+						m: '0px auto',
+						display: 'flex',
+						justifyContent: 'center',
+						gap: '20px',
+						flexWrap: 'wrap',
+					}}
+				>
+					{['docx', 'doc', 'zip', 'rar'].includes(fileExtension) ? (
 						<MUILink
 							href={fileLink}
 							rel='noopener noreferrer'
@@ -131,52 +171,50 @@ const DocumentCard = ({ title, link, date, image }: DocumentCardProps) => {
 								{t('components.document-card.download')}
 							</Button>
 						</MUILink>
-					</>
-				) : ['pdf', 'jpg', 'svg', 'jpeg', 'png', 'webp', 'jfif'].includes(
-						fileExtension
-				  ) ? (
-					<>
-						<MUILink
-							target='_blank'
-							href={fileLink}
-							rel='noopener noreferrer'
-							sx={{ width: { xxs: '100%', xs: '142px' } }}
-						>
-							<Button
-								variant='contained'
-								sx={{
-									width: '100%',
-									height: '42px',
-									borderRadius: 0,
-									boxShadow: 'none',
-									textTransform: 'none',
-								}}
+					) : ['pdf', 'jpg', 'svg', 'jpeg', 'png', 'webp', 'jfif'].includes(
+							fileExtension
+					  ) ? (
+						<>
+							<MUILink
+								target='_blank'
+								href={fileLink}
+								rel='noopener noreferrer'
+								sx={{ width: { xxs: '100%', xs: '142px' } }}
 							>
-								{t('components.document-card.see')}
-							</Button>
-						</MUILink>
-						<MUILink
-							href={fileLink}
-							rel='noopener noreferrer'
-							download={fileName}
-							sx={{ width: { xxs: '100%', xs: '142px' } }}
-						>
-							<Button
-								variant='outlined'
-								sx={{
-									width: '100%',
-									height: '42px',
-									borderRadius: 0,
-									textTransform: 'none',
-									color: '#000000',
-								}}
+								<Button
+									variant='contained'
+									sx={{
+										width: '100%',
+										height: '42px',
+										borderRadius: 0,
+										boxShadow: 'none',
+										textTransform: 'none',
+									}}
+								>
+									{t('components.document-card.see')}
+								</Button>
+							</MUILink>
+							<MUILink
+								href={fileLink}
+								rel='noopener noreferrer'
+								download={fileName}
+								sx={{ width: { xxs: '100%', xs: '142px' } }}
 							>
-								{t('components.document-card.download')}
-							</Button>
-						</MUILink>
-					</>
-				) : (
-					<>
+								<Button
+									variant='outlined'
+									sx={{
+										width: '100%',
+										height: '42px',
+										borderRadius: 0,
+										textTransform: 'none',
+										color: '#000000',
+									}}
+								>
+									{t('components.document-card.download')}
+								</Button>
+							</MUILink>
+						</>
+					) : (
 						<MUILink
 							target='_blank'
 							href={link}
@@ -196,9 +234,9 @@ const DocumentCard = ({ title, link, date, image }: DocumentCardProps) => {
 								{t('components.document-card.see')}
 							</Button>
 						</MUILink>
-					</>
-				)}
-			</Box>
+					)}
+				</Box>
+			)}
 		</Box>
 	)
 }
