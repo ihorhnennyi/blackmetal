@@ -61,6 +61,26 @@
 				"title": "Dissertation Plan for V. Mazur",
 				"link": "/plans/Мазур-навчальний-план (1).pdf"
 			}
+		},
+		{
+			"left": {
+				"title": "Study Plan for I. Lyubeka",
+				"link": "/plans/Навчальний план Любека.pdf"
+			},
+			"right": {
+				"title": "Dissertation Plan for I. Lyubeka",
+				"link": "/plans/План дисертації Любека І.М..pdf"
+			}
+		},
+		{
+			"left": {
+				"title": "Study Plan for M. Ambrazhei",
+				"link": "/plans/Навчальний план Амбражеї М.Ю..pdf"
+			},
+			"right": {
+				"title": "Dissertation Plan for M. Ambrazhei",
+				"link": "/plans/План дисертації Амбражеї М.Ю..pdf"
+			}
 		}
 	]
 }
