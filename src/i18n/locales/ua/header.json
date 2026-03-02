@@ -196,6 +196,11 @@
               "href": "/training/postgraduate/stakeholders"
             },
             {
+              "id": "surveys",
+              "label": "Опитування",
+              "href": "/training/postgraduate/surveys"
+            },
+            {
               "id": "accreditation",
               "label": "Акредитація",
               "href": "/training/postgraduate/accreditation"

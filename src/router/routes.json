@@ -215,6 +215,12 @@
 		"title": "Стейкхолдери",
 		"layout": "MainLayout"
 	},
+	"SurveysPage": {
+		"path": "/training/postgraduate/surveys",
+		"component": "SurveysPage",
+		"title": "Опитування",
+		"layout": "MainLayout"
+	},
 	"SpecCouncilsPage": {
 		"path": "/training/special-councils/metallurgy/phd7744",
 		"component": "SpecCouncilsPage",
