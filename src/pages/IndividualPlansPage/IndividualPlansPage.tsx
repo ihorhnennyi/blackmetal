@@ -1,25 +1,27 @@
 import { DocumentCard, DocumentTitleSearch } from '@/components'
 import { Box } from '@mui/material'
 import { useTranslationData } from '@/hooks/useTranslationData'
-import { DocumentCardData } from '@/components/DocumentCard/DocumentCardInterface'
-import {
-	DocumentCardAdaptation,
-	DocumentCardWrapper,
-} from '@/components/DocumentCard/styles'
+import { PlansGridData } from '@/components/DocumentCard/DocumentCardInterface'
+import { DocumentCardWrapper } from '@/components/DocumentCard/styles'
 import { useState } from 'react'
 
 const IndividualPlansPage = () => {
-	const { data } = useTranslationData<DocumentCardData>('plans')
+	const { data } = useTranslationData<PlansGridData>('plans')
 
 	const [searchQuery, setSearchQuery] = useState('')
 
-	if (!data) {
+	if (!data?.rows) {
 		return null
 	}
 
-	const filteredData = data.data.filter(item =>
-		item.title.toLowerCase().includes(searchQuery.toLowerCase())
-	)
+	const query = searchQuery.toLowerCase().trim()
+	const filteredRows = query
+		? data.rows.filter(
+				row =>
+					row.left.title.toLowerCase().includes(query) ||
+					row.right.title.toLowerCase().includes(query)
+		  )
+		: data.rows
 
 	const handleSearchChange = (query: string) => {
 		setSearchQuery(query)
@@ -28,6 +30,7 @@ const IndividualPlansPage = () => {
 	const handleSearchSubmit = (query: string) => {
 		setSearchQuery(query.trim())
 	}
+
 	return (
 		<Box sx={DocumentCardWrapper}>
 			<DocumentTitleSearch
@@ -37,15 +40,28 @@ const IndividualPlansPage = () => {
 			/>
 
 			<Box sx={{ maxWidth: '1220px', m: '0px auto' }}>
-				<Box sx={DocumentCardAdaptation}>
-					{filteredData.map((item, index) => (
+				<Box
+					sx={{
+						display: 'grid',
+						gridTemplateColumns: { xxs: '1fr', sm: '1fr 1fr' },
+						gap: '25px',
+						justifyContent: 'center',
+					}}
+				>
+					{filteredRows.flatMap((row, index) => [
 						<DocumentCard
-							key={index}
-							title={item.title}
-							link={item.link}
-							date={item.date}
-						/>
-					))}
+							key={`${index}-left`}
+							title={row.left.title}
+							link={row.left.link}
+							date={row.left.date}
+						/>,
+						<DocumentCard
+							key={`${index}-right`}
+							title={row.right.title}
+							link={row.right.link}
+							date={row.right.date}
+						/>,
+					])}
 				</Box>
 			</Box>
 		</Box>

@@ -12,6 +12,16 @@ export interface DocumentCardData {
 	data: DocumentCardProps[]
 }
 
+export interface PlansRowItem extends Pick<DocumentCardProps, 'title' | 'link' | 'date'> {}
+
+export interface PlansGridData {
+	title: string
+	rows: Array<{
+		left: PlansRowItem
+		right: PlansRowItem
+	}>
+}
+
 export interface Syllabus132SectionItem {
 	title: string
 	link: string
