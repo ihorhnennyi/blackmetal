@@ -49,7 +49,7 @@ const HistoryContent = ({ data }: HistoryContentProps) => {
 			<HistoryText>{data.ninthParagraph}</HistoryText>
 
 			<HistoryImage
-				src='/history5.jpg'
+				src='/history.jpg'
 				alt={data.fifthImageAlt}
 				caption={data.fifthImageCaption}
 			/>
