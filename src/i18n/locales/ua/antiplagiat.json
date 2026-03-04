@@ -1,18 +1,17 @@
 {
-	"title": "Перевірка антиплагіату",
+	"title": "Перевірка на плагіат",
 	"data": [
 		{
 			"title": "Антиплагіат Литовська пропозиція",
-			"link": "/antiplagiat/Антиплагіат-Литовська-пропозиція.docx",
-			"date": "13.12.2018"
+			"link": "/antiplagiat/Антиплагіат-Литовська-пропозиція.docx"
 		},
 		{
 			"title": "Договір про співпрацю з Unicheck",
 			"link": "/antiplagiat/Договір-ІЧМ-НАНУ_Антиплагіат.pdf"
 		},
 		{
-			"title": "Договір ІЧМ НАНУ з Антиплагіат",
-			"link": "/antiplagiat/Договір ІЧМ НАНУ_Антиплагіат.pdf"
+			"title": "Договір ІЧМ та StrikePlagiarism",
+			"link": "/antiplagiat/Договір StrikePlagiarism.PDF"
 		}
 	]
 }

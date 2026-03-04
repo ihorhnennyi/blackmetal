@@ -23,16 +23,6 @@
 		},
 		{
 			"left": {
-				"title": "Study Plan for N. Arendach",
-				"link": "/plans/Арендач-навчальний-план.pdf"
-			},
-			"right": {
-				"title": "Dissertation Plan for N. Arendach",
-				"link": "/plans/Арендач-навчальний-план (1).pdf"
-			}
-		},
-		{
-			"left": {
 				"title": "Study Plan for O. Safronova",
 				"link": "/plans/Індивідуальний-навчальний-план_Сафронової-О.А..pdf"
 			},
@@ -74,11 +64,11 @@
 		},
 		{
 			"left": {
-				"title": "Study Plan for M. Ambrazhei",
+				"title": "Study Plan for M. Ambrazheia",
 				"link": "/plans/Навчальний план Амбражеї М.Ю..pdf"
 			},
 			"right": {
-				"title": "Dissertation Plan for M. Ambrazhei",
+				"title": "Dissertation Plan for M. Ambrazheia",
 				"link": "/plans/План дисертації Амбражеї М.Ю..pdf"
 			}
 		}

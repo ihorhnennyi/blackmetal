@@ -157,7 +157,7 @@
             },
             {
               "id": "education-programs",
-              "label": "Освітньо наукові програми",
+              "label": "Освітньо-наукові програми",
               "href": "/training/postgraduate/programs"
             },
             {
@@ -177,7 +177,7 @@
             },
             {
               "id": "antiplagiat",
-              "label": "Перевірка антиплагіату",
+              "label": "Перевірка на плагіат",
               "href": "/training/postgraduate/antiplagiat"
             },
             {

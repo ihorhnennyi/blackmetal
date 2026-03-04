@@ -16,7 +16,7 @@
 		},
 		{
 			"title": "Regulations on Course Selection",
-			"link": "/regulations/Положення-про-вибір-дисциплін.pdf"
+			"link": "/regulations/Положення про вибір дисциплін.pdf"
 		},
 		{
 			"title": "Regulations on the Graduation Department",
@@ -36,7 +36,7 @@
 		},
 		{
 			"title": "Regulations on Scientific and Pedagogical Practice",
-			"link": "/regulations/Положення-про-науково-педагогічну-практику.pdf"
+			"link": "/regulations/Положення про науково-педагогічну практику.pdf"
 		},
 		{
 			"title": "Regulations on the Organization of the Educational Process",
@@ -60,7 +60,7 @@
 		},
 		{
 			"title": "Procedure for Program Development",
-			"link": "/regulations/Порядок-розробки-програм (1).pdf"
+			"link": "/regulations/Порядок розробки програм.pdf"
 		},
 		{
 			"title": "Rules of Conduct for Education Seekers",
@@ -69,6 +69,14 @@
 		{
 			"title": "Internal Labor Regulations for Employees",
 			"link": "/regulations/Правила-трудового-распорядку-працівників.pdf"
+		},
+		{
+			"title": "Recognition of Learning Outcomes",
+			"link": "/regulations/Визнання результатів навчання.pdf"
+		},
+		{
+			"title": "AI Usage Policy",
+			"link": "/regulations/Політика використання ШІ.pdf"
 		}
 	]
 }

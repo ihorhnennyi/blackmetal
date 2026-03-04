@@ -2,29 +2,16 @@
 	"title": "Accreditation",
 	"data": [
 		{
-			"title": "Self-Assessment Information for EPP - 132",
-			"link": "/accreditation/Відомості-про-самооцінювання-ОНП-Матеріалознавство-та-обробка-металів-132-Матеріалознавство.pdf",
-			"date": "13.12.2013"
-		},
-		{
-			"title": "Self-Assessment Information for EPP - 136",
-			"link": "/accreditation/Відомості-про-самооцінювання-136.pdf"
-		},
-		{
-			"title": "Materials Science",
+			"title": "Certificate 132 Materials Science",
 			"link": "/accreditation/Матеріалознавство.pdf"
 		},
 		{
-			"title": "Metallurgy",
+			"title": "Certificate 136 Metallurgy",
 			"link": "/accreditation/Металургія.pdf"
 		},
 		{
 			"title": "Self-Assessment Information 132 Materials Science",
 			"link": "/accreditation/Відомості_про_СО_132_Матеріалознавство.pdf"
-		},
-		{
-			"title": "Accreditation",
-			"link": "/accreditation/Акредитація.pptx"
 		}
 	]
 }

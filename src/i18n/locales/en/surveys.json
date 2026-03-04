@@ -2,24 +2,20 @@
 	"title": "Surveys",
 	"data": [
 		{
-			"title": "Survey for Applicants",
+			"title": "OEP Evaluation for Applicants",
 			"link": "https://docs.google.com/forms/d/e/1FAIpQLSen6y9xSAZrCnYLy0hsU_1M2WET5k2HbFwf1wY2-eFzqOmUwg/viewform"
 		},
 		{
-			"title": "Survey for Teachers",
+			"title": "OEP Evaluation for Lecturers",
 			"link": "https://docs.google.com/forms/d/e/1FAIpQLSePrnRj7fqKJcmpwrl9Iv3VQQkI8JT0fQmy-At2OEuVif_JWA/viewform"
 		},
 		{
-			"title": "Survey for Stakeholders",
+			"title": "OEP Evaluation for Stakeholders",
 			"link": "https://docs.google.com/forms/d/e/1FAIpQLSfcNGzsNpuBcwdOGVih4IxYAzvUGPIV-TEQSuI92j7SProclA/viewform"
 		},
 		{
-			"title": "Assessment of the quality of educational activities",
+			"title": "Quality assessment of educational activities for applicants",
 			"link": "https://forms.gle/beFJmaQBbw9gqS826"
-		},
-		{
-			"title": "Evaluation of educational and scientific programs",
-			"link": "https://forms.gle/AA25eQPjFHf5oF3L9"
 		}
 	]
 }

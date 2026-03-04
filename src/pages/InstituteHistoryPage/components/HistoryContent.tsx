@@ -14,7 +14,7 @@ const HistoryContent = ({ data }: HistoryContentProps) => {
 			<HistoryText>{data.secondParagraph}</HistoryText>
 
 			<HistoryImage
-				src='/history1.webp'
+				src='/history/history1_2.png'
 				alt={data.imageAlt}
 				caption={data.imageCaption}
 			/>
@@ -23,7 +23,7 @@ const HistoryContent = ({ data }: HistoryContentProps) => {
 			<HistoryText>{data.fourthParagraph}</HistoryText>
 
 			<HistoryImage
-				src='/history2.jpg'
+				src='/history/history2_2.png'
 				alt={data.secondImageAlt}
 				caption={data.secondImageCaption}
 			/>
@@ -31,7 +31,7 @@ const HistoryContent = ({ data }: HistoryContentProps) => {
 			<HistoryText>{data.fifthParagraph}</HistoryText>
 
 			<HistoryImage
-				src='/history3.jpg'
+				src='/history/history3_2.png'
 				alt={data.thirdImageAlt}
 				caption={data.thirdImageCaption}
 			/>
@@ -41,7 +41,7 @@ const HistoryContent = ({ data }: HistoryContentProps) => {
 			<HistoryText>{data.eighthParagraph}</HistoryText>
 
 			<HistoryImage
-				src='/history4.jpg'
+				src='/history/history4_2.png'
 				alt={data.fourthImageAlt}
 				caption={data.fourthImageCaption}
 			/>
@@ -49,7 +49,7 @@ const HistoryContent = ({ data }: HistoryContentProps) => {
 			<HistoryText>{data.ninthParagraph}</HistoryText>
 
 			<HistoryImage
-				src='/history.jpg'
+				src='/history5.jpg'
 				alt={data.fifthImageAlt}
 				caption={data.fifthImageCaption}
 			/>
@@ -59,7 +59,7 @@ const HistoryContent = ({ data }: HistoryContentProps) => {
 			<HistoryText>{data.twelfthParagraph}</HistoryText>
 
 			<HistoryImage
-				src='/history6.jpg'
+				src='/history/history6_2.png'
 				alt={data.sixthImageAlt}
 				caption={data.sixthImageCaption}
 			/>

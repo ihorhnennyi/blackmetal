@@ -2,24 +2,20 @@
 	"title": "Опитування",
 	"data": [
 		{
-			"title": "Опитування для здобувачів",
+			"title": "Оцінювання ОНП для здобувачів",
 			"link": "https://docs.google.com/forms/d/e/1FAIpQLSen6y9xSAZrCnYLy0hsU_1M2WET5k2HbFwf1wY2-eFzqOmUwg/viewform"
 		},
 		{
-			"title": "Опитування для викладачів",
+			"title": "Оцінювання ОНП для викладачів",
 			"link": "https://docs.google.com/forms/d/e/1FAIpQLSePrnRj7fqKJcmpwrl9Iv3VQQkI8JT0fQmy-At2OEuVif_JWA/viewform"
 		},
 		{
-			"title": "Опитування для сейкхолдерів",
+			"title": "Оцінювання ОНП для стейкхолдерів",
 			"link": "https://docs.google.com/forms/d/e/1FAIpQLSfcNGzsNpuBcwdOGVih4IxYAzvUGPIV-TEQSuI92j7SProclA/viewform"
 		},
 		{
-			"title": "Оцінка якості освітньої діяльності",
+			"title": "Оцінювання якості освітньої діяльності для здобувачів",
 			"link": "https://forms.gle/beFJmaQBbw9gqS826"
-		},
-		{
-			"title": "Оцінювання освітньо-наукових програм",
-			"link": "https://forms.gle/AA25eQPjFHf5oF3L9"
 		}
 	]
 }

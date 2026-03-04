@@ -3,12 +3,11 @@
 	"data": [
 		{
 			"title": "Order on the Graduation Department",
-			"link": "/orders/Наказ-про-випусковий-відділ.pdf",
-			"date": "13.12.2013"
+			"link": "/orders/Наказ-про-випусковий-відділ.pdf"
 		},
 		{
 			"title": "Order on the Integrity Commission",
-			"link": "/orders/Наказ-про-комісію-з-доброчесності.pdf"
+			"link": "/orders/Наказ про комісію з доброчесності.pdf"
 		},
 		{
 			"title": "Order on Enrollment 2022",
@@ -19,16 +18,28 @@
 			"link": "/orders/Наказ-2023.pdf"
 		},
 		{
-			"title": "Transfer Order Arendach",
-			"link": "/orders/наказ-переведення-Арендач.pdf"
-		},
-		{
 			"title": "PhD Support Group Order 2023",
 			"link": "/orders/Наказ-Група-Забезпечення-PhD-2023.pdf"
 		},
 		{
 			"title": "PhD Support Group Order 2024",
-			"link": "/orders/Наказ-Група-Забезпечення-PhD-2024.pdf"
+			"link": "/orders/Наказ група забезпечення PhD 2024.pdf"
+		},
+		{
+			"title": "Support Group Order 2024",
+			"link": "/orders/Наказ група забезпечення PhD 2024.pdf"
+		},
+		{
+			"title": "Support Group Order 2025",
+			"link": "/orders/Наказ група забезпечення PhD 2025.pdf"
+		},
+		{
+			"title": "Order on Enrollment 2024",
+			"link": "/orders/наказ про зарахування 2024.pdf"
+		},
+		{
+			"title": "Order on Enrollment 2025",
+			"link": "/orders/Наказ про зарахування 2025.pdf"
 		}
 	]
 }
