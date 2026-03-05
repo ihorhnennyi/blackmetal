@@ -54,15 +54,32 @@ const DocumentsPage = () => {
 			<Box
 				sx={{
 					width: '100%',
-					display: 'flex',
+					display: 'grid',
+					gridTemplateColumns: { xxs: '1fr', sm: '1fr 1fr' },
 					gap: { xxs: 2, sm: 3 },
-					flexDirection: { xxs: 'column', md: 'row' },
 					mb: 4,
 				}}
 			>
 				<Box
 					sx={{
-						flex: 1,
+						overflow: 'hidden',
+						boxShadow: '0 4px 12px rgba(0,0,0,0.1)',
+					}}
+				>
+					<img
+						src={`/documents/${encodeURIComponent('Свідоцтво атестація МОН.jpg')}`}
+						alt='Свідоцтво про державну атестацію наукової установи'
+						style={{
+							width: '100%',
+							height: 'auto',
+							display: 'block',
+							objectFit: 'cover',
+						}}
+					/>
+				</Box>
+
+				<Box
+					sx={{
 						overflow: 'hidden',
 						boxShadow: '0 4px 12px rgba(0,0,0,0.1)',
 					}}
@@ -81,7 +98,6 @@ const DocumentsPage = () => {
 
 				<Box
 					sx={{
-						flex: 1,
 						overflow: 'hidden',
 						boxShadow: '0 4px 12px rgba(0,0,0,0.1)',
 					}}
