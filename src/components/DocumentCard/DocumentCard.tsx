@@ -28,10 +28,12 @@ const DocumentCard = ({
 	const fileLink =
 		link.startsWith('http')
 			? link
-			: link
-					.split('/')
-					.map((segment, i) => (i === 0 ? segment : encodeURIComponent(segment)))
-					.join('/')
+			: link.includes('%')
+				? link
+				: link
+						.split('/')
+						.map((segment, i) => (i === 0 ? segment : encodeURIComponent(segment)))
+						.join('/')
 	const imageLink = `/${image}`
 
 	const titleBlock = titleAsLink ? (
