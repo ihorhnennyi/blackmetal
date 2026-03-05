@@ -16,12 +16,19 @@ const DevelopmentsPage = () => {
 		return null
 	}
 
-	const pdfUrl = data.presentationPdfUrl
-		? encodeURI(data.presentationPdfUrl)
-		: null
-	const downloadUrl = data.presentationLink
-		? encodeURI(data.presentationLink)
-		: null
+	// Коректне кодування шляху (пробіли та "+" у назві файлу)
+	const buildEncodedPath = (path: string) => {
+		const parts = path.replace(/^\//, '').split('/')
+		const filename = parts.pop() ?? ''
+		const encoded = parts.length ? parts.join('/') + '/' + encodeURIComponent(filename) : encodeURIComponent(filename)
+		return '/' + encoded
+	}
+	const encodedPdfPath = data.presentationPdfUrl ? buildEncodedPath(data.presentationPdfUrl) : null
+	const pdfUrl =
+		encodedPdfPath && typeof window !== 'undefined'
+			? window.location.origin + encodedPdfPath
+			: data.presentationPdfUrl ?? null
+	const downloadUrl = data.presentationLink ? buildEncodedPath(data.presentationLink) : null
 
 	return (
 		<Box sx={{ pb: '30px', pl: { xs: '20px', md: '50px' } }}>

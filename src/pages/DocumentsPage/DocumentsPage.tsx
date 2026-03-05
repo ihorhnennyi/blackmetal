@@ -5,7 +5,7 @@ import { DocumentCardAdaptation } from '@/components/DocumentCard/styles'
 const DocumentsPage = () => {
 	const normDocuments = [
 		{
-			title: 'ІЧМ Додаток 1 Статут ІЧМ',
+			title: 'Статут ІЧМ',
 			link: '/norm_doc/ІЧМ Додаток 1 Статут ІЧМ.pdf',
 		},
 		{

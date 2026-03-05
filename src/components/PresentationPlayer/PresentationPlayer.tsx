@@ -66,27 +66,35 @@ const PresentationPlayer: FC<PresentationPlayerProps> = ({ pdfUrl }) => {
 	const [numPages, setNumPages] = useState(0)
 	const [page, setPage] = useState(1)
 	const [loading, setLoading] = useState(true)
+	const [error, setError] = useState<string | null>(null)
 	const canvasRef = useRef<HTMLCanvasElement>(null)
 	const playerRef = useRef<HTMLDivElement>(null)
 
+	const loadDoc = (url: string) => {
+		const absoluteUrl = url.startsWith('http') ? url : (typeof window !== 'undefined' ? window.location.origin + url : url)
+		return pdfjsLib.getDocument({ url: absoluteUrl }).promise
+	}
+
 	useEffect(() => {
-		let pdfDoc: any = null
+		setError(null)
 		setLoading(true)
-		pdfjsLib.getDocument(pdfUrl).promise.then((doc: any) => {
-			pdfDoc = doc
-			setNumPages(doc.numPages)
-			setLoading(false)
-			renderPage(doc, page)
-		})
+		loadDoc(pdfUrl)
+			.then((doc: any) => {
+				setNumPages(doc.numPages)
+				setLoading(false)
+				renderPage(doc, page)
+			})
+			.catch((err: any) => {
+				setLoading(false)
+				setError(err?.message ?? 'Не вдалося завантажити PDF')
+			})
 	}, [pdfUrl])
 
 	useEffect(() => {
-		if (numPages > 0) {
-			pdfjsLib.getDocument(pdfUrl).promise.then((doc: any) => {
-				renderPage(doc, page)
-			})
+		if (numPages > 0 && !error) {
+			loadDoc(pdfUrl).then((doc: any) => renderPage(doc, page))
 		}
-	}, [page, numPages, pdfUrl])
+	}, [page, numPages, pdfUrl, error])
 
 	const renderPage = (doc: any, pageNum: number) => {
 		doc.getPage(pageNum).then((pdfPage: any) => {
@@ -117,9 +125,11 @@ const PresentationPlayer: FC<PresentationPlayerProps> = ({ pdfUrl }) => {
 
 	return (
 		<PlayerContainer ref={playerRef}>
-			<SlideContent>
+			<SlideContent sx={{ minHeight: 360, bgcolor: '#f5f5f5' }}>
 				{loading ? (
-					<Typography color='#fff'>Загрузка...</Typography>
+					<Typography color='text.secondary'>Завантаження…</Typography>
+				) : error ? (
+					<Typography color='error' sx={{ px: 2, textAlign: 'center' }}>{error}</Typography>
 				) : (
 					<Canvas ref={canvasRef} />
 				)}
