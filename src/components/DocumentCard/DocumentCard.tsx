@@ -106,24 +106,29 @@ const DocumentCard = ({
 			>
 				{date}
 			</Typography>
-			<Typography
-				sx={{
-					position: 'absolute',
-					top: '7px',
-					left: '7px',
-					fontSize: '12px',
-					fontWeight: 700,
-					textTransform: 'uppercase',
-					color:
-						fileExtension === 'pdf'
-							? 'red'
-							: fileExtension === 'docx' || fileExtension === 'doc'
-							? 'blue'
-							: '#8A8A8A',
-				}}
-			>
-				{fileExtension === 'view?usp=sharing' ? 'google drive' : fileExtension}
-			</Typography>
+			{(fileExtension === 'pdf' ||
+				fileExtension === 'docx' ||
+				fileExtension === 'doc' ||
+				fileExtension === 'view?usp=sharing') && (
+				<Typography
+					sx={{
+						position: 'absolute',
+						top: '7px',
+						left: '7px',
+						fontSize: '12px',
+						fontWeight: 700,
+						textTransform: 'uppercase',
+						color:
+							fileExtension === 'pdf'
+								? 'red'
+								: fileExtension === 'docx' || fileExtension === 'doc'
+								? 'blue'
+								: '#8A8A8A',
+					}}
+				>
+					{fileExtension === 'view?usp=sharing' ? 'google drive' : fileExtension}
+				</Typography>
+			)}
 
 			{image && (
 				<Box
