@@ -1,5 +1,5 @@
 import { DocumentCard, DocumentTitleSearch } from '@/components'
-import { Box } from '@mui/material'
+import { Box, Typography } from '@mui/material'
 import { useTranslationData } from '@/hooks/useTranslationData'
 import { PlansGridData } from '@/components/DocumentCard/DocumentCardInterface'
 import { DocumentCardWrapper } from '@/components/DocumentCard/styles'
@@ -63,35 +63,59 @@ const IndividualPlansPage = () => {
 				{hasNewStructure && (generalPlans.length > 0 || individualPlans.length > 0) ? (
 					<>
 						{filteredGeneral.length > 0 && (
-							<Box
-								sx={{
-									display: 'flex',
-									flexDirection: 'column',
-									gap: '15px',
-									mb: '40px',
-								}}
-							>
-								{filteredGeneral.map((item, index) => (
-									<Box key={index} sx={{ maxWidth: '800px' }}>
+							<Box sx={{ mb: '40px' }}>
+								<Typography
+									component="h2"
+									sx={{
+										fontSize: '24px',
+										fontWeight: 700,
+										color: '#242424',
+										mb: '20px',
+									}}
+								>
+									{data.generalPlansTitle ?? 'Загальні навчальні плани'}
+								</Typography>
+								<Box
+									sx={{
+										display: 'grid',
+										gridTemplateColumns: { xxs: '1fr', sm: '1fr 1fr' },
+										gap: '25px',
+										maxWidth: '1220px',
+									}}
+								>
+									{filteredGeneral.map((item, index) => (
 										<DocumentCard
+											key={index}
 											title={item.title}
 											link={item.link}
 											date={item.date}
 										/>
-									</Box>
-								))}
+									))}
+								</Box>
 							</Box>
 						)}
 
 						{filteredIndividual.length > 0 && (
-							<Box
-								sx={{
-									display: 'grid',
-									gridTemplateColumns: { xxs: '1fr', sm: '1fr 1fr' },
-									gap: '25px',
-									justifyContent: 'center',
-								}}
-							>
+							<Box>
+								<Typography
+									component="h2"
+									sx={{
+										fontSize: '24px',
+										fontWeight: 700,
+										color: '#242424',
+										mb: '20px',
+									}}
+								>
+									{data.individualPlansTitle ?? 'Індивідуальні навчальні плани'}
+								</Typography>
+								<Box
+									sx={{
+										display: 'grid',
+										gridTemplateColumns: { xxs: '1fr', sm: '1fr 1fr' },
+										gap: '25px',
+										justifyContent: 'center',
+									}}
+								>
 								{filteredIndividual.flatMap((row, index) => [
 									<DocumentCard
 										key={`${index}-left`}
@@ -106,6 +130,7 @@ const IndividualPlansPage = () => {
 										date={row.right.date}
 									/>,
 								])}
+								</Box>
 							</Box>
 						)}
 					</>
