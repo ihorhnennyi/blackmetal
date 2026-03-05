@@ -1,26 +1,24 @@
 {
 	"title": "Study Plans",
-	"rows": [
+	"generalPlans": [
 		{
-			"left": {
-				"title": "132 Study Plan 2023-2024",
-				"link": "/plans/132-Навчальний-план-2023-2024.pdf"
-			},
-			"right": {
-				"title": "132 Study Plan 2024-2025",
-				"link": "/plans/132 Навчальний план 2024-2025.pdf"
-			}
+			"title": "132 Study Plan 2023-2024",
+			"link": "/plans/132-Навчальний-план-2023-2024.pdf"
 		},
 		{
-			"left": {
-				"title": "136 Study Plan 2023-2024",
-				"link": "/plans/136-Навчальний-план-2023-2024.pdf"
-			},
-			"right": {
-				"title": "G8 Study Plan 2025-2026",
-				"link": "/plans/G8 Навчальний план 2025-2026.pdf"
-			}
+			"title": "132 Study Plan 2024-2025",
+			"link": "/plans/132 Навчальний план 2024-2025.pdf"
 		},
+		{
+			"title": "136 Study Plan 2023-2024",
+			"link": "/plans/136-Навчальний-план-2023-2024.pdf"
+		},
+		{
+			"title": "G8 Study Plan 2025-2026",
+			"link": "/plans/G8 Навчальний план 2025-2026.pdf"
+		}
+	],
+	"individualPlans": [
 		{
 			"left": {
 				"title": "Study Plan for O. Safronova",
@@ -54,22 +52,22 @@
 		},
 		{
 			"left": {
-				"title": "Study Plan for I. Lyubeka",
-				"link": "/plans/Навчальний план Любека.pdf"
-			},
-			"right": {
-				"title": "Dissertation Plan for I. Lyubeka",
-				"link": "/plans/План дисертації Любека І.М..pdf"
-			}
-		},
-		{
-			"left": {
 				"title": "Study Plan for M. Ambrazheia",
 				"link": "/plans/Навчальний план Амбражеї М.Ю..pdf"
 			},
 			"right": {
 				"title": "Dissertation Plan for M. Ambrazheia",
 				"link": "/plans/План дисертації Амбражеї М.Ю..pdf"
+			}
+		},
+		{
+			"left": {
+				"title": "Study Plan for I. Lyubeka",
+				"link": "/plans/Навчальний план Любека.pdf"
+			},
+			"right": {
+				"title": "Dissertation Plan for I. Lyubeka",
+				"link": "/plans/План дисертації Любека І.М..pdf"
 			}
 		}
 	]

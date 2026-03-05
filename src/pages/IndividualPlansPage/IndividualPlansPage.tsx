@@ -10,18 +10,29 @@ const IndividualPlansPage = () => {
 
 	const [searchQuery, setSearchQuery] = useState('')
 
-	if (!data?.rows) {
+	if (!data) {
 		return null
 	}
 
+	const hasNewStructure =
+		data.generalPlans && data.individualPlans && data.generalPlans.length >= 0
+
 	const query = searchQuery.toLowerCase().trim()
-	const filteredRows = query
-		? data.rows.filter(
+
+	const generalPlans = data.generalPlans ?? []
+	const individualPlans = data.individualPlans ?? []
+
+	const filteredGeneral = query
+		? generalPlans.filter(item => item.title.toLowerCase().includes(query))
+		: generalPlans
+
+	const filteredIndividual = query
+		? individualPlans.filter(
 				row =>
 					row.left.title.toLowerCase().includes(query) ||
 					row.right.title.toLowerCase().includes(query)
 		  )
-		: data.rows
+		: individualPlans
 
 	const handleSearchChange = (query: string) => {
 		setSearchQuery(query)
@@ -30,6 +41,15 @@ const IndividualPlansPage = () => {
 	const handleSearchSubmit = (query: string) => {
 		setSearchQuery(query.trim())
 	}
+
+	const legacyRows = data.rows ?? []
+	const filteredLegacyRows = query
+		? legacyRows.filter(
+				row =>
+					row.left.title.toLowerCase().includes(query) ||
+					row.right.title.toLowerCase().includes(query)
+		  )
+		: legacyRows
 
 	return (
 		<Box sx={DocumentCardWrapper}>
@@ -40,29 +60,80 @@ const IndividualPlansPage = () => {
 			/>
 
 			<Box sx={{ maxWidth: '1220px', m: '0px auto' }}>
-				<Box
-					sx={{
-						display: 'grid',
-						gridTemplateColumns: { xxs: '1fr', sm: '1fr 1fr' },
-						gap: '25px',
-						justifyContent: 'center',
-					}}
-				>
-					{filteredRows.flatMap((row, index) => [
-						<DocumentCard
-							key={`${index}-left`}
-							title={row.left.title}
-							link={row.left.link}
-							date={row.left.date}
-						/>,
-						<DocumentCard
-							key={`${index}-right`}
-							title={row.right.title}
-							link={row.right.link}
-							date={row.right.date}
-						/>,
-					])}
-				</Box>
+				{hasNewStructure && (generalPlans.length > 0 || individualPlans.length > 0) ? (
+					<>
+						{filteredGeneral.length > 0 && (
+							<Box
+								sx={{
+									display: 'flex',
+									flexDirection: 'column',
+									gap: '15px',
+									mb: '40px',
+								}}
+							>
+								{filteredGeneral.map((item, index) => (
+									<Box key={index} sx={{ maxWidth: '800px' }}>
+										<DocumentCard
+											title={item.title}
+											link={item.link}
+											date={item.date}
+										/>
+									</Box>
+								))}
+							</Box>
+						)}
+
+						{filteredIndividual.length > 0 && (
+							<Box
+								sx={{
+									display: 'grid',
+									gridTemplateColumns: { xxs: '1fr', sm: '1fr 1fr' },
+									gap: '25px',
+									justifyContent: 'center',
+								}}
+							>
+								{filteredIndividual.flatMap((row, index) => [
+									<DocumentCard
+										key={`${index}-left`}
+										title={row.left.title}
+										link={row.left.link}
+										date={row.left.date}
+									/>,
+									<DocumentCard
+										key={`${index}-right`}
+										title={row.right.title}
+										link={row.right.link}
+										date={row.right.date}
+									/>,
+								])}
+							</Box>
+						)}
+					</>
+				) : (
+					<Box
+						sx={{
+							display: 'grid',
+							gridTemplateColumns: { xxs: '1fr', sm: '1fr 1fr' },
+							gap: '25px',
+							justifyContent: 'center',
+						}}
+					>
+						{filteredLegacyRows.flatMap((row, index) => [
+							<DocumentCard
+								key={`${index}-left`}
+								title={row.left.title}
+								link={row.left.link}
+								date={row.left.date}
+							/>,
+							<DocumentCard
+								key={`${index}-right`}
+								title={row.right.title}
+								link={row.right.link}
+								date={row.right.date}
+							/>,
+						])}
+					</Box>
+				)}
 			</Box>
 		</Box>
 	)

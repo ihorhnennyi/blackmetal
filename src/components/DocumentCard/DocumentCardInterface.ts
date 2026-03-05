@@ -16,10 +16,10 @@ export interface PlansRowItem extends Pick<DocumentCardProps, 'title' | 'link' |
 
 export interface PlansGridData {
 	title: string
-	rows: Array<{
-		left: PlansRowItem
-		right: PlansRowItem
-	}>
+	generalPlans?: PlansRowItem[]
+	individualPlans?: Array<{ left: PlansRowItem; right: PlansRowItem }>
+	/** @deprecated use generalPlans + individualPlans */
+	rows?: Array<{ left: PlansRowItem; right: PlansRowItem }>
 }
 
 export interface Syllabus132SectionItem {
