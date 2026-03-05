@@ -24,7 +24,7 @@ const DocumentCard = ({
 	}
 
 	const fileName = getFileNameFromUrl(link)
-	const fileExtension = getFileExtensionFromUrl(fileName)
+	const fileExtension = getFileExtensionFromUrl(fileName).toLowerCase()
 	const fileLink =
 		link.startsWith('http')
 			? link
