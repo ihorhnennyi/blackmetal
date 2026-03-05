@@ -59,7 +59,49 @@ export default defineConfig({
         } catch (_) {}
         next()
       }
-      // Run our middleware first so /plans/*.pdf is served before SPA fallback
+      const developmentsDir = path.resolve(process.cwd(), 'public', 'developments')
+      const developmentsMiddleware = (req, res, next) => {
+        const url = req.url?.split('?')[0] ?? ''
+        if (!url.startsWith('/developments/')) return next()
+        try {
+          const pathPart = url.replace(/^\/developments\//, '').split('?')[0].trim()
+          const fileName = pathPart.includes('%') ? decodeURIComponent(pathPart) : pathPart
+          const filePath = path.join(developmentsDir, fileName)
+          const safePath = path.normalize(filePath)
+          if (!safePath.startsWith(developmentsDir)) return next()
+          if (fs.existsSync(safePath)) {
+            const ext = path.extname(fileName).toLowerCase()
+            const mime =
+              ext === '.pdf'
+                ? 'application/pdf'
+                : ext === '.ppt' || ext === '.pptx'
+                  ? 'application/vnd.ms-powerpoint'
+                  : 'application/octet-stream'
+            res.setHeader('Content-Type', mime)
+            res.setHeader('Content-Disposition', 'inline')
+            fs.createReadStream(safePath).pipe(res)
+            return
+          }
+          const files = fs.readdirSync(developmentsDir)
+          const match = files.find((f) => fileName === f)
+          if (match) {
+            const ext = path.extname(match).toLowerCase()
+            const mime =
+              ext === '.pdf'
+                ? 'application/pdf'
+                : ext === '.ppt' || ext === '.pptx'
+                  ? 'application/vnd.ms-powerpoint'
+                  : 'application/octet-stream'
+            res.setHeader('Content-Type', mime)
+            res.setHeader('Content-Disposition', 'inline')
+            fs.createReadStream(path.join(developmentsDir, match)).pipe(res)
+            return
+          }
+        } catch (_) {}
+        next()
+      }
+      // Run our middleware first so /plans/*.pdf and /developments/* are served before SPA fallback
+      server.middlewares.stack.unshift({ route: '', handle: developmentsMiddleware })
       server.middlewares.stack.unshift({ route: '', handle: plansPdfMiddleware })
     }
   }
