@@ -46,7 +46,8 @@ const StrategyDirection = ({ text, index }: StrategyDirectionProps) => {
           lineHeight: 1.6,
           color: '#333',
           textAlign: 'justify',
-          flex: 1
+          flex: 1,
+          whiteSpace: 'pre-line'
         }}
       >
         {text}
