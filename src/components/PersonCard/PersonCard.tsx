@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { Box, Typography, Button } from '@mui/material'
 import { useNavigate } from 'react-router-dom'
 import PersonIcon from '@mui/icons-material/Person'
@@ -20,6 +20,8 @@ const PersonCard = ({
 }: PersonCardInterface) => {
 	const navigate = useNavigate()
 	const { t } = useTranslation()
+	const [photoError, setPhotoError] = useState(false)
+	const showPhotoPlaceholder = !photo || photoError
 
 	const hasDetailedInfo = !!(
 		biography ||
@@ -96,34 +98,45 @@ const PersonCard = ({
 					},
 				}}
 			>
-				<Box
-					sx={{
-						width: '43%',
-						aspectRatio: '0.7505 / 1',
-						bgcolor: '#FFFFFF',
-						backgroundImage: photo ? `url(${photo})` : 'none',
-						backgroundRepeat: 'no-repeat',
-						backgroundPosition: 'center',
-						backgroundSize: 'cover',
-						display: 'flex',
-						justifyContent: 'center',
-						alignItems: 'center',
-						'@media (max-width: 600px)': {
+			<Box
+				sx={{
+					width: '43%',
+					aspectRatio: '0.7505 / 1',
+					bgcolor: '#F5F5F5',
+					backgroundRepeat: 'no-repeat',
+					backgroundPosition: 'center',
+					backgroundSize: 'cover',
+					display: 'flex',
+					justifyContent: 'center',
+					alignItems: 'center',
+					overflow: 'hidden',
+					'@media (max-width: 600px)': {
+						width: '100%',
+						aspectRatio: '1 / 1',
+					},
+				}}
+			>
+				{showPhotoPlaceholder ? (
+					<PersonIcon
+						sx={{
+							fontSize: '120px',
+							color: '#2D7A84',
+						}}
+					/>
+				) : (
+					<Box
+						component="img"
+						src={photo}
+						alt=""
+						onError={() => setPhotoError(true)}
+						sx={{
 							width: '100%',
-							aspectRatio: '1 / 1',
-							backgroundSize: 'contain',
-						},
-					}}
-				>
-					{!photo && (
-						<PersonIcon
-							sx={{
-								fontSize: '120px',
-								color: '#2D7A84',
-							}}
-						/>
-					)}
-				</Box>
+							height: '100%',
+							objectFit: 'cover',
+						}}
+					/>
+				)}
+			</Box>
 				<Box
 					sx={{
 						width: '57%',

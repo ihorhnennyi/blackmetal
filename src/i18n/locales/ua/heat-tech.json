@@ -1,33 +1,33 @@
 {
     "title": "Лабораторія теплотехніки та енергозберігаючих технологій доменної плавки",
     "firstPersonCard": {
-        "id": "chaika-oleksii-leonidovych",
-        "photo": "/employees/chaika-oleksii-leonidovych.jpg",
-        "position": "Завідувач лабораторією",
-        "name": "Чайка Олексій Леонідович",
-        "description": "Старший науковий співробітник, кандидат технічних наук",
-        "researchDirection": "Розвиток та реалізація нового наукового напряму в області доменного виробництва – системної надійності при виробництві чавуну: пошук формалізованими методами і на основі дослідних плавок, компромісних рішень, які забезпечують, необхідний об’єм виплавки чавуну заданої якості, мінімальну витрату енергетичних ресурсів і забезпечення технічної надійності доменної печі та агрегатів, що її обслуговують, мінімального шкідливого впливу виробництва на оточуюче середовище.",
-        "specialization": "05.16.02  ”Металургія чорних і кольорових металів та спеціальних сплавів”",
+        "id": "kornilov",
+        "photo": "/employees/kornilov.jpg",
+        "position": "Виконуючий обов'язків завідувача лабораторією",
+        "name": "Корнілов Богдан Володимирович",
+        "description": "Кандидат технічних наук",
+        "researchDirection": "Розробка математичних моделей теплової роботи та моніторингу теплових втрат, розпалу футерівки шахти та горнів доменних печей, теплових втрат доменної печі, у тому числі для діагностування на ранніх стадіях розладів у роботі печі. Вдосконалення існуючих технологій та розробка нових технологій (у тому числі використання водневмісного палива), спрямованих на декарбонізацію доменного виробництва.",
+        "specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
         "contacts": [
             {
                 "type": "Email",
-                "value": "chaykadp@gmail.com"
+                "value": "balesan2209@gmail.com"
             },
             {
                 "type": "ORCID ID",
-                "value": "https://orcid.org/0000-0003-1678-2580"
+                "value": "https://orcid.org/0000-0002-5544-3023"
             },
             {
                 "type": "Google Scholar",
-                "value": "https://scholar.google.com/citations?user=MA7tga8AAAAJ&hl=ru"
+                "value": "https://scholar.google.com.ua/citations?user=eRjJNjQAAAAJ"
             },
             {
                 "type": "Scopus Author ID",
-                "value": "https://www.scopus.com/authid/detail.uri?authorId=15044043200"
+                "value": "https://www.scopus.com/authid/detail.uri?authorId=57204979621"
             },
             {
                 "type": "bibliographic",
-                "value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0013008"
+                "value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0024770"
             }
         ]
     },
@@ -47,10 +47,10 @@
                     "type": "ORCID ID",
                     "value": "https://orcid.org/0000-0003-3062-5127"
                 },
-				{
-					"type": "Scopus Author ID",
-					"value": "https://www.scopus.com/authid/detail.uri?authorId=57327615900"
-				}
+                {
+                    "type": "Scopus Author ID",
+                    "value": "https://www.scopus.com/authid/detail.uri?authorId=57327615900"
+                }
             ]
         },
         {
@@ -80,36 +80,6 @@
                 {
                     "type": "bibliographic",
                     "value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0011794"
-                }
-            ]
-        },
-        {
-            "id": "kornilov",
-            "position": "Старший науковий співробітник",
-            "name": "Корнілов Богдан Володимирович",
-            "description": "Кандидат технічних наук",
-            "researchDirection": "Розробка математичних моделей теплової роботи та моніторингу теплових втрат, розпалу футерівки шахти та горнів доменних печей, теплових втрат доменної печі, у тому числі для діагностування на ранніх стадіях розладів у роботі печі. Вдосконалення існуючих технологій та розробка нових технологій (у тому числі використання водневмісного палива), спрямованих на декарбонізацію доменного виробництва.",
-            "specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
-            "contacts": [
-                {
-                    "type": "Email",
-                    "value": "balesan2209@gmail.com"
-                },
-                {
-                    "type": "ORCID ID",
-                    "value": "https://orcid.org/0000-0002-5544-3023"
-                },
-                {
-                    "type": "Google Scholar",
-                    "value": "https://scholar.google.com.ua/citations?user=eRjJNjQAAAAJ"
-                },
-                {
-                    "type": "Scopus Author ID",
-                    "value": "https://www.scopus.com/authid/detail.uri?authorId=57204979621"
-                },
-                {
-                    "type": "bibliographic",
-                    "value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0024770"
                 }
             ]
         },
@@ -148,58 +118,58 @@
             "specialization": "",
             "contacts": [
                 {
-					"type": "Email",
-					"value": "izumnick@gmail.com"
-				},
+                    "type": "Email",
+                    "value": "izumnick@gmail.com"
+                },
                 {
-					"type": "ORCID ID",
-					"value": "https://orcid.org/0000-0002-5164-4450"
-				},
+                    "type": "ORCID ID",
+                    "value": "https://orcid.org/0000-0002-5164-4450"
+                },
                 {
                     "type": "Scopus Author ID",
                     "value": "https://www.scopus.com/authid/detail.uri?authorId=6508212473"
                 }
             ]
         },
-		{
-			"id": "merkulov",
-			"photo":"/employees/merkulov.jpg",
-			"position": "Заступник директора з наукової роботи,  старший науковий співробітник",
-			"name": "Меркулов Олексій Євгенович",
-			"description": "Доктор технічних наук",
-			"researchDirection": "Системний аналіз металургії чавуну та сталі, удосконалення паливовикористання в металургійних процесах, розвиток нових енергозаощаджуючих металургійних технологій отримання металів.",
-			"specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
-			"contacts": [
-				{
-					"type": "Email",
-					"value": "merkulov1@ukr.net"
-				},
-				{
-					"type": "Encyclopedia",
-					"value": "https://esu.com.ua/article-885114"
-				},
-				{
-					"type": "Google Scholar",
-					"value": "https://scholar.google.com.ua/citations?user=_yXSDsEAAAAJ&hl=uk"
-				},
-				{
-					"type": "ORCID iD",
-					"value": "https://orcid.org/0000-0002-7867-0659"
-				},
-				{
-					"type": "Scopus Author ID",
-					"value": "https://www.scopus.com/authid/detail.uri?authorId=35771153100"
-				},
-				{
-					"type": "webofscience",
-					"value": ""
-				},
+        {
+            "id": "merkulov",
+            "photo": "/employees/merkulov.jpg",
+            "position": "Заступник директора з наукової роботи,  старший науковий співробітник",
+            "name": "Меркулов Олексій Євгенович",
+            "description": "Доктор технічних наук",
+            "researchDirection": "Системний аналіз металургії чавуну та сталі, удосконалення паливовикористання в металургійних процесах, розвиток нових енергозаощаджуючих металургійних технологій отримання металів.",
+            "specialization": "05.16.02 – Металургія чорних і кольорових металів та спеціальних сплавів",
+            "contacts": [
+                {
+                    "type": "Email",
+                    "value": "merkulov1@ukr.net"
+                },
+                {
+                    "type": "Encyclopedia",
+                    "value": "https://esu.com.ua/article-885114"
+                },
+                {
+                    "type": "Google Scholar",
+                    "value": "https://scholar.google.com.ua/citations?user=_yXSDsEAAAAJ&hl=uk"
+                },
+                {
+                    "type": "ORCID iD",
+                    "value": "https://orcid.org/0000-0002-7867-0659"
+                },
+                {
+                    "type": "Scopus Author ID",
+                    "value": "https://www.scopus.com/authid/detail.uri?authorId=35771153100"
+                },
+                {
+                    "type": "webofscience",
+                    "value": ""
+                },
                 {
                     "type": "bibliographic",
                     "value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0015295"
                 }
-			]
-		},
+            ]
+        },
         {
             "id": "gubinskij",
             "photo": "/employees/gubinskij.jpg",

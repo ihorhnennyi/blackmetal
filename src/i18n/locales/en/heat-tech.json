@@ -1,34 +1,34 @@
 {
     "title": "Laboratory of Heat Engineering and Energy-Saving Technologies of Blast Furnace Smelting",
     "firstPersonCard": {
-        "id": "chaika-oleksii-leonidovych",
-        "photo": "/employees/chaika-oleksii-leonidovych.jpg",
-        "position": "Head of Laboratory",
-        "name": "Chaika Oleksii Leonidovych",
-        "description": "Senior Researcher, Candidate of Technical Sciences",
-        "researchDirection": "Development and implementation of a new scientific direction in the field of blast furnace production – systemic reliability in pig iron production: search for compromise solutions using formalized methods and based on experimental melts, which ensure the required volume of pig iron of specified quality, minimal consumption of energy resources and ensuring the technical reliability of the blast furnace and its servicing units, minimal harmful impact of production on the environment.",
-        "specialization": "05.16.02  \"Metallurgy of Ferrous, Non-Ferrous Metals and Special Alloys\"",
+        "id": "kornilov",
+        "photo": "/employees/kornilov.jpg",
+        "position": "Acting Head of the Laboratory",
+        "name": "Kornilov Bohdan Volodymyrovych",
+        "description": "Candidate of Technical Sciences",
+        "researchDirection": "Development of mathematical models for thermal performance and monitoring of heat losses, lining wear in the shaft and hearth of blast furnaces, heat losses of the blast furnace, including for diagnosing disorders in furnace operation at early stages. Improvement of existing technologies and development of new technologies (including the use of hydrogen-containing fuel) aimed at decarbonization of blast furnace production.",
+        "specialization": "05.16.02 – Metallurgy of Ferrous, Non-Ferrous Metals and Special Alloys",
         "contacts": [
-			{
-				"type": "Email",
-				"value": "chaykadp@gmail.com"
-			},
-			{
-				"type": "ORCID ID",
-				"value": "https://orcid.org/0000-0003-1678-2580"
-			},
-			{
-				"type": "Google Scholar",
-				"value": "https://scholar.google.com/citations?user=MA7tga8AAAAJ&hl=ru"
-			},
-			{
-				"type": "Scopus Author ID",
-				"value": "https://www.scopus.com/authid/detail.uri?authorId=15044043200"
-			},
-			{
-				"type": "bibliographic",
-				"value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0013008"
-			}
+            {
+                "type": "Email",
+                "value": "balesan2209@gmail.com"
+            },
+            {
+                "type": "ORCID ID",
+                "value": "https://orcid.org/0000-0002-5544-3023"
+            },
+            {
+                "type": "Google Scholar",
+                "value": "https://scholar.google.com.ua/citations?user=eRjJNjQAAAAJ"
+            },
+            {
+                "type": "Scopus Author ID",
+                "value": "https://www.scopus.com/authid/detail.uri?authorId=57204979621"
+            },
+            {
+                "type": "bibliographic",
+                "value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0024770"
+            }
         ]
     },
     "staffCards": [
@@ -80,36 +80,6 @@
                 {
                     "type": "bibliographic",
                     "value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0011794"
-                }
-            ]
-        },
-        {
-            "id": "kornilov",
-            "position": "Senior Researcher",
-            "name": "Kornilov Bohdan Volodymyrovych",
-            "description": "Candidate of Technical Sciences",
-            "researchDirection": "Development of mathematical models for thermal performance and monitoring of heat losses, lining wear in the shaft and hearth of blast furnaces, heat losses of the blast furnace, including for diagnosing disorders in furnace operation at early stages. Improvement of existing technologies and development of new technologies (including the use of hydrogen-containing fuel) aimed at decarbonization of blast furnace production.",
-            "specialization": "05.16.02 – Metallurgy of Ferrous, Non-Ferrous Metals and Special Alloys",
-            "contacts": [
-                {
-                    "type": "Email",
-                    "value": "balesan2209@gmail.com"
-                },
-                {
-                    "type": "ORCID ID",
-                    "value": "https://orcid.org/0000-0002-5544-3023"
-                },
-                {
-                    "type": "Google Scholar",
-                    "value": "https://scholar.google.com.ua/citations?user=eRjJNjQAAAAJ"
-                },
-                {
-                    "type": "Scopus Author ID",
-                    "value": "https://www.scopus.com/authid/detail.uri?authorId=57204979621"
-                },
-                {
-                    "type": "bibliographic",
-                    "value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0024770"
                 }
             ]
         },

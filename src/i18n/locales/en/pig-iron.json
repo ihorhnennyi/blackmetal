@@ -1,29 +1,33 @@
 {
 	"title": "Department of Pig Iron Metallurgy",
 	"firstPersonCard": {
-		"id": "nesterov",
-		"photo": "/employees/nesterov.jpg",
+		"id": "chaika-oleksii-leonidovych",
+		"photo": "/employees/chaika-oleksii-leonidovych.jpg",
 		"position": "Head of Department, Senior Researcher",
-		"name": "Nesterov Oleksandr Stanislavovych",
-		"description": "Candidate of Technical Sciences",
-		"researchDirection": "Development of methods for controlling and managing the metallurgical properties of charge materials, experimental research of their high-temperature characteristics with subsequent forecasting of their use for forming a rational raw material agglomeration and pig iron smelting technology, including with a high proportion of secondary resources. Development and technological support of methods and measures aimed at extending the campaign of blast furnaces, ensuring the formation of stable protective skull in the lower zone of the shaft, bosh and hearth of blast furnaces, as well as washing the blast furnace hearth from fine coke fractions. Research on possibilities for reducing carbon use in blast furnace production, including when using hydrogen.",
-		"specialization": "05.16.02 – Metallurgy of Ferrous, Non-Ferrous Metals and Special Alloys",
+		"name": "Chaika Oleksii Leonidovych",
+		"description": "Senior Researcher, Candidate of Technical Sciences",
+		"researchDirection": "Development and implementation of a new scientific direction in the field of blast furnace production – systemic reliability in pig iron production: search for compromise solutions using formalized methods and based on experimental melts, which ensure the required volume of pig iron of specified quality, minimal consumption of energy resources and ensuring the technical reliability of the blast furnace and its servicing units, minimal harmful impact of production on the environment.",
+		"specialization": "05.16.02  \"Metallurgy of Ferrous, Non-Ferrous Metals and Special Alloys\"",
 		"contacts": [
 			{
 				"type": "Email",
-				"value": "asn.dnepr@gmail.com"
+				"value": "chaykadp@gmail.com"
 			},
 			{
 				"type": "ORCID ID",
-				"value": "https://orcid.org/0000-0002-0183-0327"
+				"value": "https://orcid.org/0000-0003-1678-2580"
 			},
 			{
 				"type": "Google Scholar",
-				"value": "https://scholar.google.com.ua/citations?user=zaBZXuIAAAAJ"
+				"value": "https://scholar.google.com/citations?user=MA7tga8AAAAJ&hl=ru"
 			},
 			{
 				"type": "Scopus Author ID",
-				"value": "https://www.scopus.com/authid/detail.uri?authorId=7101991279"
+				"value": "https://www.scopus.com/authid/detail.uri?authorId=15044043200"
+			},
+			{
+				"type": "bibliographic",
+				"value": "https://nbuviap.gov.ua/bpnu/bpnu_profile.php?bpnuid=BUN0013008"
 			}
 		]
 	},
@@ -62,6 +66,33 @@
 		]
 	},
 	"staffCards": [
+		{
+			"id": "nesterov",
+			"photo": "/employees/nesterov.jpg",
+			"position": "Senior Researcher",
+			"name": "Nesterov Oleksandr Stanislavovych",
+			"description": "Candidate of Technical Sciences",
+			"researchDirection": "Development of methods for controlling and managing the metallurgical properties of charge materials, experimental research of their high-temperature characteristics with subsequent forecasting of their use for forming a rational raw material agglomeration and pig iron smelting technology, including with a high proportion of secondary resources. Development and technological support of methods and measures aimed at extending the campaign of blast furnaces, ensuring the formation of stable protective skull in the lower zone of the shaft, bosh and hearth of blast furnaces, as well as washing the blast furnace hearth from fine coke fractions. Research on possibilities for reducing carbon use in blast furnace production, including when using hydrogen.",
+			"specialization": "05.16.02 – Metallurgy of Ferrous, Non-Ferrous Metals and Special Alloys",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "asn.dnepr@gmail.com"
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-0183-0327"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=zaBZXuIAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=7101991279"
+				}
+			]
+		},
 		{
 			"id": "harmash",
 			"photo": "/employees/harmash.jpg",
