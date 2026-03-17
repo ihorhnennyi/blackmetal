@@ -1153,6 +1153,31 @@
           ]
         }
       ]
+    },
+    {
+      "id": 24,
+      "title": "Competition announced for the position of Director of IChM",
+      "text": "The National Academy of Sciences of Ukraine announces a competition for the positions of directors of scientific institutions.",
+      "content": [
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "The National Academy of Sciences of Ukraine announces a competition for the positions of directors of scientific institutions. More information "
+            },
+            {
+              "type": "link",
+              "value": "on the NAS of Ukraine website",
+              "href": "https://www.nas.gov.ua/news/nacionalna-akademiya-nauk-ukrani-ogoloshuye-konkurs-na-posadi-direktoriv-naukovih-ustanov"
+            },
+            {
+              "type": "text",
+              "value": "."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
