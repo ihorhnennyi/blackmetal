@@ -452,6 +452,40 @@
 					"value": ""
 				}
 			]
+		},
+		{
+			"id": "liubeka-ihor-mykhailovych",
+			"photo": "/employees/liubeka-ihor-mykhailovych.jpg",
+			"position": "Інженер I категорії, аспірант",
+			"name": "Любека Ігор Михайлович",
+			"researchDirection": "Основні напрями наукової діяльності:\n\n• Розробка установок високоточного керування термічними градієнтами для дослідження процесів кристалізації та структуроутворення в металевих і неметалевих матеріалах;\n• Керування кристалічною будовою матеріалів шляхом регулювання теплових режимів;\n• Дослідження теплових процесів під час формування структури матеріалів.",
+			"specialization": "G8 – Матеріалознавство",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "lubekawork@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0005-2440-5496"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=3D7YJHQAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": ""
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
 		}
 	]
 }

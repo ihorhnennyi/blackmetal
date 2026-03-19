@@ -42,6 +42,7 @@ export const PersonDetails = ({
 							lineHeight: 1.6,
 							marginBottom: '25px',
 							textAlign: 'left',
+							whiteSpace: 'pre-line',
 						}}
 					>
 						{researchDirection}

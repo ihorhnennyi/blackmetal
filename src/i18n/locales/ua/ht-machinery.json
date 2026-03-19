@@ -387,6 +387,40 @@
 					"value": ""
 				}
 			]
+		},
+		{
+			"id": "ambrazhei-maksym-yuriiovych",
+			"photo": "/employees/ambrazhei-maksym-yuriiovych.jpg",
+			"position": "Інженер I категорії, аспірант",
+			"name": "Амбражей Максим Юрійович",
+			"researchDirection": "Основні напрями наукової діяльності:\n\n• закономірності та особливості формування субструктури й фазового складу в сталях і сплавах під час деформаційно-термічного впливу;\n• закономірності та особливості перебігу фазово-структурних перетворень у низьковуглецевих легованих сталях за безперервного охолодження;\n• розроблення сучасних технічних рішень щодо отримання арматурного прокату за комбінованої технології його виготовлення.",
+			"specialization": "G8 – Матеріалознавство",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ambrazhey@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-6564-4312"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=gW_Pq1QAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55539469700"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/LBI-2956-2024"
+				}
+			]
 		}
 	]
 }

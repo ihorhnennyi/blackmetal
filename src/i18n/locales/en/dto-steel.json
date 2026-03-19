@@ -452,6 +452,40 @@
 					"value": ""
 				}
 			]
+		},
+		{
+			"id": "liubeka-ihor-mykhailovych",
+			"photo": "/employees/liubeka-ihor-mykhailovych.jpg",
+			"position": "Engineer (Category I), PhD student",
+			"name": "Liubeka Ihor Mykhailovych",
+			"researchDirection": "Main areas of scientific activity:\n\n• Development of high-precision thermal gradient control systems for studying crystallization and structure formation processes in metallic and non-metallic materials;\n• Control of the crystalline structure of materials by regulating thermal regimes;\n• Study of thermal processes during the formation of the structure of materials.",
+			"specialization": "G8 – Materials Science",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "lubekawork@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0009-0005-2440-5496"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=3D7YJHQAAAAJ"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": ""
+				},
+				{
+					"type": "webofscience",
+					"value": ""
+				}
+			]
 		}
 	]
 }

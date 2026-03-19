@@ -367,6 +367,40 @@
 					"value": ""
 				}
 			]
+		},
+		{
+			"id": "ambrazhei-maksym-yuriiovych",
+			"photo": "/employees/ambrazhei-maksym-yuriiovych.jpg",
+			"position": "Engineer (Category I), PhD student",
+			"name": "Ambrazhei Maksym Yuriiovych",
+			"researchDirection": "Main areas of scientific activity:\n\n• regularities and features of the formation of the substructure and phase composition in steels and alloys during deformation and thermal exposure;\n• regularities and features of the course of phase-structural transformations in low-carbon alloyed steels during continuous cooling;\n• development of modern technical solutions for obtaining reinforcing steel using a combined manufacturing technology.",
+			"specialization": "G8 – Materials Science",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "ambrazhey@gmail.com"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": ""
+				},
+				{
+					"type": "ORCID ID",
+					"value": "https://orcid.org/0000-0002-6564-4312"
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?user=gW_Pq1QAAAAJ&hl=uk"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=55539469700"
+				},
+				{
+					"type": "webofscience",
+					"value": "https://www.webofscience.com/wos/author/record/LBI-2956-2024"
+				}
+			]
 		}
 	]
 }

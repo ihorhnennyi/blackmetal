@@ -3,7 +3,7 @@ import { Box, Typography, Button } from '@mui/material'
 import { useNavigate } from 'react-router-dom'
 import PersonIcon from '@mui/icons-material/Person'
 import { PersonCardInterface } from './PersonCardInterface'
-import { CommonTextStyles, CommonButtonStyles } from '../../utils'
+import { CommonTextStyles, CommonButtonStyles, encodePublicAssetPath } from '../../utils'
 import { useTranslation } from 'react-i18next'
 
 const PersonCard = ({
@@ -126,7 +126,7 @@ const PersonCard = ({
 				) : (
 					<Box
 						component="img"
-						src={photo}
+						src={encodePublicAssetPath(photo)}
 						alt=""
 						onError={() => setPhotoError(true)}
 						sx={{
