@@ -14,3 +14,4 @@ export { default as MonoCard } from './MonoCard'
 export { default as PersonInfoLayout } from './PersonInfoLayout'
 
 export { default as PresentationPlayer } from './PresentationPlayer'
+export { default as OfficePresentationEmbed } from './OfficePresentationEmbed'

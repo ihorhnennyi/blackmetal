@@ -7,8 +7,10 @@ import SendIcon from '@mui/icons-material/Send'
 import FullscreenIcon from '@mui/icons-material/Fullscreen'
 import * as pdfjsLib from 'pdfjs-dist/legacy/build/pdf'
 import { PresentationPlayerProps } from './types'
+// Worker з того ж pdfjs-dist, що й API — без розсинхрону версій (як з /pdf.worker.min.js)
+import pdfjsWorker from 'pdfjs-dist/legacy/build/pdf.worker.min.mjs?url'
 
-pdfjsLib.GlobalWorkerOptions.workerSrc = '/pdf.worker.min.js'
+pdfjsLib.GlobalWorkerOptions.workerSrc = pdfjsWorker
 
 const PlayerContainer = styled(Box)(({ theme }) => ({
 	width: '100%',

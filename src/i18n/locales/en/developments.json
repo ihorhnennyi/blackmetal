@@ -1,6 +1,20 @@
 {
 	"title": "Main Developments",
-	"presentationPdfUrl": "/developments/ІЧМ 2019-2024 22 мая+.ppt.pdf",
-	"presentationLink": "/developments/ІЧМ 2019-2024 22 мая+.ppt",
-	"presentationLabel": "Download presentation (.ppt)"
-} 
+	"openInNewTab": "Open PDF in new tab",
+	"officeLocalhostNote": "PowerPoint embed works on the published site (HTTPS). On localhost Microsoft cannot load the file — showing the PDF slide version instead.",
+	"officeHttpNote": "If the PowerPoint viewer is empty, the site should be served over HTTPS; use the PDF or download the .ppt file.",
+	"presentations": [
+		{
+			"id": "ichm-2019-2024",
+			"label": "ІЧМ 2019–2024 (presentation)",
+			"pdfPath": "/developments/ІЧМ 2019-2024 22 мая+.pdf",
+			"officePresentationPath": "/developments/ІЧМ 2019-2024 22 мая+.ppt",
+			"downloadLabel": "Download presentation (.ppt)"
+		},
+		{
+			"id": "ichm-rozrobky",
+			"label": "ІЧМ — developments",
+			"pdfPath": "/ІЧМ розробки.pdf"
+		}
+	]
+}

@@ -1,6 +1,20 @@
 {
 	"title": "Основні розробки",
-	"presentationPdfUrl": "/developments/ІЧМ 2019-2024 22 мая+.ppt.pdf",
-	"presentationLink": "/developments/ІЧМ 2019-2024 22 мая+.ppt",
-	"presentationLabel": "Скачати презентацію (.ppt)"
-} 
+	"openInNewTab": "Відкрити PDF у новій вкладці",
+	"officeLocalhostNote": "Перегляд PowerPoint у вікні нижче на опублікованому сайті (HTTPS). На localhost Office не може завантажити файл — показано PDF-версію слайдів.",
+	"officeHttpNote": "Якщо вбудований переглядач PowerPoint не відкрився, сайт має бути доступний по HTTPS; тоді скористайтесь PDF або завантажте .ppt.",
+	"presentations": [
+		{
+			"id": "ichm-2019-2024",
+			"label": "ІЧМ 2019–2024 (презентація)",
+			"pdfPath": "/developments/ІЧМ 2019-2024 22 мая+.pdf",
+			"officePresentationPath": "/developments/ІЧМ 2019-2024 22 мая+.ppt",
+			"downloadLabel": "Скачати презентацію (.ppt)"
+		},
+		{
+			"id": "ichm-rozrobky",
+			"label": "ІЧМ — розробки",
+			"pdfPath": "/ІЧМ розробки.pdf"
+		}
+	]
+}
