@@ -29,6 +29,11 @@
           "id": "procurement",
           "label": "Procurement",
           "href": "/about/procurement"
+        },
+        {
+          "id": "ichm",
+          "label": "ІЧМ",
+          "link": "/ІЧМ.pdf"
         }
       ]
     },

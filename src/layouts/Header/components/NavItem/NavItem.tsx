@@ -130,7 +130,7 @@ export const NavItem = ({
 					{subItem.link ? (
 						<MUILink
 							href={isJournal ? 'https://jrn.isi.gov.ua/' : subItem.link}
-							target={subItem.link.startsWith('http') ? '_blank' : undefined}
+							target='_blank'
 							rel='noopener noreferrer'
 							sx={{ textDecoration: 'none' }}
 						>
