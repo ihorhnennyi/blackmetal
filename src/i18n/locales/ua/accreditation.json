@@ -13,5 +13,19 @@
 			"title": "Відомості про самооцінювання 132 Матеріалознавство",
 			"link": "/accreditation/Відомості_про_самооцінювання_2024_ІЧМ.pdf"
 		}
-	]
+	],
+	"visitProgram": {
+		"documentTitle": "Програма візиту експертної групи",
+		"pdfPath": "/accreditation/Програма візиту ЕГ_ID_57009 (final ver.).pdf"
+	},
+	"openMeeting": {
+		"sectionTitle": "Відкрита зустріч з експертами",
+		"timeLabel": "Час: 25 березня 2026 о 15:00",
+		"joinLabel": "Приєднатись",
+		"zoomUrl": "https://us04web.zoom.us/j/78622875564?pwd=mv2516hvIgVeioKRDVWfyXQDTLgPxj.1",
+		"conferenceIdLabel": "ID конференції:",
+		"conferenceId": "786 2287 5564",
+		"passwordLabel": "Пароль:",
+		"password": "2026"
+	}
 }

@@ -13,5 +13,19 @@
 			"title": "Self-Assessment Information 132 Materials Science",
 			"link": "/accreditation/Відомості_про_самооцінювання_2024_ІЧМ.pdf"
 		}
-	]
+	],
+	"visitProgram": {
+		"documentTitle": "Expert group visit program",
+		"pdfPath": "/accreditation/Програма візиту ЕГ_ID_57009 (final ver.).pdf"
+	},
+	"openMeeting": {
+		"sectionTitle": "Open meeting with experts",
+		"timeLabel": "Time: March 25, 2026 at 3:00 PM",
+		"joinLabel": "Join",
+		"zoomUrl": "https://us04web.zoom.us/j/78622875564?pwd=mv2516hvIgVeioKRDVWfyXQDTLgPxj.1",
+		"conferenceIdLabel": "Meeting ID:",
+		"conferenceId": "786 2287 5564",
+		"passwordLabel": "Passcode:",
+		"password": "2026"
+	}
 }
