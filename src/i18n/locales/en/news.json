@@ -1179,5 +1179,125 @@
         }
       ]
     }
+    ,
+    {
+      "id": 25,
+      "title": "Admission announcement for PhD and Doctoral studies",
+      "text": "The Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine announces admission to PhD (G10 Metallurgy, G8 Materials Science) and Doctoral programs.",
+      "content": [
+        {
+          "type": "text",
+          "value": "The Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine (IChM) announces admission to PhD studies in the specialties G10 “Metallurgy” and G8 “Materials Science”."
+        },
+        {
+          "type": "minititle",
+          "value": "PhD admission in 2026"
+        },
+        {
+          "type": "text",
+          "value": "PhD admission in 2026 includes the following entrance examinations:"
+        },
+        {
+          "type": "list",
+          "children": [
+            {
+              "type": "text",
+              "value": "Unified Entrance Exam (EVI) — administered by the Ukrainian Center for Educational Quality Assessment; consists of two parts: General Academic Competence Test (TZNK) and a foreign language test (English, German, French, Spanish — applicant’s choice)."
+            },
+            {
+              "type": "text",
+              "value": "Unified Entrance Test (EVV) — administered by the Ukrainian Center for Educational Quality Assessment: a test in research methodology."
+            },
+            {
+              "type": "text",
+              "value": "Specialty exam and presentation of a research proposal — organized and conducted by the higher education institution."
+            },
+            {
+              "type": "text",
+              "value": "Additional exam — conducted by the institution if the admission specialty does not match the specialty in the master’s/specialist diploma (to be admitted to the main examinations)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Admission to the competitive selection is granted provided the applicant obtains:"
+        },
+        {
+          "type": "list",
+          "children": [
+            {
+              "type": "text",
+              "value": "at least 300 points for the two EVI parts (compensation is possible, e.g., 140 + 160 points);"
+            },
+            {
+              "type": "text",
+              "value": "at least 100 points for the EVV."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Recognition of previous years’ results: EVI certificates from 2024 and 2025, and EVV from 2025 are valid."
+        },
+        {
+          "type": "minititle",
+          "value": "Application and examination timeline"
+        },
+        {
+          "type": "list",
+          "children": [
+            {
+              "type": "text",
+              "value": "PhD applications — via the applicant’s electronic account on the Unified State Electronic Education Database website, from August 7 to August 25;"
+            },
+            {
+              "type": "text",
+              "value": "institutional entrance examinations — August 26 to September 7;"
+            },
+            {
+              "type": "text",
+              "value": "enrollment of applicants who confirmed their choice of place of study — by September 14."
+            }
+          ]
+        },
+        {
+          "type": "minititle",
+          "value": "Doctoral admission"
+        },
+        {
+          "type": "text",
+          "value": "The Institute also announces admission to Doctoral studies in the specialties 05.16.01 — Materials Science and Heat Treatment of Metals; 05.16.02 — Metallurgy of Ferrous and Non-Ferrous Metals and Special Alloys."
+        },
+        {
+          "type": "text",
+          "value": "Applicant requirements:"
+        },
+        {
+          "type": "list",
+          "children": [
+            {
+              "type": "text",
+              "value": "a PhD (Candidate of Sciences) degree;"
+            },
+            {
+              "type": "text",
+              "value": "research achievements and publications in the chosen specialty (including in international peer-reviewed journals indexed in scientometric databases);"
+            },
+            {
+              "type": "text",
+              "value": "research results that require completion or formalization as a dissertation, monograph, or scientific report based on a set of articles."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Those who wish to participate in the competition should send by May 12 a candidate information sheet describing the applicant and their research activity, signed by a prospective scientific consultant, to: office.isi@nas.gov.ua."
+        },
+        {
+          "type": "text",
+          "value": "Within one month from the date of receiving the documents, the Academic Council of IChM of the NAS of Ukraine will hear the applicants’ scientific presentations, conduct an interview, and decide by vote on the possibility of admission."
+        }
+      ]
+    }
   ]
 }
