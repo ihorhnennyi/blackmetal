@@ -3,10 +3,10 @@ import react from '@vitejs/plugin-react-swc'
 import path from 'path'
 import fs from 'fs'
 
-/** У продакшні новини читаються з цих файлів (fetch + no-store), щоб Chrome не тримав старий список у кешованому JS. */
-function emitNewsFeedPlugin(): Plugin {
+/** У продакшні новини з окремого JSON (fetch + no-store). Назва без «feed» — інакше AdBlock/uBlock на десктопі часто блокує URL. */
+function emitNewsDataPlugin(): Plugin {
 	return {
-		name: 'emit-news-feed',
+		name: 'emit-news-data',
 		closeBundle() {
 			const outDir = path.resolve(process.cwd(), 'dist')
 			const newsData = JSON.parse(
@@ -35,7 +35,7 @@ function emitNewsFeedPlugin(): Plugin {
 					news: mergedNews,
 				}
 				fs.writeFileSync(
-					path.join(outDir, `news-feed.${lang}.json`),
+					path.join(outDir, `news-data.${lang}.json`),
 					JSON.stringify(payload),
 					'utf-8'
 				)
@@ -68,7 +68,7 @@ export default defineConfig({
     dedupe: ['react', 'react-dom']
   },
   base: '/',
-  plugins: [react(), emitNewsFeedPlugin()],
+  plugins: [react(), emitNewsDataPlugin()],
   server: {
     fs: {
       allow: ['.', '..']
