@@ -19,6 +19,7 @@ const renderInline = (item: NewsContentItem, index: number) => {
 					color: 'primary.main',
 					textDecoration: 'none',
 					display: 'inline',
+					fontWeight: 700,
 				}}
 			>
 				{item.value}

@@ -1298,6 +1298,111 @@
           "value": "Within one month from the date of receiving the documents, the Academic Council of IChM of the NAS of Ukraine will hear the applicants’ scientific presentations, conduct an interview, and decide by vote on the possibility of admission."
         }
       ]
+    },
+    {
+      "id": 26,
+      "title": "Meeting of the Institute’s academic staff on the election of the Director",
+      "text": "On May 19, 2026 at 10:00 (Kyiv time), a hybrid meeting of the Institute’s academic staff devoted to the election of the Institute Director will be held.",
+      "content": [
+        {
+          "type": "text",
+          "value": "Dear Institute researchers!"
+        },
+        {
+          "type": "text",
+          "value": "On Tuesday, May 19, 2026 at 10:00 a.m., the Meeting of the Institute’s academic staff devoted to the election of the Institute Director will take place in hybrid format — in person in the Academic Council meeting hall (room 310, main building) and online via Zoom."
+        },
+        {
+          "type": "minititle",
+          "value": "Agenda"
+        },
+        {
+          "type": "list",
+          "children": [
+            {
+              "type": "text",
+              "value": "Information on the organization of the election of the Institute Director."
+            },
+            {
+              "type": "text",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Remarks by candidate for Institute Director — Doctor of Technical Sciences, Senior Researcher Hanna Andriivna KONONENKO ("
+                },
+                {
+                  "type": "link",
+                  "value": "candidate’s program",
+                  "href": "https://docs.google.com/document/d/1oVrTb9Vp3y4Z6D0Xv-xptxIQTck4sRqx/edit?usp=sharing&ouid=102515862031136019171&rtpof=true&sd=true"
+                },
+                {
+                  "type": "text",
+                  "value": ")."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minititle",
+          "value": "Zoom"
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "Topic: "
+            },
+            {
+              "type": "bold",
+              "value": "Meeting of the Institute’s academic staff"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Time: May 19, 2026, 10:00 AM Kyiv."
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "link",
+              "value": "Join Zoom meeting",
+              "href": "https://us06web.zoom.us/j/86409312053?pwd=jlaoVvgHP47ilEz56Lh2JibuYJCb6g.1"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "link",
+              "value": "Meeting chat link",
+              "href": "https://us06web.zoom.us/launch/jc/86409312053"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Meeting ID: 864 0931 2053. Passcode: 674762."
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "Join instructions: "
+            },
+            {
+              "type": "link",
+              "value": "open on Zoom",
+              "href": "https://us06web.zoom.us/meetings/86409312053/invitations?signature=VZ_MP8kuFFiY306sPzomzSbqwEfaQ3SHAvbfjKiZWlM"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
