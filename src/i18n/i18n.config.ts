@@ -5,6 +5,17 @@ import LanguageDetector from 'i18next-browser-languagedetector'
 import enTranslations from './locales/en.json'
 import uaTranslations from './locales/ua.json'
 
+const canUseLocalStorage = (): boolean => {
+	try {
+		const k = '__i18n_ls_chk'
+		window.localStorage.setItem(k, '1')
+		window.localStorage.removeItem(k)
+		return true
+	} catch {
+		return false
+	}
+}
+
 i18n
 	.use(LanguageDetector)
 	.use(initReactI18next)
@@ -20,8 +31,8 @@ i18n
 			escapeValue: false,
 		},
 		detection: {
-			order: ['localStorage', 'navigator'],
-			caches: ['localStorage'],
+			order: canUseLocalStorage() ? ['localStorage', 'navigator'] : ['navigator'],
+			caches: canUseLocalStorage() ? ['localStorage'] : [],
 			convertDetectedLanguage: lng => {
 				return ['en', 'ua'].includes(lng) ? lng : 'ua'
 				// return ['ua'].includes(lng) ? lng : 'ua'

@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react-swc'
+import legacy from '@vitejs/plugin-legacy'
 import path from 'path'
 import fs from 'fs'
 
@@ -22,7 +23,21 @@ export default defineConfig({
     dedupe: ['react', 'react-dom']
   },
   base: '/',
-  plugins: [react()],
+  plugins: [
+    react(),
+    legacy({
+      targets: [
+        'defaults',
+        'Chrome >= 64',
+        'Firefox >= 67',
+        'Safari >= 12',
+        'iOS >= 12',
+        'Edge >= 79',
+      ],
+      modernPolyfills: true,
+      renderLegacyChunks: true,
+    }),
+  ],
   server: {
     fs: {
       allow: ['.', '..']
