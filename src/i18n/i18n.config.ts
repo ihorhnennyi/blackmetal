@@ -34,8 +34,11 @@ i18n
 			order: canUseLocalStorage() ? ['localStorage', 'navigator'] : ['navigator'],
 			caches: canUseLocalStorage() ? ['localStorage'] : [],
 			convertDetectedLanguage: lng => {
-				return ['en', 'ua'].includes(lng) ? lng : 'ua'
-				// return ['ua'].includes(lng) ? lng : 'ua'
+				const raw = (lng || '').trim()
+				const code = raw.split(/[-_]/)[0]?.toLowerCase() ?? ''
+				if (code === 'en') return 'en'
+				if (code === 'uk' || code === 'ua') return 'ua'
+				return 'ua'
 			},
 		},
 	})

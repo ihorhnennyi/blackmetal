@@ -1,6 +1,6 @@
-# Baseline for Vite modern bundle + @vitejs/plugin-legacy fallback
-> 0.5%
-last 2 versions
-Firefox ESR
-not dead
-not op_mini all
+# Відповідає vite build.target (без plugin-legacy): одна збірка
+chrome >= 87
+firefox >= 78
+safari >= 14
+ios_saf >= 14
+edge >= 88

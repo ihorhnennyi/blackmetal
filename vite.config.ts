@@ -1,10 +1,14 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react-swc'
-import legacy from '@vitejs/plugin-legacy'
 import path from 'path'
 import fs from 'fs'
 
 export default defineConfig({
+  build: {
+    // Одна збірка без dual legacy/modern: стабільніше в Chrome, Safari, Edge (без SystemJS і inline-детектора)
+    target: ['es2020', 'chrome87', 'firefox78', 'safari14', 'edge88', 'ios14'],
+    cssTarget: ['chrome87', 'safari14'],
+  },
   resolve: {
     alias: {
       '@': '/src',
@@ -23,21 +27,7 @@ export default defineConfig({
     dedupe: ['react', 'react-dom']
   },
   base: '/',
-  plugins: [
-    react(),
-    legacy({
-      targets: [
-        'defaults',
-        'Chrome >= 64',
-        'Firefox >= 67',
-        'Safari >= 12',
-        'iOS >= 12',
-        'Edge >= 79',
-      ],
-      modernPolyfills: true,
-      renderLegacyChunks: true,
-    }),
-  ],
+  plugins: [react()],
   server: {
     fs: {
       allow: ['.', '..']
