@@ -1,7 +1,48 @@
-import { defineConfig } from 'vite'
+import { defineConfig, Plugin } from 'vite'
 import react from '@vitejs/plugin-react-swc'
 import path from 'path'
 import fs from 'fs'
+
+/** У продакшні новини читаються з цих файлів (fetch + no-store), щоб Chrome не тримав старий список у кешованому JS. */
+function emitNewsFeedPlugin(): Plugin {
+	return {
+		name: 'emit-news-feed',
+		closeBundle() {
+			const outDir = path.resolve(process.cwd(), 'dist')
+			const newsData = JSON.parse(
+				fs.readFileSync(path.resolve(process.cwd(), 'src/data/newsData.json'), 'utf-8')
+			)
+			for (const lang of ['ua', 'en'] as const) {
+				const translationData = JSON.parse(
+					fs.readFileSync(
+						path.resolve(process.cwd(), `src/i18n/locales/${lang}/news.json`),
+						'utf-8'
+					)
+				)
+				const mergedNews = newsData.news.map((commonItem: { id: number }) => {
+					const translationItem = translationData.news.find(
+						(item: { id: number }) => item.id === commonItem.id
+					)
+					return {
+						...commonItem,
+						title: translationItem?.title ?? '',
+						text: translationItem?.text ?? '',
+						content: translationItem?.content,
+					}
+				})
+				const payload = {
+					newsTitle: translationData.newsTitle,
+					news: mergedNews,
+				}
+				fs.writeFileSync(
+					path.join(outDir, `news-feed.${lang}.json`),
+					JSON.stringify(payload),
+					'utf-8'
+				)
+			}
+		},
+	}
+}
 
 export default defineConfig({
   build: {
@@ -27,7 +68,7 @@ export default defineConfig({
     dedupe: ['react', 'react-dom']
   },
   base: '/',
-  plugins: [react()],
+  plugins: [react(), emitNewsFeedPlugin()],
   server: {
     fs: {
       allow: ['.', '..']

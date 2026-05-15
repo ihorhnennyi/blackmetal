@@ -8,57 +8,56 @@ function localeFolderForLoad(): string {
 	return 'ua'
 }
 
+function mergeNewsBundle(translationData: any, commonData: any) {
+	const mergedNews = commonData.news.map((commonItem: any) => {
+		const translationItem = translationData.news.find((item: any) => item.id === commonItem.id)
+		return {
+			...commonItem,
+			title: translationItem?.title || '',
+			text: translationItem?.text || '',
+			content: translationItem?.content || undefined,
+		}
+	})
+	return {
+		...translationData,
+		news: mergedNews,
+	}
+}
+
+async function loadNewsMerged<T>(language: string): Promise<T> {
+	const translationData = (await import(`./locales/${language}/news.json`)).default
+	const commonData = (await import('@/data/newsData.json')).default
+	return mergeNewsBundle(translationData, commonData) as T
+}
+
 export const loadTranslationData = async <T>(fileName: string): Promise<T> => {
 	const language = localeFolderForLoad()
-	try {
-		const translationData = await import(`./locales/${language}/${fileName}.json`)
-		
-		if (fileName === 'news') {
-			const commonData = await import('@/data/newsData.json')
-			
-			const mergedNews = commonData.default.news.map((commonItem: any) => {
-				const translationItem = translationData.default.news.find((item: any) => item.id === commonItem.id)
-				return {
-					...commonItem,
-					title: translationItem?.title || '',
-					text: translationItem?.text || '',
-					content: translationItem?.content || undefined
-				}
-			})
-			
-			return {
-				...translationData.default,
-				news: mergedNews
-			} as T
+
+	// У production список новин з окремого JSON + no-store, щоб не залежати від кешу головного chunk у Chrome
+	if (fileName === 'news' && import.meta.env.PROD) {
+		try {
+			const url = `${import.meta.env.BASE_URL}news-feed.${language}.json`
+			const res = await fetch(url, { cache: 'no-store' })
+			if (!res.ok) throw new Error(`HTTP ${res.status}`)
+			return (await res.json()) as T
+		} catch (e) {
+			console.error('news-feed fetch failed, fallback to bundled news', e)
 		}
-		
-		return translationData.default as T
+	}
+
+	try {
+		if (fileName === 'news') {
+			return await loadNewsMerged<T>(language)
+		}
+		return (await import(`./locales/${language}/${fileName}.json`)).default as T
 	} catch (error) {
 		console.error(
 			`Error loading ${fileName} for language ${language} (i18n.language=${i18n.language}):`,
 			error
 		)
-		const fallbackData = await import(`./locales/en/${fileName}.json`)
-		
 		if (fileName === 'news') {
-			const commonData = await import('@/data/newsData.json')
-			
-			const mergedNews = commonData.default.news.map((commonItem: any) => {
-				const translationItem = fallbackData.default.news.find((item: any) => item.id === commonItem.id)
-				return {
-					...commonItem,
-					title: translationItem?.title || '',
-					text: translationItem?.text || '',
-					content: translationItem?.content || undefined
-				}
-			})
-			
-			return {
-				...fallbackData.default,
-				news: mergedNews
-			} as T
+			return await loadNewsMerged<T>('en')
 		}
-		
-		return fallbackData.default as T
+		return (await import(`./locales/en/${fileName}.json`)).default as T
 	}
 }
