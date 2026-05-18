@@ -2,7 +2,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy:fix-perms": "bash deploy/fix-permissions.sh",
+    "deploy:server": "bash deploy/server-deploy.sh"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",

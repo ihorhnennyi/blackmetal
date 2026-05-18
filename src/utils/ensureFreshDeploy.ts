@@ -1,12 +1,15 @@
 const DEPLOY_ID_KEY = 'isi-deploy-id'
 
-/** Після деплою: порівнюємо /version.json (no-store) і один раз перезавантажуємо, якщо збірка змінилась. */
+/** Після деплою: новий version.json → одне перезавантаження (усі браузери). */
 export async function ensureFreshDeploy(): Promise<void> {
 	if (!import.meta.env.PROD) return
 
 	try {
-		const base = import.meta.env.BASE_URL.replace(/\/?$/, '/')
-		const res = await fetch(`${base}version.json`, { cache: 'no-store' })
+		const origin = window.location.origin
+		const base = (import.meta.env.BASE_URL || '/').replace(/\/?$/, '/')
+		const versionUrl = `${origin}${base}version.json?_=${Date.now()}`
+
+		const res = await fetch(versionUrl, { cache: 'no-store' })
 		if (!res.ok) return
 
 		const { buildId } = (await res.json()) as { buildId?: string }
@@ -33,6 +36,6 @@ export async function ensureFreshDeploy(): Promise<void> {
 			await new Promise<void>(() => {})
 		}
 	} catch {
-		/* офлайн / немає version.json — не блокуємо запуск */
+		/* version.json може бути відсутній на старому деплої */
 	}
 }
