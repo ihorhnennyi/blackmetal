@@ -4,7 +4,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "deploy:fix-perms": "bash deploy/fix-permissions.sh",
-    "deploy:server": "bash deploy/server-deploy.sh"
+    "deploy:server": "bash deploy/server-deploy.sh",
+    "deploy:fresh": "bash deploy/fresh-install.sh"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",

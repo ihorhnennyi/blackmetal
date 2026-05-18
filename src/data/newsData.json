@@ -2,128 +2,128 @@
   "news": [
     {
       "id": 1,
-      "imageUrl": "/news/1-1.jpg",
+      "imageUrl": "/newspics/1-1.jpg",
       "date": "12.12.2023"
     },
     {
       "id": 2,
-      "imageUrl": "/news/2-1.jpg",
+      "imageUrl": "/newspics/2-1.jpg",
       "date": "24.04.2024"
     },
     {
       "id": 3,
-      "imageUrl": "/news/3-1.jpeg",
+      "imageUrl": "/newspics/3-1.jpeg",
       "date": "25.04.2024"
     },
     {
       "id": 4,
-      "imageUrl": "/news/4-1.png",
+      "imageUrl": "/newspics/4-1.png",
       "date": "15.08.2024"
     },
     {
       "id": 5,
-      "imageUrl": "/news/5-1.jpg",
+      "imageUrl": "/newspics/5-1.jpg",
       "date": "23.09.2024"
     },
     {
       "id": 6,
-      "imageUrl": "/news/6-1.jpg",
+      "imageUrl": "/newspics/6-1.jpg",
       "date": "01.10.2024"
     },
     {
       "id": 7,
-      "imageUrl": "/news/7-1.jpg",
+      "imageUrl": "/newspics/7-1.jpg",
       "date": "07.10.2024"
     },
     {
       "id": 8,
-      "imageUrl": "/news/8-1.png",
+      "imageUrl": "/newspics/8-1.png",
       "date": "23.10.2024"
     },
     {
       "id": 9,
-      "imageUrl": "/news/9-1.png",
+      "imageUrl": "/newspics/9-1.png",
       "date": "22.11.2024"
     },
     {
       "id": 10,
-      "imageUrl": "/news/10-1.jpg",
+      "imageUrl": "/newspics/10-1.jpg",
       "date": "19.12.2024"
     },
     {
       "id": 11,
-      "imageUrl": "/news/11-1.jpg",
+      "imageUrl": "/newspics/11-1.jpg",
       "date": "09.05.2025"
     },
     {
       "id": 13,
-      "imageUrl": "/news/13-1.png",
+      "imageUrl": "/newspics/13-1.png",
       "date": "10.07.2025"
     },
 
     {
       "id": 15,
-      "imageUrl": "/news/15/15-1.png",
+      "imageUrl": "/newspics/15/15-1.png",
       "date": "02.10.2025"
     },
     {
       "id": 16,
-      "imageUrl": "/news/16/16-1.JPG",
+      "imageUrl": "/newspics/16/16-1.JPG",
       "date": "08.10.2025"
     },
     {
       "id": 17,
-      "imageUrl": "/news/17/17-1.jpg",
+      "imageUrl": "/newspics/17/17-1.jpg",
       "date": "09.10.2025"
     },
     {
       "id": 18,
-      "imageUrl": "/news/18/18-3.jpg",
+      "imageUrl": "/newspics/18/18-3.jpg",
       "date": "11.11.2025"
     },
     {
       "id": 19,
-      "imageUrl": "/news/19/19-1.jpg",
+      "imageUrl": "/newspics/19/19-1.jpg",
       "date": "28.11.2025"
     },
     {
       "id": 20,
-      "imageUrl": "/news/20/20-1.png",
+      "imageUrl": "/newspics/20/20-1.png",
       "date": "24.12.2025"
     },
     {
       "id": 21,
-      "imageUrl": "/news/21/21-1.jpg",
+      "imageUrl": "/newspics/21/21-1.jpg",
       "date": "19.01.2026"
     },
     {
       "id": 22,
-      "imageUrl": "/news/22/22-1.png",
+      "imageUrl": "/newspics/22/22-1.png",
       "date": "29.01.2026"
     },
     {
       "id": 23,
-      "imageUrl": "/news/23/23-1.jpg",
+      "imageUrl": "/newspics/23/23-1.jpg",
       "date": "30.01.2026"
     },
     {
       "id": 24,
-      "imageUrl": "/news/24/24-1.jpg",
+      "imageUrl": "/newspics/24/24-1.jpg",
       "date": "16.03.2026"
     },
     {
       "id": 25,
-      "imageUrl": "/news/25/25-1.jpg",
+      "imageUrl": "/newspics/25/25-1.jpg",
       "date": "04.05.2026"
     },
     {
       "id": 26,
-      "imageUrl": "/news/26/26-1.jpg",
+      "imageUrl": "/newspics/26/26-1.jpg",
       "date": "14.05.2026"
     },
     {
       "id": 27,
-      "imageUrl": "/news/27/27-1.png",
+      "imageUrl": "/newspics/27/27-1.png",
       "date": "18.05.2026"
     }
   ]

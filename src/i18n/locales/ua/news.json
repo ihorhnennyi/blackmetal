@@ -35,7 +35,7 @@
         },
         {
           "type": "image",
-          "value": "/news/1-2.jpg"
+          "value": "/newspics/1-2.jpg"
         },
         {
           "type": "desc",
@@ -131,7 +131,7 @@
         },
         {
           "type": "image",
-          "value": "/news/2-2.jpeg"
+          "value": "/newspics/2-2.jpeg"
         },
         {
           "type": "desc",
@@ -154,7 +154,7 @@
         },
         {
           "type": "image",
-          "value": "/news/3-1.jpeg"
+          "value": "/newspics/3-1.jpeg"
         },
         {
           "type": "text",
@@ -208,7 +208,7 @@
         },
         {
           "type": "image",
-          "value": "/news/4-2.png"
+          "value": "/newspics/4-2.png"
         },
         {
           "type": "desc",
@@ -263,7 +263,7 @@
         },
         {
           "type": "image",
-          "value": "/news/5-2.jpg"
+          "value": "/newspics/5-2.jpg"
         },
         {
           "type": "desc",
@@ -410,7 +410,7 @@
         },
         {
           "type": "image",
-          "value": "/news/7-2.jpg"
+          "value": "/newspics/7-2.jpg"
         },
         {
           "type": "desc",
@@ -472,7 +472,7 @@
         },
         {
           "type": "image",
-          "value": "/news/8-2.jpg"
+          "value": "/newspics/8-2.jpg"
         },
         {
           "type": "text",
@@ -513,7 +513,7 @@
         },
         {
           "type": "image",
-          "value": "/news/9-2.jpg"
+          "value": "/newspics/9-2.jpg"
         },
         {
           "type": "text",
@@ -521,7 +521,7 @@
         },
         {
           "type": "image",
-          "value": "/news/9-3.jpg"
+          "value": "/newspics/9-3.jpg"
         },
         {
           "type": "text",
@@ -607,7 +607,7 @@
         },
         {
           "type": "image",
-          "value": "/news/10-2.jpg"
+          "value": "/newspics/10-2.jpg"
         },
         {
           "type": "desc",
@@ -735,7 +735,7 @@
         },
         {
           "type": "image",
-          "value": "/news/13-2.png"
+          "value": "/newspics/13-2.png"
         },
         {
           "type": "minititle",
@@ -776,7 +776,7 @@
         },
         {
           "type": "image",
-          "value": "/news/13-3.png"
+          "value": "/newspics/13-3.png"
         },
         {
           "type": "minititle",
@@ -801,7 +801,7 @@
         },
         {
           "type": "image",
-          "value": "/news/13-4.png"
+          "value": "/newspics/13-4.png"
         }
       ]
     },
@@ -816,7 +816,7 @@
         },
         {
           "type": "image",
-          "value": "/news/15/15-2.png"
+          "value": "/newspics/15/15-2.png"
         },
         {
           "type": "desc",
@@ -861,7 +861,7 @@
         },
         {
           "type": "image",
-          "value": "/news/16/16-2.JPG"
+          "value": "/newspics/16/16-2.JPG"
         },
         {
           "type": "desc",
@@ -885,55 +885,55 @@
         },
         {
           "type": "image",
-          "value": "/news/16/16-3.JPG"
+          "value": "/newspics/16/16-3.JPG"
         },
         {
           "type": "image",
-          "value": "/news/16/16-4.JPG"
+          "value": "/newspics/16/16-4.JPG"
         },
         {
           "type": "image",
-          "value": "/news/16/16-5.JPG"
+          "value": "/newspics/16/16-5.JPG"
         },
         {
           "type": "image",
-          "value": "/news/16/16-6.JPG"
+          "value": "/newspics/16/16-6.JPG"
         },
         {
           "type": "image",
-          "value": "/news/16/16-7.JPG"
+          "value": "/newspics/16/16-7.JPG"
         },
         {
           "type": "image",
-          "value": "/news/16/16-8.JPG"
+          "value": "/newspics/16/16-8.JPG"
         },
         {
           "type": "image",
-          "value": "/news/16/16-9.JPG"
+          "value": "/newspics/16/16-9.JPG"
         },
         {
           "type": "image",
-          "value": "/news/16/16-10.JPG"
+          "value": "/newspics/16/16-10.JPG"
         },
         {
           "type": "image",
-          "value": "/news/16/16-11.JPG"
+          "value": "/newspics/16/16-11.JPG"
         },
         {
           "type": "image",
-          "value": "/news/16/16-12.JPG"
+          "value": "/newspics/16/16-12.JPG"
         },
         {
           "type": "image",
-          "value": "/news/16/16-13.JPG"
+          "value": "/newspics/16/16-13.JPG"
         },
         {
           "type": "image",
-          "value": "/news/16/16-14.JPG"
+          "value": "/newspics/16/16-14.JPG"
         },
         {
           "type": "image",
-          "value": "/news/16/16-15.jpeg"
+          "value": "/newspics/16/16-15.jpeg"
         }
       ]
     },
@@ -975,7 +975,7 @@
         },
         {
           "type": "image",
-          "value": "/news/17/17-2.jpg"
+          "value": "/newspics/17/17-2.jpg"
         },
         {
           "type": "desc",
@@ -1015,7 +1015,7 @@
         },
         {
           "type": "image",
-          "value": "/news/18/18-1.jpg"
+          "value": "/newspics/18/18-1.jpg"
         },
         {
           "type": "desc",
@@ -1023,7 +1023,7 @@
         },
         {
           "type": "image",
-          "value": "/news/18/18-2.jpg"
+          "value": "/newspics/18/18-2.jpg"
         },
         {
           "type": "desc",
@@ -1046,7 +1046,7 @@
         },
         {
           "type": "image",
-          "value": "/news/18/18-4.jpg"
+          "value": "/newspics/18/18-4.jpg"
         },
         {
           "type": "desc",
@@ -1054,7 +1054,7 @@
         },
         {
           "type": "image",
-          "value": "/news/18/18-5.jpg"
+          "value": "/newspics/18/18-5.jpg"
         },
         {
           "type": "desc",
@@ -1089,51 +1089,51 @@
         },
         {
           "type": "image",
-          "value": "/news/19/19-2.jpg"
+          "value": "/newspics/19/19-2.jpg"
         },
         {
           "type": "image",
-          "value": "/news/19/19-3.jpg"
+          "value": "/newspics/19/19-3.jpg"
         },
         {
           "type": "image",
-          "value": "/news/19/19-4.jpg"
+          "value": "/newspics/19/19-4.jpg"
         },
         {
           "type": "image",
-          "value": "/news/19/19-5.jpg"
+          "value": "/newspics/19/19-5.jpg"
         },
         {
           "type": "image",
-          "value": "/news/19/19-6.jpg"
+          "value": "/newspics/19/19-6.jpg"
         },
         {
           "type": "image",
-          "value": "/news/19/19-7.jpg"
+          "value": "/newspics/19/19-7.jpg"
         },
         {
           "type": "image",
-          "value": "/news/19/19-8.jpg"
+          "value": "/newspics/19/19-8.jpg"
         },
         {
           "type": "image",
-          "value": "/news/19/19-9.jpg"
+          "value": "/newspics/19/19-9.jpg"
         },
         {
           "type": "image",
-          "value": "/news/19/19-10.jpg"
+          "value": "/newspics/19/19-10.jpg"
         },
         {
           "type": "image",
-          "value": "/news/19/19-11.jpg"
+          "value": "/newspics/19/19-11.jpg"
         },
         {
           "type": "image",
-          "value": "/news/19/19-12.jpg"
+          "value": "/newspics/19/19-12.jpg"
         },
         {
           "type": "image",
-          "value": "/news/19/19-13.jpg"
+          "value": "/newspics/19/19-13.jpg"
         }
       ]
     },
@@ -1282,9 +1282,9 @@
         {
           "type": "text",
           "children": [
-            { "type": "link", "value": "Зразок заяви (DOCS)", "href": "/news/21/zaiava.docx" },
+            { "type": "link", "value": "Зразок заяви (DOCS)", "href": "/newspics/21/zaiava.docx" },
             { "type": "text", "value": " • " },
-            { "type": "link", "value": "Зразок анкети (DOC)", "href": "/news/21/anketa.doc" }
+            { "type": "link", "value": "Зразок анкети (DOC)", "href": "/newspics/21/anketa.doc" }
           ]
         }
       ]
@@ -1321,7 +1321,7 @@
         },
         {
           "type": "image",
-          "value": "/news/22/22-1.png"
+          "value": "/newspics/22/22-1.png"
         },
         {
           "type": "desc",
@@ -1392,7 +1392,7 @@
         },
         {
           "type": "image",
-          "value": "/news/23/23-2.jpg"
+          "value": "/newspics/23/23-2.jpg"
         },
         {
           "type": "desc",
@@ -1421,7 +1421,7 @@
         },
         {
           "type": "image",
-          "value": "/news/23/23-3.jpg"
+          "value": "/newspics/23/23-3.jpg"
         },
         {
           "type": "desc",
