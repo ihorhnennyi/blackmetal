@@ -4,11 +4,18 @@ import { BrowserRouter } from 'react-router-dom'
 import App from './App'
 import './styles/index.css'
 import './i18n/i18n.config'
+import { ensureFreshDeploy } from '@/utils/ensureFreshDeploy'
 
-ReactDOM.createRoot(document.getElementById('root')!).render(
-	<React.StrictMode>
-		<BrowserRouter basename='/'>
-			<App />
-		</BrowserRouter>
-	</React.StrictMode>
-)
+async function bootstrap() {
+	await ensureFreshDeploy()
+
+	ReactDOM.createRoot(document.getElementById('root')!).render(
+		<React.StrictMode>
+			<BrowserRouter basename='/'>
+				<App />
+			</BrowserRouter>
+		</React.StrictMode>
+	)
+}
+
+bootstrap()

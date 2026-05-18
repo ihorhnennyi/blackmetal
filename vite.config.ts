@@ -2,13 +2,28 @@ import { defineConfig, Plugin } from 'vite'
 import react from '@vitejs/plugin-react-swc'
 import path from 'path'
 import fs from 'fs'
+import { execSync } from 'child_process'
+
+function resolveBuildId(): string {
+	if (process.env.VITE_BUILD_ID) return process.env.VITE_BUILD_ID
+	try {
+		return execSync('git rev-parse --short HEAD', { encoding: 'utf-8' }).trim()
+	} catch {
+		return String(Date.now())
+	}
+}
 
 /** У продакшні новини з окремого JSON (fetch + no-store). Назва без «feed» — інакше AdBlock/uBlock на десктопі часто блокує URL. */
-function emitNewsDataPlugin(): Plugin {
+function emitNewsDataPlugin(buildId: string): Plugin {
 	return {
 		name: 'emit-news-data',
 		closeBundle() {
 			const outDir = path.resolve(process.cwd(), 'dist')
+			fs.writeFileSync(
+				path.join(outDir, 'version.json'),
+				JSON.stringify({ buildId, builtAt: new Date().toISOString() }),
+				'utf-8'
+			)
 			const newsData = JSON.parse(
 				fs.readFileSync(path.resolve(process.cwd(), 'src/data/newsData.json'), 'utf-8')
 			)
@@ -44,7 +59,12 @@ function emitNewsDataPlugin(): Plugin {
 	}
 }
 
+const buildId = resolveBuildId()
+
 export default defineConfig({
+  define: {
+    'import.meta.env.VITE_BUILD_ID': JSON.stringify(buildId),
+  },
   build: {
     // Одна збірка без dual legacy/modern: стабільніше в Chrome, Safari, Edge (без SystemJS і inline-детектора)
     target: ['es2020', 'chrome87', 'firefox78', 'safari14', 'edge88', 'ios14'],
@@ -68,7 +88,19 @@ export default defineConfig({
     dedupe: ['react', 'react-dom']
   },
   base: '/',
-  plugins: [react(), emitNewsDataPlugin()],
+  plugins: [
+    react(),
+    emitNewsDataPlugin(buildId),
+    {
+      name: 'inject-build-id',
+      transformIndexHtml(html) {
+        return html.replace(
+          '</head>',
+          `\t\t<meta name="app-build-id" content="${buildId}" />\n\t</head>`
+        )
+      },
+    },
+  ],
   server: {
     fs: {
       allow: ['.', '..']

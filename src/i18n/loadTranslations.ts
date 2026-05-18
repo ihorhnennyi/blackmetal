@@ -36,7 +36,8 @@ export const loadTranslationData = async <T>(fileName: string): Promise<T> => {
 	// У production список новин з окремого JSON + no-store, щоб не залежати від кешу головного chunk у Chrome
 	if (fileName === 'news' && import.meta.env.PROD) {
 		try {
-			const url = `${import.meta.env.BASE_URL}news-data.${language}.json`
+			const buildId = import.meta.env.VITE_BUILD_ID
+			const url = `${import.meta.env.BASE_URL}news-data.${language}.json?v=${encodeURIComponent(buildId)}`
 			const res = await fetch(url, { cache: 'no-store' })
 			if (!res.ok) throw new Error(`HTTP ${res.status}`)
 			return (await res.json()) as T
