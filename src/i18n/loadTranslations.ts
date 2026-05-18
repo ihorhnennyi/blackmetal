@@ -1,4 +1,5 @@
 import i18n from './i18n.config'
+import { fetchProductionNewsData } from '@/utils/fetchNewsData'
 
 /** i18n.language може бути uk, en-US тощо — папки лише en та ua */
 function localeFolderForLoad(): string {
@@ -33,16 +34,13 @@ async function loadNewsMerged<T>(language: string): Promise<T> {
 export const loadTranslationData = async <T>(fileName: string): Promise<T> => {
 	const language = localeFolderForLoad()
 
-	// У production список новин з окремого JSON + no-store, щоб не залежати від кешу головного chunk у Chrome
+	// У production — тільки news-data.json (без fallback на застарілий chunk у кеші Chrome)
 	if (fileName === 'news' && import.meta.env.PROD) {
 		try {
-			const buildId = import.meta.env.VITE_BUILD_ID
-			const url = `${import.meta.env.BASE_URL}news-data.${language}.json?v=${encodeURIComponent(buildId)}`
-			const res = await fetch(url, { cache: 'no-store' })
-			if (!res.ok) throw new Error(`HTTP ${res.status}`)
-			return (await res.json()) as T
+			return await fetchProductionNewsData<T>(language)
 		} catch (e) {
-			console.error('news-data.json fetch failed, fallback to bundled news', e)
+			console.error('news-data.json unavailable', e)
+			throw e
 		}
 	}
 

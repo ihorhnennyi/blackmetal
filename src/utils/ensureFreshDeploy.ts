@@ -27,7 +27,9 @@ export async function ensureFreshDeploy(): Promise<void> {
 		const reloadFlag = `isi-reloaded-${buildId}`
 		if (!sessionStorage.getItem(reloadFlag)) {
 			sessionStorage.setItem(reloadFlag, '1')
-			location.reload()
+			const url = new URL(window.location.href)
+			url.searchParams.set('_deploy', buildId)
+			window.location.replace(url.toString())
 			await new Promise<void>(() => {})
 		}
 	} catch {
