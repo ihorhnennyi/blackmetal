@@ -1176,6 +1176,82 @@
               "value": "."
             }
           ]
+        },
+        {
+          "type": "text",
+          "value": "By order of the Director of IChM of the NAS of Ukraine dated 13.03.2026 No. 31-k \"On the organization of elections for the Director of the Z.I. Nekrasov Iron and Steel Institute of the NAS of Ukraine\", an organizational committee and an election commission have been established."
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "At its first meeting on 16.03.2026, minutes No. 1, the organizational committee elected as chair of the organizational committee Dr. of Tech. Sci., Deputy Director for Research "
+            },
+            {
+              "type": "navlink",
+              "value": "Eduard PARUSOV",
+              "href": "parusov-eduard-volodymyrovych"
+            },
+            {
+              "type": "text",
+              "value": ", as deputy chair of the organizational committee Cand. of Tech. Sci., Head of the Department of Technological Equipment and Control Systems "
+            },
+            {
+              "type": "navlink",
+              "value": "Yuriy SEMENOV",
+              "href": "semenov-yuriy-stanislavovych"
+            },
+            {
+              "type": "text",
+              "value": ", and as secretary of the organizational committee Junior Researcher of the Scientific and Organizational Department (representative of the institution's trade union) "
+            },
+            {
+              "type": "navlink",
+              "value": "Maryna DZHYHOTA",
+              "href": "dzhigota"
+            },
+            {
+              "type": "text",
+              "value": "."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "At its first meeting on 16.03.2026, minutes No. 1, the election commission elected as chair of the election commission Cand. of Tech. Sci., Senior Researcher of the Department of Out-of-Furnace Iron Processing "
+            },
+            {
+              "type": "navlink",
+              "value": "Ivan MANACHYN",
+              "href": "manachyn"
+            },
+            {
+              "type": "text",
+              "value": ", as deputy chair of the election commission Cand. of Tech. Sci., Senior Researcher of the Department of Iron Metallurgy "
+            },
+            {
+              "type": "navlink",
+              "value": "Bohdan KORNILOV",
+              "href": "kornilov"
+            },
+            {
+              "type": "text",
+              "value": ", and as secretary of the election commission Cand. of Tech. Sci., Senior Researcher of the Department of Physico-Technical Problems of Steel Metallurgy "
+            },
+            {
+              "type": "navlink",
+              "value": "Tetiana HOLUB",
+              "href": "holub-tetiana-serhiivna"
+            },
+            {
+              "type": "text",
+              "value": "."
+            }
+          ]
         }
       ]
     }
@@ -1310,7 +1386,7 @@
         },
         {
           "type": "text",
-          "value": "On Tuesday, May 19, 2026 at 10:00 a.m., the Meeting of the Institute’s academic staff devoted to the election of the Institute Director will take place in hybrid format — in person in the Academic Council meeting hall (room 310, main building) and online via Zoom."
+          "value": "On Tuesday, May 19, 2026 at 10:00 a.m., the Meeting of the Institute’s academic staff devoted to the election of the Institute Director will take place in hybrid format — in person in the Academic Council meeting hall (room 314, main building) and online via Zoom."
         },
         {
           "type": "minititle",
@@ -1401,6 +1477,41 @@
               "href": "https://us06web.zoom.us/meetings/86409312053/invitations?signature=VZ_MP8kuFFiY306sPzomzSbqwEfaQ3SHAvbfjKiZWlM"
             }
           ]
+        },
+        {
+          "type": "text",
+          "value": "Organizing committee for the election of the Institute Director."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Election of the Institute Director",
+      "text": "On May 27, 2026, elections for the Institute Director will be held.",
+      "content": [
+        {
+          "type": "text",
+          "value": "Dear Institute researchers!"
+        },
+        {
+          "type": "text",
+          "value": "On Wednesday, May 27, 2026, elections for the Institute Director will be held."
+        },
+        {
+          "type": "text",
+          "value": "The polling station is located at: Dnipro, Akademika Starodubova Square, 1, main building of the Institute, 3rd floor, room No. 314 (Academic Council hall)."
+        },
+        {
+          "type": "text",
+          "value": "Polling station hours: 09:00 to 15:00."
+        },
+        {
+          "type": "text",
+          "value": "Please bring a document proving your identity as a voter."
+        },
+        {
+          "type": "text",
+          "value": "Organizing committee for the election of the Institute Director."
         }
       ]
     }
