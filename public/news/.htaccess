@@ -1,0 +1,3 @@
+# Apache / OpenLiteSpeed: не показувати лістинг каталогу (403 на /news/27/).
+# Сторінку новини віддає nginx за deploy/nginx-site.conf; тут лише файли зображень.
+Options -Indexes
