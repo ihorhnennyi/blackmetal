@@ -1514,6 +1514,111 @@
           "value": "Organizing committee for the election of the Institute Director."
         }
       ]
+    },
+    {
+      "id": 28,
+      "title": "Awarding of Institute researchers on the occasion of Science Day",
+      "text": "On May 15, 2026, a festive event dedicated to Science Day in Ukraine was held in the meeting hall of the Academic Council of Dnipro Polytechnic.",
+      "content": [
+        {
+          "type": "text",
+          "value": "On May 15, 2026, in the solemn atmosphere of the meeting hall of the Academic Council of the National Technical University «Dnipro Polytechnic», a festive event dedicated to Science Day in Ukraine took place."
+        },
+        {
+          "type": "text",
+          "value": "Within the framework of the event, the best scientific and scientific-pedagogical workers of the Dnipropetrovsk region were recognized, whose dedicated work, significant scientific achievements, and fruitful activities contribute to the development of fundamental science, the establishment of high academic standards, and the implementation of innovative technologies in various fields of knowledge."
+        },
+        {
+          "type": "text",
+          "value": "For high professionalism, conscientious work, and a significant personal contribution to the development of national science and strengthening the scientific and technical potential of the Dnipropetrovsk region, the following researchers of the Institute were awarded certificates from the Department of Education and Science of the Dnipropetrovsk Regional State Administration:"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "navlink",
+              "value": "Yuriy SEMENOV — Head of the Department of Technological Equipment and Control Systems, Cand. of Tech. Sci.",
+              "href": "semenov-yuriy-stanislavovych"
+            },
+            {
+              "type": "navlink",
+              "value": "Ihor CHUIKO — Senior Researcher of the Department of Heat Treatment of Metal for Mechanical Engineering, Cand. of Tech. Sci.",
+              "href": "chuiko-ihor-mykolaiovych"
+            },
+            {
+              "type": "navlink",
+              "value": "Tetiana HOLUB — Senior Researcher of the Department of Physico-Technical Problems of Steel Metallurgy, Cand. of Tech. Sci.",
+              "href": "holub-tetiana-serhiivna"
+            },
+            {
+              "type": "navlink",
+              "value": "Tetiana BALAKHANOVA — Senior Researcher of the Department of Structural Steels, Cand. of Tech. Sci.",
+              "href": "balahanova-tetjana-valerijivna"
+            },
+            {
+              "type": "navlink",
+              "value": "Iryna POVOROTNIA — Senior Researcher of the Department of Physico-Chemical Problems of Metallurgical Processes, Cand. of Tech. Sci.",
+              "href": "povorotnia"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "value": "/newspics/28/28-1.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Festive event in the meeting hall of the Academic Council of Dnipro Polytechnic"
+        },
+        {
+          "type": "image",
+          "value": "/newspics/28/28-2.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Researchers of the Institute with certificates from the Department of Education and Science of the Dnipropetrovsk RSA"
+        },
+        {
+          "type": "image",
+          "value": "/newspics/28/28-3.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Certificate awarded to Yuriy SEMENOV"
+        },
+        {
+          "type": "image",
+          "value": "/newspics/28/28-4.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Certificate awarded to Ihor CHUIKO"
+        },
+        {
+          "type": "image",
+          "value": "/newspics/28/28-5.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Certificate awarded to Tetiana HOLUB"
+        },
+        {
+          "type": "image",
+          "value": "/newspics/28/28-6.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Certificate awarded to Tetiana BALAKHANOVA"
+        },
+        {
+          "type": "image",
+          "value": "/newspics/28/28-7.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Certificate awarded to Iryna POVOROTNIA"
+        }
+      ]
     }
   ]
 }

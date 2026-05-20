@@ -163,6 +163,10 @@ const renderContent = (item: NewsContentItem, index: number) => {
 	}
 
 	if (item.type === 'list') {
+		const listItems =
+			item.children ??
+			(Array.isArray(item.value) ? item.value : undefined)
+
 		return (
 			<List
 				key={index}
@@ -173,7 +177,7 @@ const renderContent = (item: NewsContentItem, index: number) => {
 					mb: 2,
 				}}
 			>
-				{item.children?.map((child, idx) => (
+				{listItems?.map((child, idx) => (
 					<ListItem
 						key={idx}
 						sx={{
@@ -183,9 +187,11 @@ const renderContent = (item: NewsContentItem, index: number) => {
 							lineHeight: 1.7,
 						}}
 					>
-						{child.children && child.children.length > 0
-							? child.children.map((c, i) => renderInline(c, i))
-							: child.value}
+						{child.type === 'navlink' || child.type === 'link'
+							? renderInline(child, idx)
+							: child.children && child.children.length > 0
+								? child.children.map((c, i) => renderInline(c, i))
+								: child.value}
 					</ListItem>
 				))}
 			</List>
