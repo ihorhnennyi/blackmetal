@@ -1518,7 +1518,7 @@
     {
       "id": 28,
       "title": "Awarding of Institute researchers on the occasion of Science Day",
-      "text": "On May 15, 2026, a festive event dedicated to Science Day in Ukraine was held in the meeting hall of the Academic Council of Dnipro Polytechnic.",
+      "text": "On May 15, 2026, in the solemn atmosphere of the meeting hall of the Academic Council of the National Technical University «Dnipro Polytechnic», a festive event dedicated to Science Day in Ukraine took place.",
       "content": [
         {
           "type": "text",
@@ -1530,36 +1530,46 @@
         },
         {
           "type": "text",
-          "value": "For high professionalism, conscientious work, and a significant personal contribution to the development of national science and strengthening the scientific and technical potential of the Dnipropetrovsk region, the following researchers of the Institute were awarded certificates from the Department of Education and Science of the Dnipropetrovsk Regional State Administration:"
+          "value": "For high professionalism, conscientious work, and a significant personal contribution to the development of national science and strengthening the scientific and technical potential of the Dnipropetrovsk region, the following researchers of the Institute were awarded certificates from the Department of Science and Education of the Dnipropetrovsk Regional State Administration:"
         },
         {
-          "type": "list",
-          "value": [
-            {
-              "type": "navlink",
-              "value": "Yuriy SEMENOV — Head of the Department of Technological Equipment and Control Systems, Cand. of Tech. Sci.",
-              "href": "semenov-yuriy-stanislavovych"
-            },
-            {
-              "type": "navlink",
-              "value": "Ihor CHUIKO — Senior Researcher of the Department of Heat Treatment of Metal for Mechanical Engineering, Cand. of Tech. Sci.",
-              "href": "chuiko-ihor-mykolaiovych"
-            },
-            {
-              "type": "navlink",
-              "value": "Tetiana HOLUB — Senior Researcher of the Department of Physico-Technical Problems of Steel Metallurgy, Cand. of Tech. Sci.",
-              "href": "holub-tetiana-serhiivna"
-            },
-            {
-              "type": "navlink",
-              "value": "Tetiana BALAKHANOVA — Senior Researcher of the Department of Structural Steels, Cand. of Tech. Sci.",
-              "href": "balahanova-tetjana-valerijivna"
-            },
-            {
-              "type": "navlink",
-              "value": "Iryna POVOROTNIA — Senior Researcher of the Department of Physico-Chemical Problems of Metallurgical Processes, Cand. of Tech. Sci.",
-              "href": "povorotnia"
-            }
+          "type": "text",
+          "children": [
+            { "type": "text", "value": "Head of the Department of Technological Equipment and Control Systems, Cand. of Tech. Sci. " },
+            { "type": "navlink", "value": "Yuriy SEMENOV", "href": "semenov-yuriy-stanislavovych" },
+            { "type": "text", "value": "," }
+          ]
+        },
+        {
+          "type": "text",
+          "children": [
+            { "type": "text", "value": "Senior Researcher of the Department of Heat Treatment of Metal for Mechanical Engineering, Cand. of Tech. Sci. " },
+            { "type": "navlink", "value": "Ihor CHUIKO", "href": "chuiko-ihor-mykolaiovych" },
+            { "type": "text", "value": "," }
+          ]
+        },
+        {
+          "type": "text",
+          "children": [
+            { "type": "text", "value": "Senior Researcher of the Department of Physico-Technical Problems of Steel Metallurgy, Cand. of Tech. Sci. " },
+            { "type": "navlink", "value": "Tetiana HOLUB", "href": "holub-tetiana-serhiivna" },
+            { "type": "text", "value": "," }
+          ]
+        },
+        {
+          "type": "text",
+          "children": [
+            { "type": "text", "value": "Senior Researcher of the Department of Structural Steels, Cand. of Tech. Sci. " },
+            { "type": "navlink", "value": "Tetiana BALAKHANOVA", "href": "balahanova-tetjana-valerijivna" },
+            { "type": "text", "value": "," }
+          ]
+        },
+        {
+          "type": "text",
+          "children": [
+            { "type": "text", "value": "Senior Researcher of the Department of Physico-Chemical Problems of Metallurgical Processes, Cand. of Tech. Sci. " },
+            { "type": "navlink", "value": "Iryna POVOROTNIA", "href": "povorotnia" },
+            { "type": "text", "value": "." }
           ]
         },
         {
@@ -1576,7 +1586,7 @@
         },
         {
           "type": "desc",
-          "value": "Researchers of the Institute with certificates from the Department of Education and Science of the Dnipropetrovsk RSA"
+          "value": "Researchers of the Institute with certificates from the Department of Science and Education of the Dnipropetrovsk RSA"
         },
         {
           "type": "image",
