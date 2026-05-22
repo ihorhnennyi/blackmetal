@@ -1222,21 +1222,21 @@
           "children": [
             {
               "type": "text",
-              "value": "At its first meeting on 16.03.2026, minutes No. 1, the election commission elected as chair of the election commission Cand. of Tech. Sci., Senior Researcher of the Department of Out-of-Furnace Iron Processing "
-            },
-            {
-              "type": "navlink",
-              "value": "Ivan MANACHYN",
-              "href": "manachyn"
-            },
-            {
-              "type": "text",
-              "value": ", as deputy chair of the election commission Cand. of Tech. Sci., Senior Researcher of the Department of Iron Metallurgy "
+              "value": "At its first meeting on 16.03.2026, minutes No. 1, the election commission elected as chair of the election commission Cand. of Tech. Sci., Senior Researcher of the Department of Iron Metallurgy "
             },
             {
               "type": "navlink",
               "value": "Bohdan KORNILOV",
               "href": "kornilov"
+            },
+            {
+              "type": "text",
+              "value": ", as deputy chair of the election commission Cand. of Tech. Sci., Senior Researcher of the Department of Out-of-Furnace Iron Processing "
+            },
+            {
+              "type": "navlink",
+              "value": "Ivan MANACHYN",
+              "href": "manachyn"
             },
             {
               "type": "text",
