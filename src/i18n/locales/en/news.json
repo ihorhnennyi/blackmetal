@@ -1629,6 +1629,119 @@
           "value": "Certificate awarded to Iryna POVOROTNIA"
         }
       ]
+    },
+    {
+      "id": 29,
+      "title": "Elections for the Institute Director took place",
+      "text": "On May 27, 2026, elections for the director of the Z. I. Nekrasov Institute of Ferrous Metallurgy of the NAS of Ukraine took place.",
+      "content": [
+        {
+          "type": "text",
+          "value": "On May 27, 2026, elections for the director of the Z. I. Nekrasov Institute of Ferrous Metallurgy of the NAS of Ukraine took place."
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "The sole candidate for the position of Institute Director was registered: Dr. Sc. (Tech.) "
+            },
+            {
+              "type": "navlink",
+              "value": "Hanna Andriivna KONONENKO",
+              "href": "kononenko-hanna-andriivna"
+            },
+            {
+              "type": "text",
+              "value": " (letter of the Department of Materials Science of the NAS of Ukraine No. 84/31 dated May 13, 2026)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Seventy full-time research staff of the Institute took part in the elections. According to the results of the secret ballot and vote counting, the votes were distributed as follows:"
+        },
+        {
+          "type": "list",
+          "children": [
+            { "type": "text", "value": "«for» — 65 votes;" },
+            { "type": "text", "value": "«against» — 5 votes;" },
+            { "type": "text", "value": "invalid ballots — 0." }
+          ]
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "Thus, the candidacy of Dr. Sc. (Tech.) "
+            },
+            {
+              "type": "navlink",
+              "value": "Hanna Andriivna KONONENKO",
+              "href": "kononenko-hanna-andriivna"
+            },
+            {
+              "type": "text",
+              "value": " for the position of Institute Director was supported by 92.86% of voters."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "In accordance with paragraph 3.12.4 of the Statute of the National Academy of Sciences of Ukraine, Dr. Sc. (Tech.) "
+            },
+            {
+              "type": "navlink",
+              "value": "Hanna Andriivna KONONENKO",
+              "href": "kononenko-hanna-andriivna"
+            },
+            {
+              "type": "text",
+              "value": " is considered elected to the position of Director of the Z. I. Nekrasov Institute of Ferrous Metallurgy of the NAS of Ukraine."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Organizing committee for the election of the Institute Director."
+        },
+        {
+          "type": "image",
+          "value": "/newspics/29/29-1.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Elections for the Institute Director"
+        },
+        {
+          "type": "image",
+          "value": "/newspics/29/29-2.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Organizing committee for the election of the Institute Director"
+        },
+        {
+          "type": "image",
+          "value": "/newspics/29/29-3.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Secret ballot"
+        },
+        {
+          "type": "image",
+          "value": "/newspics/29/29-4.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Ballot counting"
+        }
+      ]
     }
   ]
 }
