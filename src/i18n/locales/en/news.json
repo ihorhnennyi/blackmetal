@@ -1743,5 +1743,69 @@
         }
       ]
     }
+    ,
+    {
+      "id": 30,
+      "title": "Congratulations to Institute scientists on receiving honors from the National Academy of Sciences of Ukraine",
+      "text": "Congratulations to the Institute’s researchers on receiving honors from the Presidium of the National Academy of Sciences of Ukraine.",
+      "content": [
+        {
+          "type": "image",
+          "value": "/newspics/30/30-1.jpg"
+        },
+        {
+          "type": "text",
+          "value": "The Institute’s administration sincerely congratulates the researchers on receiving awards dedicated to Science Day."
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "The Presidium of the National Academy of Sciences of Ukraine recognized the significant contribution to the development of Ukrainian science, dedicated work, and support of scientific and educational activities in Ukraine by awarding Doctor of Technical Sciences, Leading Researcher of the Department of Technological Equipment and Control Systems "
+            },
+            {
+              "type": "navlink",
+              "value": "Kostiantyn BAIUL",
+              "href": "baiul-kostiantyn-vasylovych"
+            },
+            {
+              "type": "text",
+              "value": "."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "value": "/newspics/30/30-2.jpg"
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "An Honorary Diploma of the Presidium of the National Academy of Sciences of Ukraine and the Central Committee of the Trade Union of NAS of Ukraine employees was awarded to Candidate of Technical Sciences, Head of the Department of Physical and Technical Problems of Steel Metallurgy "
+            },
+            {
+              "type": "navlink",
+              "value": "Lavr MOLCHANOV",
+              "href": "molchanov-lavr-sergiyovych"
+            },
+            {
+              "type": "text",
+              "value": "."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "value": "/newspics/30/30-3.jpg"
+        },
+        {
+          "type": "text",
+          "value": "We wish our scientists further professional achievements, inspiration, strong scientific results, successful implementation of ambitious research projects, and new accomplishments for the benefit of national science!"
+        }
+      ]
+    }
   ]
 }
