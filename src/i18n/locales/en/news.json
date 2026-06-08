@@ -1806,6 +1806,202 @@
           "value": "We wish our scientists further professional achievements, inspiration, strong scientific results, successful implementation of ambitious research projects, and new accomplishments for the benefit of national science!"
         }
       ]
+    },
+    {
+      "id": 31,
+      "title": "All-Ukrainian science popularization initiative «Material World»",
+      "text": "On June 2, 2026, students from Dnipro schools visited the Z. I. Nekrasov Institute of Ferrous Metallurgy of the NAS of Ukraine as part of the «Material World» initiative.",
+      "content": [
+        {
+          "type": "image",
+          "value": "/newspics/31/31-1.jpg"
+        },
+        {
+          "type": "text",
+          "value": "As part of the all-Ukrainian science popularization initiative «Material World», organized by the Ukrainian Materials Research Society, leading scientific institutions in Dnipro, Kyiv, Lviv, Kharkiv, and Lutsk opened their doors to young researchers."
+        },
+        {
+          "type": "image",
+          "value": "/newspics/31/31-2.jpg"
+        },
+        {
+          "type": "text",
+          "value": "On June 2, 2026, students from KZO «NFML» DOR, Lyceum No. 28 of the Dnipro City Council, and Slobozhanske Lyceum of the Slobozhanske Settlement Council visited the Z. I. Nekrasov Institute of Ferrous Metallurgy of the NAS of Ukraine. The event aimed to introduce schoolchildren to advanced achievements in materials science and engineering, as well as to promote STEM education among young people."
+        },
+        {
+          "type": "image",
+          "value": "/newspics/31/31-3.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Schoolchildren visited the Z. I. Nekrasov Institute of Ferrous Metallurgy of the NAS of Ukraine"
+        },
+        {
+          "type": "image",
+          "value": "/newspics/31/31-4.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Greetings to participants from different cities via video conference"
+        },
+        {
+          "type": "text",
+          "value": "During the excursion to the Institute, the students learned how pig iron and steel are produced, what stages metal goes through from ore to finished product, and why the properties of materials play a key role in the development of modern technologies."
+        },
+        {
+          "type": "image",
+          "value": "/newspics/31/31-5.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Staff of the State Museum of Metallurgy of Ukraine talk about the metallurgy of our region"
+        },
+        {
+          "type": "image",
+          "value": "/newspics/31/31-6.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Staff of the State Museum of Metallurgy of Ukraine explain the principles of blast furnace operation"
+        },
+        {
+          "type": "image",
+          "value": "/newspics/31/31-7.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "Basic diagram of blast furnace production organization"
+        },
+        {
+          "type": "image",
+          "value": "/newspics/31/31-8.jpg"
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "Senior Researcher "
+            },
+            {
+              "type": "navlink",
+              "value": "Ivan MANACHYN",
+              "href": "manachyn"
+            },
+            {
+              "type": "text",
+              "value": " explains the role of magnesium in metallurgical processes"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "A visit to the metallographic laboratory aroused particular interest, allowing participants to look behind the scenes of scientific research. The children learned how samples are prepared for studies, became familiar with metallographic analysis methods, and compared the structure of different materials under a microscope. The students also visited the mechanical testing laboratory, where they learned about the main methods for determining mechanical properties and how the reliability of metals for industrial use is assessed."
+        },
+        {
+          "type": "image",
+          "value": "/newspics/31/31-9.jpg"
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "Researcher "
+            },
+            {
+              "type": "bold",
+              "value": "Olena PODOLSKA"
+            },
+            {
+              "type": "text",
+              "value": " demonstrates the process of preparing metallographic specimens"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "value": "/newspics/31/31-10.jpg"
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "Senior Researcher "
+            },
+            {
+              "type": "navlink",
+              "value": "Tetiana BALAKHANOVA",
+              "href": "balahanova-tetjana-valerijivna"
+            },
+            {
+              "type": "text",
+              "value": " demonstrates the operation of an optical microscope"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "value": "/newspics/31/31-11.jpg"
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "Senior Researcher "
+            },
+            {
+              "type": "navlink",
+              "value": "Rostyslav PODOLSKYI",
+              "href": "podolskyi-rostyslav-viacheslavovych"
+            },
+            {
+              "type": "text",
+              "value": " demonstrates the operation of a tensile testing machine for metal samples"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "The eventful scientific day concluded with a vivid chemistry show, during which participants watched spectacular experiments and saw for themselves that science can be not only useful but also incredibly exciting."
+        },
+        {
+          "type": "image",
+          "value": "/newspics/31/31-12.jpg"
+        },
+        {
+          "type": "desc",
+          "value": "«Water Volcano» experiment"
+        },
+        {
+          "type": "image",
+          "value": "/newspics/31/31-13.jpg"
+        },
+        {
+          "type": "text",
+          "children": [
+            {
+              "type": "text",
+              "value": "Senior Researcher "
+            },
+            {
+              "type": "navlink",
+              "value": "Tetiana BALAKHANOVA",
+              "href": "balahanova-tetjana-valerijivna"
+            },
+            {
+              "type": "text",
+              "value": " conducts the «Coke-Sprite-Fanta» experiment"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "We hope that getting acquainted with the world of materials science will encourage young visitors to gain new knowledge, develop curiosity, a research approach and critical thinking, and perhaps become the first step on the path to a future scientific career."
+        }
+      ]
     }
   ]
 }
