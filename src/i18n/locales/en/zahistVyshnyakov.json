@@ -1,0 +1,34 @@
+{
+	"title": "Defense of Vyshnyakov V.I.",
+	"blocks": [
+		{
+			"type": "smalltext",
+			"content": "On July 10, 2026, at 13:00, a meeting of the specialized academic council D 08.231.01 will host the defense of the dissertation prepared by Valerii Ivanovych Vyshnyakov, Researcher of the Pig Iron Metallurgy Department at the Z.I. Nekrasov Institute of Ferrous Metallurgy of the NAS of Ukraine, on the topic \"Improvement of Methods for Determining the Composition of Burden Material Mixtures in Different Zones of a Blast Furnace and Evaluation of the Properties of Their Primary Melts\" in the specialty 05.16.02 – Metallurgy of Ferrous and Non-Ferrous Metals and Special Alloys (Technical Sciences) for the degree of Candidate of Technical Sciences. Scientific Supervisor – Iryna Hennadiivna Muravyova, Doctor of Technical Sciences, Professor, Leading Researcher of the Pig Iron Metallurgy Department at the Institute of Ferrous Metallurgy of the NAS of Ukraine, Dnipro."
+		},
+		{
+			"type": "documents",
+			"data": [
+				{
+					"title": "Dissertation",
+					"link": "/Дисертація-Вишняков-В.І..pdf"
+				},
+				{
+					"title": "Abstract",
+					"link": "/Реферат-Вишняков-В.І..pdf"
+				},
+				{
+					"title": "Review of the first opponent",
+					"link": "/Відгук-1-Вишняков-В.І..pdf"
+				},
+				{
+					"title": "Review of the second opponent",
+					"link": "/Відгук-2-Вишняков-В.І..pdf"
+				},
+				{
+					"title": "Defense video",
+					"link": "/Відео-захисту-Вишняков-В.І..mp4"
+				}
+			]
+		}
+	]
+}

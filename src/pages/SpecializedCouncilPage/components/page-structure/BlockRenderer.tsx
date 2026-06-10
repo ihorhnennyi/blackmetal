@@ -18,7 +18,7 @@ interface BlockData {
 }
 
 interface SpecializedCouncilBlock {
-  type: 'text' | 'smalltext' | 'document' | 'documents' | 'contacts'
+  type: 'text' | 'smalltext' | 'sectionTitle' | 'document' | 'documents' | 'contacts'
   content?: string
   data?: BlockData
 }
@@ -34,6 +34,9 @@ export const BlockRenderer = ({ block }: BlockRendererProps) => {
 
     case 'smalltext':
       return block.content ? <TextBlock content={block.content} variant="small" /> : null
+
+    case 'sectionTitle':
+      return block.content ? <TextBlock content={block.content} variant="sectionTitle" /> : null
 
     case 'contacts':
       return block.data && Array.isArray(block.data) ? (

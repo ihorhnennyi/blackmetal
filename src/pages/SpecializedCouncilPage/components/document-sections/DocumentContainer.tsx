@@ -34,7 +34,7 @@ export const DocumentContainer = ({
 
   if (variant === 'multiple' && documents) {
     return (
-      <Box sx={{ maxWidth: '1220px', mt: '28px', mx: 'auto' }}>
+      <Box sx={{ mt: '8px', mb: '40px' }}>
         <Box sx={DocumentCardAdaptation}>
           {documents.map((item, idx) => (
             <DocumentCard

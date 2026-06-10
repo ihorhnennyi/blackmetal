@@ -287,6 +287,18 @@
 		"title": "Захист Кімстач",
 		"layout": "MainLayout"
 	},
+	"StepanenkoPage": {
+		"path": "/training/specialized/stepanenko",
+		"component": "StepanenkoPage",
+		"title": "Захист Степаненка Д.О.",
+		"layout": "MainLayout"
+	},
+	"VyshnyakovPage": {
+		"path": "/training/specialized/vyshnyakov",
+		"component": "VyshnyakovPage",
+		"title": "Захист Вишнякова В.І.",
+		"layout": "MainLayout"
+	},
 	"NotFoundPage": {
 		"path": "*",
 		"component": "NotFoundPage",

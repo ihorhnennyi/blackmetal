@@ -1,0 +1,46 @@
+{
+	"title": "Defense of Stepanenko D.O.",
+	"blocks": [
+		{
+			"type": "smalltext",
+			"content": "On July 10, 2026, at 10:00, a meeting of the specialized academic council D 08.231.01 will host the defense of the dissertation prepared by Dmytro Oleksandrovych Stepanenko, Head of the Department of Physicochemical Problems of Metallurgical Processes at the Institute of Ferrous Metallurgy of the NAS of Ukraine, on the topic \"Development of Scientific Foundations for Determining the Structural State of Slag Melts for Selecting a Rational Chemical Composition in Pig Iron and Steel Production\" in the specialty 05.16.02 – Metallurgy of Ferrous and Non-Ferrous Metals and Special Alloys (Technical Sciences) for the degree of Doctor of Technical Sciences. Scientific Consultant – Daria Mykolaivna Tohobytska, Doctor of Technical Sciences, Professor, Leading Researcher of the Department of Physicochemical Problems of Metallurgical Processes at the Institute of Ferrous Metallurgy of the NAS of Ukraine, Dnipro."
+		},
+		{
+			"type": "documents",
+			"data": [
+				{
+					"title": "Dissertation",
+					"link": "/Дисертація-Степаненко-Д.О..pdf"
+				},
+				{
+					"title": "Abstract",
+					"link": "/Реферат-Степаненко-Д.О..pdf"
+				},
+				{
+					"title": "Conclusion on scientific novelty, theoretical and practical significance of the doctoral dissertation results",
+					"link": "/Висновок-Степаненко-Д.О..pdf"
+				},
+				{
+					"title": "Review of the first opponent",
+					"link": "/Відгук-1-Степаненко-Д.О..pdf"
+				},
+				{
+					"title": "Review of the second opponent",
+					"link": "/Відгук-2-Степаненко-Д.О..pdf"
+				},
+				{
+					"title": "Review of the third opponent",
+					"link": "/Відгук-3-Степаненко-Д.О..pdf"
+				},
+				{
+					"title": "Dissertation registration card",
+					"link": "/Облікова-картка-Степаненко-Д.О..pdf"
+				},
+				{
+					"title": "Defense video",
+					"link": "/Відео-захисту-Степаненко-Д.О..mp4"
+				}
+			]
+		}
+	]
+}

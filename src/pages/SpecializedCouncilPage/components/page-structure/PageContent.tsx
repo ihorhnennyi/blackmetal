@@ -14,7 +14,7 @@ interface BlockData {
 }
 
 interface SpecializedCouncilBlock {
-	type: 'text' | 'smalltext' | 'document' | 'documents' | 'contacts'
+	type: 'text' | 'smalltext' | 'sectionTitle' | 'document' | 'documents' | 'contacts'
 	content?: string
 	data?: BlockData
 }
@@ -31,15 +31,24 @@ interface PageContentProps {
 export const PageContent = ({ data }: PageContentProps) => {
 	const navigate = useNavigate()
 	return (
-		<Box sx={{ pl: { xxs: '0px', md: '50px' }, pb: '30px' }}>
-			<DocumentTitleSearch title={data.title} search={false} />
-			<Box>
+		<Box
+			sx={{
+				px: { xxs: '16px', sm: '24px' },
+				pl: { md: '50px' },
+				pr: { md: '24px' },
+				pb: '30px',
+			}}
+		>
+			<Box sx={{ maxWidth: '1220px', mx: 'auto', width: '100%' }}>
+				<DocumentTitleSearch title={data.title} search={false} />
+			</Box>
+			<Box sx={{ maxWidth: '1220px', mx: 'auto', width: '100%' }}>
 				{data.blocks.map((block, index) => (
 					<Box key={index}>
 						<BlockRenderer block={block} />
 					</Box>
 				))}
-				<Box sx={{ display: 'flex' }}>
+				<Box sx={{ display: 'flex', mt: '28px' }}>
 					<Button
 						onClick={() => navigate(routes.KimstachPage.path)}
 						variant='contained'
