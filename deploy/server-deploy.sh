@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Оновлення сайту: git pull + build.
+# Оновлення сайту: git pull + build + перевірка PDF/статики.
 # cd /www/wwwroot/isi.gov.ua && bash deploy/server-deploy.sh
 set -euo pipefail
 
@@ -18,7 +18,14 @@ if [ ! -w . ] || { [ -d .git ] && [ ! -w .git ]; }; then
 	fi
 fi
 
-git pull origin "$BRANCH"
+echo "==> git pull origin $BRANCH"
+git pull --ff-only origin "$BRANCH"
+echo "    commit: $(git log -1 --oneline)"
+
+echo "==> PDF permissions (public/)"
+find public -type f \( -name '*.pdf' -o -name '*.PDF' \) -exec chmod 644 {} \; 2>/dev/null || true
+
+echo "==> clean + install + build"
 rm -rf node_modules dist
 export npm_config_cache="$SITE_DIR/.npm-cache"
 mkdir -p "$npm_config_cache"
@@ -27,6 +34,12 @@ npm run build
 
 # Старі каталоги dist/news/* конфліктували з URL /news/27/
 rm -rf dist/news public/news
+
+echo "==> verify static assets (JSON links → dist/)"
+node deploy/verify-static-assets.mjs
+
+echo "==> syllabus132:"
+ls -lh dist/syllabus132/*.pdf 2>/dev/null | tail -5 || true
 
 echo "OK: $(cat dist/version.json 2>/dev/null || echo 'built')"
 echo "Nginx root: $SITE_DIR/dist"
