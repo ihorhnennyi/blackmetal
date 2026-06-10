@@ -17,13 +17,13 @@ function resolveBuildId(): string {
 function emitNewsDataPlugin(buildId: string): Plugin {
 	return {
 		name: 'emit-news-data',
-		closeBundle() {
-			const outDir = path.resolve(process.cwd(), 'dist')
-			fs.writeFileSync(
-				path.join(outDir, 'version.json'),
-				JSON.stringify({ buildId, builtAt: new Date().toISOString() }),
-				'utf-8'
-			)
+		generateBundle() {
+			this.emitFile({
+				type: 'asset',
+				fileName: 'version.json',
+				source: JSON.stringify({ buildId, builtAt: new Date().toISOString() }),
+			})
+
 			const newsData = JSON.parse(
 				fs.readFileSync(path.resolve(process.cwd(), 'src/data/newsData.json'), 'utf-8')
 			)
@@ -49,11 +49,11 @@ function emitNewsDataPlugin(buildId: string): Plugin {
 					newsTitle: translationData.newsTitle,
 					news: mergedNews,
 				}
-				fs.writeFileSync(
-					path.join(outDir, `news-data.${lang}.json`),
-					JSON.stringify(payload),
-					'utf-8'
-				)
+				this.emitFile({
+					type: 'asset',
+					fileName: `news-data.${lang}.json`,
+					source: JSON.stringify(payload),
+				})
 			}
 		},
 	}

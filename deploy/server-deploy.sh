@@ -19,7 +19,7 @@ if [ ! -w . ] || { [ -d .git ] && [ ! -w .git ]; }; then
 fi
 
 git pull origin "$BRANCH"
-rm -rf node_modules
+rm -rf node_modules dist
 export npm_config_cache="$SITE_DIR/.npm-cache"
 mkdir -p "$npm_config_cache"
 npm ci
