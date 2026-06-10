@@ -61,6 +61,41 @@ function emitNewsDataPlugin(buildId: string): Plugin {
 
 const buildId = resolveBuildId()
 
+function createPublicPdfMiddleware(publicSubdir: string) {
+	const dir = path.resolve(process.cwd(), 'public', publicSubdir)
+	return (req: { url?: string }, res: import('http').ServerResponse, next: () => void) => {
+		const url = req.url?.split('?')[0] ?? ''
+		const prefix = `/${publicSubdir}/`
+		if (!url.startsWith(prefix) || !url.toLowerCase().endsWith('.pdf')) {
+			return next()
+		}
+		try {
+			const pathPart = url.slice(prefix.length).trim()
+			const fileName = pathPart.includes('%') ? decodeURIComponent(pathPart) : pathPart
+			const safePath = path.normalize(path.join(dir, fileName))
+			if (!safePath.startsWith(dir)) return next()
+
+			const tryServe = (filePath: string) => {
+				if (!fs.existsSync(filePath)) return false
+				res.setHeader('Content-Type', 'application/pdf')
+				res.setHeader('Content-Disposition', 'inline')
+				fs.createReadStream(filePath).pipe(res)
+				return true
+			}
+
+			if (tryServe(safePath)) return
+
+			const normalized = fileName.normalize('NFC')
+			const files = fs.readdirSync(dir)
+			const match = files.find(
+				(f) => f.endsWith('.pdf') && f.normalize('NFC') === normalized
+			)
+			if (match && tryServe(path.join(dir, match))) return
+		} catch (_) {}
+		next()
+	}
+}
+
 export default defineConfig({
   define: {
     'import.meta.env.VITE_BUILD_ID': JSON.stringify(buildId),
@@ -178,7 +213,10 @@ export default defineConfig({
         } catch (_) {}
         next()
       }
-      // Run our middleware first so /plans/*.pdf and /developments/* are served before SPA fallback
+      const syllabus132PdfMiddleware = createPublicPdfMiddleware('syllabus132')
+
+      // Run our middleware first so static PDFs are served before SPA fallback
+      server.middlewares.stack.unshift({ route: '', handle: syllabus132PdfMiddleware })
       server.middlewares.stack.unshift({ route: '', handle: developmentsMiddleware })
       server.middlewares.stack.unshift({ route: '', handle: plansPdfMiddleware })
     }
