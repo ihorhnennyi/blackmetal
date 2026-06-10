@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Один раз (або після sudo npm install): повертає власника каталогу сайту поточному користувачу.
+# Після sudo npm install або EACCES на .npm-cache / node_modules.
+# bash deploy/fix-permissions.sh
 set -euo pipefail
 
 SITE_DIR="${1:-/www/wwwroot/isi.gov.ua}"
@@ -15,7 +16,10 @@ if ! command -v sudo >/dev/null 2>&1; then
 	exit 1
 fi
 
-echo "==> chown -R $ME:$ME $SITE_DIR"
+echo "==> chown -R $ME:$ME $SITE_DIR (включно з .npm-cache і node_modules)"
 sudo chown -R "$ME:$ME" "$SITE_DIR"
+
+echo "==> видалення зламаного кешу npm"
+rm -rf "$SITE_DIR/.npm-cache" "$SITE_DIR/node_modules"
 
 echo "==> OK. Далі: cd $SITE_DIR && bash deploy/server-deploy.sh"
