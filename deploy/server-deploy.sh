@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Оновлення сайту: git pull + build + перевірка PDF/статики.
 # cd /www/wwwroot/isi.gov.ua && bash deploy/server-deploy.sh
+# або: sudo bash deploy/one-shot-deploy.sh
 set -euo pipefail
 
 SITE_DIR="${SITE_DIR:-/www/wwwroot/isi.gov.ua}"
@@ -21,7 +22,7 @@ fix_ownership() {
 			sudo chown -R "$ME:$ME" "$SITE_DIR"
 		else
 			echo "Немає прав на .npm-cache або node_modules."
-			echo "Запустіть: sudo chown -R $ME:$ME $SITE_DIR"
+			echo "Запустіть: sudo bash deploy/one-shot-deploy.sh"
 			exit 1
 		fi
 	fi
@@ -45,21 +46,39 @@ mkdir -p "$npm_config_cache"
 
 fix_ownership
 
-npm ci
-npm run build
+if ! npm ci; then
+	echo ""
+	echo "ERROR: npm ci failed (часто через права root на .npm-cache)."
+	echo "Виправлення: cd $SITE_DIR && sudo bash deploy/one-shot-deploy.sh"
+	exit 1
+fi
 
-# Старі каталоги dist/news/* конфліктували з URL /news/27/
+if ! npm run build; then
+	echo ""
+	echo "ERROR: npm run build failed"
+	exit 1
+fi
+
 rm -rf dist/news public/news
 
 if [ -f deploy/verify-static-assets.mjs ]; then
-	echo "==> verify static assets (JSON links → dist/)"
+	echo "==> verify static assets"
 	node deploy/verify-static-assets.mjs
-else
-	echo "WARN: deploy/verify-static-assets.mjs not found — git pull may be incomplete"
 fi
 
-echo "==> syllabus132:"
-ls -lh dist/syllabus132/*.pdf 2>/dev/null | tail -5 || true
+echo "==> key files in dist:"
+for f in \
+	"dist/version.json" \
+	"dist/syllabus132/З2Іноземна-мова.pdf" \
+	"dist/surveys/Рейтинг викладачів.pdf"
+do
+	if [ -f "$f" ]; then
+		ls -lh "$f"
+	else
+		echo "MISSING: $f"
+	fi
+done
 
-echo "OK: $(cat dist/version.json 2>/dev/null || echo 'built')"
-echo "Nginx root: $SITE_DIR/dist"
+echo ""
+echo "OK: buildId=$(node -e "console.log(JSON.parse(require('fs').readFileSync('dist/version.json')).buildId)" 2>/dev/null || echo '?')"
+echo "Nginx document root must be: $SITE_DIR/dist"
