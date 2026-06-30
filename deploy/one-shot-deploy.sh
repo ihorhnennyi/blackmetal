@@ -22,6 +22,12 @@ fi
 echo "==> chown -R $RUN_USER:$RUN_USER $SITE_DIR"
 chown -R "$RUN_USER:$RUN_USER" "$SITE_DIR"
 
+# Stale lock from a previous failed git command (often created as root)
+if [ -f "$SITE_DIR/.git/index.lock" ]; then
+	echo "==> remove stale .git/index.lock"
+	rm -f "$SITE_DIR/.git/index.lock"
+fi
+
 if [ -d /www/server/nodejs/cache ]; then
 	chown -R "$RUN_USER:$RUN_USER" /www/server/nodejs/cache 2>/dev/null || true
 fi

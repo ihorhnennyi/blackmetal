@@ -30,6 +30,13 @@ fix_ownership() {
 
 fix_ownership
 
+if [ -f "$SITE_DIR/.git/index.lock" ] && [ ! -w "$SITE_DIR/.git/index.lock" ]; then
+	if command -v sudo >/dev/null 2>&1; then
+		echo "==> remove stale .git/index.lock (wrong owner)"
+		sudo rm -f "$SITE_DIR/.git/index.lock"
+	fi
+fi
+
 echo "==> git pull origin $BRANCH"
 git pull --ff-only origin "$BRANCH"
 echo "    commit: $(git log -1 --oneline)"
