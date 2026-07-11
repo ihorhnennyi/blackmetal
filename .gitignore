@@ -25,3 +25,6 @@ dist-ssr
 
 .env
 
+# Large defense video recordings (upload to server separately)
+public/specialized/**/*.avi
+
