@@ -3,6 +3,7 @@ import { Box, Typography } from '@mui/material'
 import { useTranslationData } from '@/hooks/useTranslationData'
 import { DocumentCardAdaptation } from '@/components/DocumentCard/styles'
 import { DocumentCardProps } from '@/components/DocumentCard/DocumentCardInterface'
+import { useLocation } from 'react-router-dom'
 
 interface BlockData {
 	title?: string
@@ -24,8 +25,16 @@ interface SpecCouncilsData {
 	blocks: SpecCouncilsBlock[]
 }
 
+const TRANSLATION_BY_PATH: Record<string, string> = {
+	'/training/special-councils/metallurgy/phd7744': 'spec-councils',
+	'/training/special-councils/materials-science/phd-podolska': 'spec-councils-podolska',
+	'/training/special-councils/materials-science/phd-oliinyk': 'spec-councils-oliinyk',
+}
+
 const SpecCouncilsPage = () => {
-	const { data } = useTranslationData<SpecCouncilsData>('spec-councils')
+	const { pathname } = useLocation()
+	const translationKey = TRANSLATION_BY_PATH[pathname] ?? 'spec-councils'
+	const { data } = useTranslationData<SpecCouncilsData>(translationKey)
 
 	if (!data) {
 		return null

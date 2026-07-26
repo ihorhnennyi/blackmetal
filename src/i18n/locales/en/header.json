@@ -199,7 +199,18 @@
             {
               "id": "materials-science",
               "label": "Materials Science",
-              "href": "/training/special-councils/materials-science"
+              "items": [
+                {
+                  "id": "phd-podolska",
+                  "label": "PhD (Podolska O.A.)",
+                  "href": "/training/special-councils/materials-science/phd-podolska"
+                },
+                {
+                  "id": "phd-oliinyk",
+                  "label": "PhD (Oliinyk E.V.)",
+                  "href": "/training/special-councils/materials-science/phd-oliinyk"
+                }
+              ]
             }
           ]
         },

@@ -100,14 +100,15 @@ export const NavItem = ({
 								fontWeight='bold'
 								sx={{
 									whiteSpace: 'normal',
-									wordBreak: 'break-word',
-									overflowWrap: 'anywhere',
-									maxWidth: '100%',
+									wordBreak: 'normal',
+									overflowWrap: 'break-word',
+									lineHeight: 1.3,
+									pr: 1,
 								}}
 							>
 								{t(subItem.label)}
 							</Typography>
-							<KeyboardArrowRightIcon fontSize='small' />
+							<KeyboardArrowRightIcon fontSize='small' sx={{ flexShrink: 0 }} />
 						</Box>
 
 						<Fade in={isOpenHere} timeout={200}>
@@ -138,6 +139,7 @@ export const NavItem = ({
 								sx={{
 									minHeight: '50px',
 									py: 1,
+									whiteSpace: 'normal',
 									color: '#373737',
 									'&:hover': { backgroundColor: '#2D7A84', color: '#fff' },
 								}}
@@ -146,9 +148,9 @@ export const NavItem = ({
 									fontWeight='bold'
 									sx={{
 										whiteSpace: 'normal',
-										wordBreak: 'break-word',
-										overflowWrap: 'anywhere',
-										maxWidth: '100%',
+										wordBreak: 'normal',
+										overflowWrap: 'break-word',
+										lineHeight: 1.3,
 									}}
 								>
 									{t(subItem.label)}
@@ -161,6 +163,7 @@ export const NavItem = ({
 							sx={{
 								minHeight: '50px',
 								py: 1,
+								whiteSpace: 'normal',
 								color: '#373737',
 								'&:hover': { backgroundColor: '#2D7A84', color: '#fff' },
 							}}
@@ -169,9 +172,9 @@ export const NavItem = ({
 								fontWeight='bold'
 								sx={{
 									whiteSpace: 'normal',
-									wordBreak: 'break-word',
-									overflowWrap: 'anywhere',
-									maxWidth: '100%',
+									wordBreak: 'normal',
+									overflowWrap: 'break-word',
+									lineHeight: 1.3,
 								}}
 							>
 								{t(subItem.label)}

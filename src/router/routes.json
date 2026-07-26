@@ -227,6 +227,18 @@
 		"title": "Разова спеціалізована вчена рада PhD 7744",
 		"layout": "MainLayout"
 	},
+	"SpecCouncilsPodolskaPage": {
+		"path": "/training/special-councils/materials-science/phd-podolska",
+		"component": "SpecCouncilsPage",
+		"title": "Разова спеціалізована вчена рада PhD (Подольська О.А.)",
+		"layout": "MainLayout"
+	},
+	"SpecCouncilsOliinykPage": {
+		"path": "/training/special-councils/materials-science/phd-oliinyk",
+		"component": "SpecCouncilsPage",
+		"title": "Разова спеціалізована вчена рада PhD (Олійник Е.В.)",
+		"layout": "MainLayout"
+	},
 	"TestingCenterPage": {
 		"path": "/services/testing-center",
 		"component": "TestingCenterPage",

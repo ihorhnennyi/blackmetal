@@ -9,5 +9,5 @@ export const DropdownMenu = styled(Box)({
 	backgroundColor: '#fff',
 	boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.1)',
 	minWidth: '220px',
-	maxWidth: '260px',
+	maxWidth: '280px',
 })

@@ -8,5 +8,6 @@ export const NestedDropdownMenu = styled(Box)({
 	zIndex: 1002,
 	backgroundColor: '#fff',
 	boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.1)',
-	minWidth: '240px',
+	minWidth: '200px',
+	maxWidth: '260px',
 })
