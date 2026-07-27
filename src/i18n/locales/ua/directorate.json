@@ -37,6 +37,45 @@
 			]
 		},
 		{
+			"id": "parusov-eduard-volodymyrovych",
+			"photo": "/employees/parusov-eduard-volodymyrovych.jpg",
+			"position": "Заступник директора з наукової роботи, завідуючий відділом",
+			"name": "Парусов Едуард Володимирович",
+			"description": "Доктор технічних наук, старший науковий співробітник",
+			"researchDirection": "Деформаційно-термічна обробка металів і сплавів; особливості перебігу фазових та структурних перетворень в вуглецевих і легованих сталях за безперервного та ізотермічного охолодження; розроблення і промислове впровадження наскрізних технологій виготовлення та перероблення бунтового прокату з низьковуглецевих, високовуглецевих і низьковуглецевих легованих сталей.",
+			"specialization": "05.02.01 – Матеріалознавство",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "tometal@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878138 "
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=eE1rZKgAAAAJ "
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-4560-2043"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=8367262600"
+				},
+				{
+					"type": "Web Of Science",
+					"value": "https://www.webofscience.com/wos/author/record/504824 "
+				},
+				{
+					"type": "researchgate",
+					"value": "https://www.researchgate.net/profile/Eduard-Parusov-2"
+				}
+			]
+		},
+		{
 			"id": "harmash",
 			"photo": "/employees/harmash.jpg",
 			"position": "Вчений секретар, старший науковий співробітник",
@@ -68,6 +107,19 @@
 				{
 					"type": "webofscience",
 					"value": ""
+				}
+			]
+		},
+		{
+			"id": "baryshev-yevhen-volodymyrovych",
+			"position": "Заступник директора з загальних питань",
+			"name": "Баришев Євген Володимирович",
+			"description": "",
+			"researchDirection": "",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "epichm@ukr.net"
 				}
 			]
 		}

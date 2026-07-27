@@ -37,6 +37,45 @@
 			]
 		},
 		{
+			"id": "parusov-eduard-volodymyrovych",
+			"photo": "/employees/parusov-eduard-volodymyrovych.jpg",
+			"position": "Deputy Director for Scientific Work, Head of Department",
+			"name": "Parusov Eduard Volodymyrovych",
+			"description": "Doctor of Technical Sciences, Senior Researcher",
+			"researchDirection": "Thermomechanical processing of metals and alloys; features of phase and structural transformations in carbon and alloy steels during continuous and isothermal cooling; development and industrial implementation of end-to-end technologies for the production and processing of coiled rolled products from low-carbon, high-carbon and low-carbon alloy steels.",
+			"specialization": "05.02.01 – Materials Science",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "tometal@ukr.net"
+				},
+				{
+					"type": "Encyclopedia",
+					"value": "https://esu.com.ua/article-878138 "
+				},
+				{
+					"type": "Google Scholar",
+					"value": "https://scholar.google.com.ua/citations?hl=uk&user=eE1rZKgAAAAJ "
+				},
+				{
+					"type": "ORCID iD",
+					"value": "https://orcid.org/0000-0002-4560-2043"
+				},
+				{
+					"type": "Scopus Author ID",
+					"value": "https://www.scopus.com/authid/detail.uri?authorId=8367262600"
+				},
+				{
+					"type": "Web Of Science",
+					"value": "https://www.webofscience.com/wos/author/record/504824 "
+				},
+				{
+					"type": "researchgate",
+					"value": "https://www.researchgate.net/profile/Eduard-Parusov-2"
+				}
+			]
+		},
+		{
 			"id": "harmash",
 			"photo": "/employees/harmash.jpg",
 			"position": "Scientific Secretary, Senior Researcher",
@@ -68,6 +107,19 @@
 				{
 					"type": "webofscience",
 					"value": ""
+				}
+			]
+		},
+		{
+			"id": "baryshev-yevhen-volodymyrovych",
+			"position": "Deputy Director for General Affairs",
+			"name": "Baryshev Yevhen Volodymyrovych",
+			"description": "",
+			"researchDirection": "",
+			"contacts": [
+				{
+					"type": "Email",
+					"value": "epichm@ukr.net"
 				}
 			]
 		}
