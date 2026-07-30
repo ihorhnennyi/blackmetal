@@ -16,6 +16,11 @@ const canUseLocalStorage = (): boolean => {
 	}
 }
 
+const syncHtmlLang = (lng: string) => {
+	const code = (lng || '').split(/[-_]/)[0]?.toLowerCase() ?? ''
+	document.documentElement.lang = code === 'en' ? 'en' : 'uk'
+}
+
 i18n
 	.use(LanguageDetector)
 	.use(initReactI18next)
@@ -31,7 +36,8 @@ i18n
 			escapeValue: false,
 		},
 		detection: {
-			order: canUseLocalStorage() ? ['localStorage', 'navigator'] : ['navigator'],
+			// Only remember an explicit user choice; otherwise stay on Ukrainian
+			order: canUseLocalStorage() ? ['localStorage'] : [],
 			caches: canUseLocalStorage() ? ['localStorage'] : [],
 			convertDetectedLanguage: lng => {
 				const raw = (lng || '').trim()
@@ -42,5 +48,8 @@ i18n
 			},
 		},
 	})
+
+syncHtmlLang(i18n.resolvedLanguage || i18n.language || 'ua')
+i18n.on('languageChanged', syncHtmlLang)
 
 export default i18n
