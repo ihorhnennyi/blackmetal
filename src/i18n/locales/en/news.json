@@ -752,9 +752,18 @@
               "type": "text",
               "value": "development of entrepreneurial competencies,"
             },
-            { "type": "text", "value": "formation of innovation ecosystems" },
-            { "type": "text", "value": "inclusive entrepreneurship" },
-            { "type": "text", "value": "project scaling" }
+            {
+              "type": "text",
+              "value": "formation of innovation ecosystems"
+            },
+            {
+              "type": "text",
+              "value": "inclusive entrepreneurship"
+            },
+            {
+              "type": "text",
+              "value": "project scaling"
+            }
           ]
         },
         {
@@ -1254,8 +1263,7 @@
           ]
         }
       ]
-    }
-    ,
+    },
     {
       "id": 25,
       "title": "Admission announcement for PhD and Doctoral studies",
@@ -1535,41 +1543,91 @@
         {
           "type": "text",
           "children": [
-            { "type": "text", "value": "Head of the Department of Technological Equipment and Control Systems, Cand. of Tech. Sci. " },
-            { "type": "navlink", "value": "Yuriy SEMENOV", "href": "semenov-yuriy-stanislavovych" },
-            { "type": "text", "value": "," }
+            {
+              "type": "text",
+              "value": "Head of the Department of Technological Equipment and Control Systems, Cand. of Tech. Sci. "
+            },
+            {
+              "type": "navlink",
+              "value": "Yuriy SEMENOV",
+              "href": "semenov-yuriy-stanislavovych"
+            },
+            {
+              "type": "text",
+              "value": ","
+            }
           ]
         },
         {
           "type": "text",
           "children": [
-            { "type": "text", "value": "Senior Researcher of the Department of Heat Treatment of Metal for Mechanical Engineering, Cand. of Tech. Sci. " },
-            { "type": "navlink", "value": "Ihor CHUIKO", "href": "chuiko-ihor-mykolaiovych" },
-            { "type": "text", "value": "," }
+            {
+              "type": "text",
+              "value": "Senior Researcher of the Department of Heat Treatment of Metal for Mechanical Engineering, Cand. of Tech. Sci. "
+            },
+            {
+              "type": "navlink",
+              "value": "Ihor CHUIKO",
+              "href": "chuiko-ihor-mykolaiovych"
+            },
+            {
+              "type": "text",
+              "value": ","
+            }
           ]
         },
         {
           "type": "text",
           "children": [
-            { "type": "text", "value": "Senior Researcher of the Department of Physico-Technical Problems of Steel Metallurgy, Cand. of Tech. Sci. " },
-            { "type": "navlink", "value": "Tetiana HOLUB", "href": "holub-tetiana-serhiivna" },
-            { "type": "text", "value": "," }
+            {
+              "type": "text",
+              "value": "Senior Researcher of the Department of Physico-Technical Problems of Steel Metallurgy, Cand. of Tech. Sci. "
+            },
+            {
+              "type": "navlink",
+              "value": "Tetiana HOLUB",
+              "href": "holub-tetiana-serhiivna"
+            },
+            {
+              "type": "text",
+              "value": ","
+            }
           ]
         },
         {
           "type": "text",
           "children": [
-            { "type": "text", "value": "Senior Researcher of the Department of Structural Steels, Cand. of Tech. Sci. " },
-            { "type": "navlink", "value": "Tetiana BALAKHANOVA", "href": "balahanova-tetjana-valerijivna" },
-            { "type": "text", "value": "," }
+            {
+              "type": "text",
+              "value": "Senior Researcher of the Department of Structural Steels, Cand. of Tech. Sci. "
+            },
+            {
+              "type": "navlink",
+              "value": "Tetiana BALAKHANOVA",
+              "href": "balahanova-tetjana-valerijivna"
+            },
+            {
+              "type": "text",
+              "value": ","
+            }
           ]
         },
         {
           "type": "text",
           "children": [
-            { "type": "text", "value": "Senior Researcher of the Department of Physico-Chemical Problems of Metallurgical Processes, Cand. of Tech. Sci. " },
-            { "type": "navlink", "value": "Iryna POVOROTNIA", "href": "povorotnia" },
-            { "type": "text", "value": "." }
+            {
+              "type": "text",
+              "value": "Senior Researcher of the Department of Physico-Chemical Problems of Metallurgical Processes, Cand. of Tech. Sci. "
+            },
+            {
+              "type": "navlink",
+              "value": "Iryna POVOROTNIA",
+              "href": "povorotnia"
+            },
+            {
+              "type": "text",
+              "value": "."
+            }
           ]
         },
         {
@@ -1664,9 +1722,18 @@
         {
           "type": "list",
           "children": [
-            { "type": "text", "value": "«for» — 65 votes;" },
-            { "type": "text", "value": "«against» — 5 votes;" },
-            { "type": "text", "value": "invalid ballots — 0." }
+            {
+              "type": "text",
+              "value": "«for» — 65 votes;"
+            },
+            {
+              "type": "text",
+              "value": "«against» — 5 votes;"
+            },
+            {
+              "type": "text",
+              "value": "invalid ballots — 0."
+            }
           ]
         },
         {
@@ -1742,8 +1809,7 @@
           "value": "Ballot counting"
         }
       ]
-    }
-    ,
+    },
     {
       "id": 30,
       "title": "Congratulations to Institute scientists on receiving honors from the National Academy of Sciences of Ukraine",
@@ -2015,6 +2081,265 @@
         {
           "type": "text",
           "value": "The proceedings of the Z. I. Nekrasov Iron and Steel Institute of the NAS of Ukraine «Fundamental and Applied Problems of Ferrous Metallurgy» have been included in the List of Scientific Professional Publications of Ukraine for a period of three years from June 1, 2026 to May 31, 2029 with category «B» (Order of the Ministry of Education and Science of Ukraine No. 928 dated June 11, 2026)."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Competition announced for the position of Head of the Laboratory of Heat Engineering and Energy-Saving Technologies of Blast Furnace Production",
+      "text": "The Z. I. Nekrasov Iron and Steel Institute of the NAS of Ukraine announces a competitive selection for the scientific position of Head of the Laboratory of Heat Engineering and Energy-Saving Technologies of Blast Furnace Production of the Department of Pig Iron Metallurgy. The competition is announced from August 5, 2026. The application deadline is September 5, 2026.",
+      "content": [
+        {
+          "type": "text",
+          "value": "In accordance with the Order of the Presidium of the NAS of Ukraine No. 553 dated 04.10.2018 (as amended by the Order of the Presidium of the NAS of Ukraine No. 226 dated 20.04.2021), the Z. I. Nekrasov Iron and Steel Institute of the NAS of Ukraine announces a competitive selection for the scientific position of Head of the Laboratory of Heat Engineering and Energy-Saving Technologies of Blast Furnace Production of the Department of Pig Iron Metallurgy."
+        },
+        {
+          "type": "text",
+          "value": "The competition is announced from August 5, 2026. The final deadline for submitting applications for admission to the competition is September 5, 2026."
+        },
+        {
+          "type": "text",
+          "value": "A competition commission has been established for the preliminary discussion of applicants for vacant research positions. The chair of the commission is the Deputy Director of IChM, Doctor of Technical Sciences, Senior Researcher E. V. Parusov."
+        },
+        {
+          "type": "text",
+          "value": "A Doctor of Sciences or a Doctor of Philosophy (Candidate of Sciences) may apply for the vacant scientific position of Head of the Laboratory. The candidate must have scientific results whose quantity and quality correspond to the level of the vacant scientific position and the specifics of the relevant research area."
+        },
+        {
+          "type": "minititle",
+          "value": "List of documents (for IChM employees)"
+        },
+        {
+          "type": "list",
+          "children": [
+            {
+              "type": "text",
+              "value": "a written application to participate in the competition addressed to the chair of the competition commission;"
+            },
+            {
+              "type": "text",
+              "value": "copies of documents confirming the academic degree and academic title;"
+            },
+            {
+              "type": "text",
+              "value": "a list of scientific works and patents for inventions that have undergone qualification examination over the last five years."
+            }
+          ]
+        },
+        {
+          "type": "minititle",
+          "value": "List of documents (for candidates who do not work at IChM)"
+        },
+        {
+          "type": "list",
+          "children": [
+            {
+              "type": "text",
+              "value": "a written application to participate in the competition addressed to the chair of the competition commission;"
+            },
+            {
+              "type": "text",
+              "value": "a copy of an identity document;"
+            },
+            {
+              "type": "text",
+              "value": "a completed personal record card (questionnaire) of the established form;"
+            },
+            {
+              "type": "text",
+              "value": "an autobiography;"
+            },
+            {
+              "type": "text",
+              "value": "a copy of the employment record book;"
+            },
+            {
+              "type": "text",
+              "value": "copies of documents on higher education, advanced training, awarding of an academic degree, conferral of an academic title, and military registration documents;"
+            },
+            {
+              "type": "text",
+              "value": "a list of scientific works and patents for inventions that have undergone qualification examination over the last five years;"
+            },
+            {
+              "type": "text",
+              "value": "written consent to the processing of personal data."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Documents may be submitted in person, sent by post, or emailed. Documents submitted by email must be provided as scanned PDF files, with each document as a separate file."
+        },
+        {
+          "type": "text",
+          "value": "Candidates may provide additional information about their education, work experience, professional level and reputation (references, recommendations, etc.), as well as their vision for the development of research and developments in the position."
+        },
+        {
+          "type": "minititle",
+          "value": "Contacts"
+        },
+        {
+          "type": "text",
+          "value": "All applications are registered with the Academic Secretary of the Institute, L. I. Harmash. Tel.: 790-05-15. E-mail: office.isi@nas.gov.ua"
+        },
+        {
+          "type": "minititle",
+          "value": "Sample documents"
+        },
+        {
+          "type": "documents",
+          "value": "",
+          "children": [
+            {
+              "type": "text",
+              "value": "Application sample",
+              "href": "/newspics/33/zaiava.docx"
+            },
+            {
+              "type": "text",
+              "value": "Questionnaire sample",
+              "href": "/newspics/33/anketa.doc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Competition announced for scientific research positions",
+      "text": "The Z. I. Nekrasov Iron and Steel Institute of the NAS of Ukraine announces a competitive selection for scientific positions: Researcher in the Department of Pig Iron Metallurgy; Senior Researcher and Junior Researcher in the Department of Heat Treatment of Metal for Mechanical Engineering. The competition is announced from August 5, 2026. The application deadline is September 5, 2026.",
+      "content": [
+        {
+          "type": "text",
+          "value": "In accordance with the Order of the Presidium of the NAS of Ukraine No. 553 dated 04.10.2018 (as amended by the Order of the Presidium of the NAS of Ukraine No. 226 dated 20.04.2021), the Z. I. Nekrasov Iron and Steel Institute of the NAS of Ukraine announces a competitive selection for the following scientific positions:"
+        },
+        {
+          "type": "list",
+          "children": [
+            {
+              "type": "text",
+              "value": "Researcher in the Department of Pig Iron Metallurgy;"
+            },
+            {
+              "type": "text",
+              "value": "Senior Researcher in the Department of Heat Treatment of Metal for Mechanical Engineering;"
+            },
+            {
+              "type": "text",
+              "value": "Junior Researcher in the Department of Heat Treatment of Metal for Mechanical Engineering."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "The competition is announced from August 5, 2026. The final deadline for submitting applications for admission to the competition is September 5, 2026."
+        },
+        {
+          "type": "text",
+          "value": "A competition commission has been established for the preliminary discussion of applicants for vacant research positions. The chair of the commission is the Deputy Director of IChM, Doctor of Technical Sciences, Senior Researcher E. V. Parusov."
+        },
+        {
+          "type": "text",
+          "value": "A Doctor of Sciences or a Doctor of Philosophy (Candidate of Sciences) may apply for the vacant scientific position of Senior Researcher. A Doctor of Philosophy (Candidate of Sciences) or a person holding a Master's degree may apply for the vacant scientific positions of Researcher and Junior Researcher. The candidate must have scientific results whose quantity and quality correspond to the level of the vacant scientific position and the specifics of the relevant research area."
+        },
+        {
+          "type": "minititle",
+          "value": "List of documents (for IChM employees)"
+        },
+        {
+          "type": "list",
+          "children": [
+            {
+              "type": "text",
+              "value": "a written application to participate in the competition addressed to the chair of the competition commission;"
+            },
+            {
+              "type": "text",
+              "value": "copies of documents confirming the academic degree and academic title;"
+            },
+            {
+              "type": "text",
+              "value": "a list of scientific works and patents for inventions that have undergone qualification examination over the last five years."
+            }
+          ]
+        },
+        {
+          "type": "minititle",
+          "value": "List of documents (for candidates who do not work at IChM)"
+        },
+        {
+          "type": "list",
+          "children": [
+            {
+              "type": "text",
+              "value": "a written application to participate in the competition addressed to the chair of the competition commission;"
+            },
+            {
+              "type": "text",
+              "value": "a copy of an identity document;"
+            },
+            {
+              "type": "text",
+              "value": "a completed personal record card (questionnaire) of the established form;"
+            },
+            {
+              "type": "text",
+              "value": "an autobiography;"
+            },
+            {
+              "type": "text",
+              "value": "a copy of the employment record book;"
+            },
+            {
+              "type": "text",
+              "value": "copies of documents on higher education, advanced training, awarding of an academic degree, conferral of an academic title, and military registration documents;"
+            },
+            {
+              "type": "text",
+              "value": "a list of scientific works and patents for inventions that have undergone qualification examination over the last five years;"
+            },
+            {
+              "type": "text",
+              "value": "written consent to the processing of personal data."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Documents may be submitted in person or emailed. Documents submitted by email must be provided as scanned PDF files, with each document as a separate file."
+        },
+        {
+          "type": "text",
+          "value": "Candidates may provide additional information about their education, work experience, professional level and reputation (references, recommendations, etc.), as well as their vision for the development of research and developments in the position."
+        },
+        {
+          "type": "minititle",
+          "value": "Contacts"
+        },
+        {
+          "type": "text",
+          "value": "All applications are registered with the Academic Secretary of the Institute, L. I. Harmash. Tel.: 790-05-15. E-mail: office.isi@nas.gov.ua"
+        },
+        {
+          "type": "minititle",
+          "value": "Sample documents"
+        },
+        {
+          "type": "documents",
+          "value": "",
+          "children": [
+            {
+              "type": "text",
+              "value": "Application sample",
+              "href": "/newspics/34/zaiava.docx"
+            },
+            {
+              "type": "text",
+              "value": "Questionnaire sample",
+              "href": "/newspics/34/anketa.doc"
+            }
+          ]
         }
       ]
     }

@@ -60,7 +60,6 @@
       "imageUrl": "/newspics/13-1.png",
       "date": "10.07.2025"
     },
-
     {
       "id": 15,
       "imageUrl": "/newspics/15/15-1.png",
@@ -150,6 +149,16 @@
       "id": 32,
       "imageUrl": "/newspics/32/32-1.jpg",
       "date": "11.06.2026"
+    },
+    {
+      "id": 33,
+      "imageUrl": "/newspics/33/33-1.jpg",
+      "date": "05.08.2026"
+    },
+    {
+      "id": 34,
+      "imageUrl": "/newspics/34/34-1.jpg",
+      "date": "05.08.2026"
     }
   ]
 }

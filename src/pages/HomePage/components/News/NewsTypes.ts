@@ -8,6 +8,7 @@ export interface NewsContentItem {
 		| 'bold'
 		| 'minititle'
 		| 'list'
+		| 'documents'
 	value: string
 	href?: string
 	children?: NewsContentItem[]

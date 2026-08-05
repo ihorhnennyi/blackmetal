@@ -1,4 +1,6 @@
 import { Box, Typography, Link as MUILink, List, ListItem } from '@mui/material'
+import { DocumentCard } from '@/components'
+import { DocumentCardAdaptation } from '@/components/DocumentCard/styles'
 import { NewsContentItem } from '@/pages/HomePage/components/News/NewsTypes'
 import { Link } from 'react-router-dom'
 
@@ -195,6 +197,29 @@ const renderContent = (item: NewsContentItem, index: number) => {
 					</ListItem>
 				))}
 			</List>
+		)
+	}
+
+	if (item.type === 'documents') {
+		return (
+			<Box
+				key={index}
+				sx={{
+					...DocumentCardAdaptation,
+					mb: 3,
+					mt: 1,
+				}}
+			>
+				{item.children
+					?.filter(doc => doc.href)
+					.map((doc, idx) => (
+						<DocumentCard
+							key={idx}
+							title={doc.value}
+							link={doc.href as string}
+						/>
+					))}
+			</Box>
 		)
 	}
 
